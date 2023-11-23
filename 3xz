@@ -1,0 +1,1000 @@
+Nov 16 17:52:15 ravinder-adsb python3[7317]: 103.171.84.166
+Nov 16 17:52:15 ravinder-adsb python3[7317]: 30012
+Nov 16 17:52:15 ravinder-adsb systemd[1]: feed-data.service: Succeeded.
+Nov 16 17:52:19 ravinder-adsb systemd[1]: feed-data.service: Service RestartSec=3s expired, scheduling restart.
+Nov 16 17:52:19 ravinder-adsb systemd[1]: feed-data.service: Scheduled restart job, restart counter is at 4223.
+Nov 16 17:52:19 ravinder-adsb systemd[1]: Stopped ADSB forwarder.
+Nov 16 17:52:19 ravinder-adsb systemd[1]: Started ADSB forwarder.
+Nov 16 17:52:19 ravinder-adsb python3[7318]: 103.171.84.166
+Nov 16 17:52:19 ravinder-adsb python3[7318]: 30012
+Nov 16 17:52:19 ravinder-adsb systemd[1]: feed-data.service: Succeeded.
+Nov 16 17:52:19 ravinder-adsb reconnect-modem.py[467]: PING 8.8.8.8 (8.8.8.8) from 10.61.208.69 wwan0: 0(28) bytes of data.
+Nov 16 17:52:19 ravinder-adsb reconnect-modem.py[467]: 8 bytes from 8.8.8.8: icmp_seq=1 ttl=114
+Nov 16 17:52:19 ravinder-adsb reconnect-modem.py[467]: --- 8.8.8.8 ping statistics ---
+Nov 16 17:52:19 ravinder-adsb reconnect-modem.py[467]: 1 packets transmitted, 1 received, 0% packet loss, time 0ms
+Nov 16 17:52:22 ravinder-adsb systemd[1]: feed-data.service: Service RestartSec=3s expired, scheduling restart.
+Nov 16 17:52:22 ravinder-adsb systemd[1]: feed-data.service: Scheduled restart job, restart counter is at 4224.
+Nov 16 17:52:22 ravinder-adsb systemd[1]: Stopped ADSB forwarder.
+Nov 16 17:52:22 ravinder-adsb systemd[1]: Started ADSB forwarder.
+Nov 16 17:52:23 ravinder-adsb python3[7321]: 103.171.84.166
+Nov 16 17:52:23 ravinder-adsb python3[7321]: 30012
+Nov 16 17:52:23 ravinder-adsb systemd[1]: feed-data.service: Succeeded.
+Nov 16 17:52:26 ravinder-adsb systemd[1]: feed-data.service: Service RestartSec=3s expired, scheduling restart.
+Nov 16 17:52:26 ravinder-adsb systemd[1]: feed-data.service: Scheduled restart job, restart counter is at 4225.
+Nov 16 17:52:26 ravinder-adsb systemd[1]: Stopped ADSB forwarder.
+Nov 16 17:52:26 ravinder-adsb systemd[1]: Started ADSB forwarder.
+Nov 16 17:52:26 ravinder-adsb python3[7322]: 103.171.84.166
+Nov 16 17:52:26 ravinder-adsb python3[7322]: 30012
+Nov 16 17:52:27 ravinder-adsb systemd[1]: feed-data.service: Succeeded.
+Nov 16 17:52:29 ravinder-adsb reconnect-modem.py[467]: PING 103.171.84.166 (103.171.84.166) 0(28) bytes of data.
+Nov 16 17:52:29 ravinder-adsb reconnect-modem.py[467]: --- 103.171.84.166 ping statistics ---
+Nov 16 17:52:29 ravinder-adsb reconnect-modem.py[467]: 10 packets transmitted, 0 received, 100% packet loss, time 380ms
+Nov 16 17:52:30 ravinder-adsb systemd[1]: feed-data.service: Service RestartSec=3s expired, scheduling restart.
+Nov 16 17:52:30 ravinder-adsb systemd[1]: feed-data.service: Scheduled restart job, restart counter is at 4226.
+Nov 16 17:52:30 ravinder-adsb systemd[1]: Stopped ADSB forwarder.
+Nov 16 17:52:30 ravinder-adsb systemd[1]: Started ADSB forwarder.
+Nov 16 17:52:30 ravinder-adsb python3[7323]: 103.171.84.166
+Nov 16 17:52:30 ravinder-adsb python3[7323]: 30012
+Nov 16 17:52:30 ravinder-adsb systemd[1]: feed-data.service: Succeeded.
+Nov 16 17:52:34 ravinder-adsb systemd[1]: feed-data.service: Service RestartSec=3s expired, scheduling restart.
+Nov 16 17:52:34 ravinder-adsb systemd[1]: feed-data.service: Scheduled restart job, restart counter is at 4227.
+Nov 16 17:52:34 ravinder-adsb systemd[1]: Stopped ADSB forwarder.
+Nov 16 17:52:34 ravinder-adsb systemd[1]: Started ADSB forwarder.
+Nov 16 17:52:34 ravinder-adsb python3[7324]: 103.171.84.166
+Nov 16 17:52:34 ravinder-adsb python3[7324]: 30012
+Nov 16 17:52:34 ravinder-adsb systemd[1]: feed-data.service: Succeeded.
+Nov 16 17:52:35 ravinder-adsb reconnect-modem.py[467]: PING 8.8.8.8 (8.8.8.8) from 10.61.208.69 wwan0: 0(28) bytes of data.
+Nov 16 17:52:35 ravinder-adsb reconnect-modem.py[467]: 8 bytes from 8.8.8.8: icmp_seq=1 ttl=114
+Nov 16 17:52:35 ravinder-adsb reconnect-modem.py[467]: --- 8.8.8.8 ping statistics ---
+Nov 16 17:52:35 ravinder-adsb reconnect-modem.py[467]: 1 packets transmitted, 1 received, 0% packet loss, time 0ms
+Nov 16 17:52:37 ravinder-adsb systemd[1]: feed-data.service: Service RestartSec=3s expired, scheduling restart.
+Nov 16 17:52:37 ravinder-adsb systemd[1]: feed-data.service: Scheduled restart job, restart counter is at 4228.
+Nov 16 17:52:37 ravinder-adsb systemd[1]: Stopped ADSB forwarder.
+Nov 16 17:52:37 ravinder-adsb systemd[1]: Started ADSB forwarder.
+Nov 16 17:52:38 ravinder-adsb python3[7327]: 103.171.84.166
+Nov 16 17:52:38 ravinder-adsb python3[7327]: 30012
+Nov 16 17:52:38 ravinder-adsb systemd[1]: feed-data.service: Succeeded.
+Nov 16 17:52:41 ravinder-adsb systemd[1]: feed-data.service: Service RestartSec=3s expired, scheduling restart.
+Nov 16 17:52:41 ravinder-adsb systemd[1]: feed-data.service: Scheduled restart job, restart counter is at 4229.
+Nov 16 17:52:41 ravinder-adsb systemd[1]: Stopped ADSB forwarder.
+Nov 16 17:52:41 ravinder-adsb systemd[1]: Started ADSB forwarder.
+Nov 16 17:52:41 ravinder-adsb python3[7328]: 103.171.84.166
+Nov 16 17:52:41 ravinder-adsb python3[7328]: 30012
+Nov 16 17:52:42 ravinder-adsb systemd[1]: feed-data.service: Succeeded.
+Nov 16 17:52:45 ravinder-adsb reconnect-modem.py[467]: PING 103.171.84.166 (103.171.84.166) 0(28) bytes of data.
+Nov 16 17:52:45 ravinder-adsb reconnect-modem.py[467]: --- 103.171.84.166 ping statistics ---
+Nov 16 17:52:45 ravinder-adsb reconnect-modem.py[467]: 10 packets transmitted, 0 received, 100% packet loss, time 383ms
+Nov 16 17:52:45 ravinder-adsb systemd[1]: feed-data.service: Service RestartSec=3s expired, scheduling restart.
+Nov 16 17:52:45 ravinder-adsb systemd[1]: feed-data.service: Scheduled restart job, restart counter is at 4230.
+Nov 16 17:52:45 ravinder-adsb systemd[1]: Stopped ADSB forwarder.
+Nov 16 17:52:45 ravinder-adsb systemd[1]: Started ADSB forwarder.
+Nov 16 17:52:45 ravinder-adsb python3[7329]: 103.171.84.166
+Nov 16 17:52:45 ravinder-adsb python3[7329]: 30012
+Nov 16 17:52:45 ravinder-adsb systemd[1]: feed-data.service: Succeeded.
+Nov 16 17:52:49 ravinder-adsb systemd[1]: feed-data.service: Service RestartSec=3s expired, scheduling restart.
+Nov 16 17:52:49 ravinder-adsb systemd[1]: feed-data.service: Scheduled restart job, restart counter is at 4231.
+Nov 16 17:52:49 ravinder-adsb systemd[1]: Stopped ADSB forwarder.
+Nov 16 17:52:49 ravinder-adsb systemd[1]: Started ADSB forwarder.
+Nov 16 17:52:49 ravinder-adsb python3[7330]: 103.171.84.166
+Nov 16 17:52:49 ravinder-adsb python3[7330]: 30012
+Nov 16 17:52:49 ravinder-adsb systemd[1]: feed-data.service: Succeeded.
+Nov 16 17:52:50 ravinder-adsb reconnect-modem.py[467]: PING 8.8.8.8 (8.8.8.8) from 10.61.208.69 wwan0: 0(28) bytes of data.
+Nov 16 17:52:50 ravinder-adsb reconnect-modem.py[467]: 8 bytes from 8.8.8.8: icmp_seq=1 ttl=114
+Nov 16 17:52:50 ravinder-adsb reconnect-modem.py[467]: --- 8.8.8.8 ping statistics ---
+Nov 16 17:52:50 ravinder-adsb reconnect-modem.py[467]: 1 packets transmitted, 1 received, 0% packet loss, time 0ms
+Nov 16 17:52:52 ravinder-adsb systemd[1]: feed-data.service: Service RestartSec=3s expired, scheduling restart.
+Nov 16 17:52:52 ravinder-adsb systemd[1]: feed-data.service: Scheduled restart job, restart counter is at 4232.
+Nov 16 17:52:52 ravinder-adsb systemd[1]: Stopped ADSB forwarder.
+Nov 16 17:52:52 ravinder-adsb systemd[1]: Started ADSB forwarder.
+Nov 16 17:52:53 ravinder-adsb python3[7333]: 103.171.84.166
+Nov 16 17:52:53 ravinder-adsb python3[7333]: 30012
+Nov 16 17:52:53 ravinder-adsb systemd[1]: feed-data.service: Succeeded.
+Nov 16 17:52:56 ravinder-adsb systemd[1]: feed-data.service: Service RestartSec=3s expired, scheduling restart.
+Nov 16 17:52:56 ravinder-adsb systemd[1]: feed-data.service: Scheduled restart job, restart counter is at 4233.
+Nov 16 17:52:56 ravinder-adsb systemd[1]: Stopped ADSB forwarder.
+Nov 16 17:52:56 ravinder-adsb systemd[1]: Started ADSB forwarder.
+Nov 16 17:52:56 ravinder-adsb python3[7334]: 103.171.84.166
+Nov 16 17:52:56 ravinder-adsb python3[7334]: 30012
+Nov 16 17:52:57 ravinder-adsb systemd[1]: feed-data.service: Succeeded.
+Nov 16 17:53:00 ravinder-adsb reconnect-modem.py[467]: PING 103.171.84.166 (103.171.84.166) 0(28) bytes of data.
+Nov 16 17:53:00 ravinder-adsb reconnect-modem.py[467]: --- 103.171.84.166 ping statistics ---
+Nov 16 17:53:00 ravinder-adsb reconnect-modem.py[467]: 10 packets transmitted, 0 received, 100% packet loss, time 383ms
+Nov 16 17:53:00 ravinder-adsb systemd[1]: feed-data.service: Service RestartSec=3s expired, scheduling restart.
+Nov 16 17:53:00 ravinder-adsb systemd[1]: feed-data.service: Scheduled restart job, restart counter is at 4234.
+Nov 16 17:53:00 ravinder-adsb systemd[1]: Stopped ADSB forwarder.
+Nov 16 17:53:00 ravinder-adsb systemd[1]: Started ADSB forwarder.
+Nov 16 17:53:00 ravinder-adsb python3[7335]: 103.171.84.166
+Nov 16 17:53:00 ravinder-adsb python3[7335]: 30012
+Nov 16 17:53:00 ravinder-adsb systemd[1]: feed-data.service: Succeeded.
+Nov 16 17:53:04 ravinder-adsb systemd[1]: feed-data.service: Service RestartSec=3s expired, scheduling restart.
+Nov 16 17:53:04 ravinder-adsb systemd[1]: feed-data.service: Scheduled restart job, restart counter is at 4235.
+Nov 16 17:53:04 ravinder-adsb systemd[1]: Stopped ADSB forwarder.
+Nov 16 17:53:04 ravinder-adsb systemd[1]: Started ADSB forwarder.
+Nov 16 17:53:04 ravinder-adsb python3[7337]: 103.171.84.166
+Nov 16 17:53:04 ravinder-adsb python3[7337]: 30012
+Nov 16 17:53:04 ravinder-adsb systemd[1]: feed-data.service: Succeeded.
+Nov 16 17:53:05 ravinder-adsb reconnect-modem.py[467]: PING 8.8.8.8 (8.8.8.8) from 10.61.208.69 wwan0: 0(28) bytes of data.
+Nov 16 17:53:05 ravinder-adsb reconnect-modem.py[467]: 8 bytes from 8.8.8.8: icmp_seq=1 ttl=114
+Nov 16 17:53:05 ravinder-adsb reconnect-modem.py[467]: --- 8.8.8.8 ping statistics ---
+Nov 16 17:53:05 ravinder-adsb reconnect-modem.py[467]: 1 packets transmitted, 1 received, 0% packet loss, time 0ms
+Nov 16 17:53:07 ravinder-adsb systemd[1]: feed-data.service: Service RestartSec=3s expired, scheduling restart.
+Nov 16 17:53:07 ravinder-adsb systemd[1]: feed-data.service: Scheduled restart job, restart counter is at 4236.
+Nov 16 17:53:07 ravinder-adsb systemd[1]: Stopped ADSB forwarder.
+Nov 16 17:53:07 ravinder-adsb systemd[1]: Started ADSB forwarder.
+Nov 16 17:53:08 ravinder-adsb python3[7340]: 103.171.84.166
+Nov 16 17:53:08 ravinder-adsb python3[7340]: 30012
+Nov 16 17:53:08 ravinder-adsb systemd[1]: feed-data.service: Succeeded.
+Nov 16 17:53:11 ravinder-adsb systemd[1]: feed-data.service: Service RestartSec=3s expired, scheduling restart.
+Nov 16 17:53:11 ravinder-adsb systemd[1]: feed-data.service: Scheduled restart job, restart counter is at 4237.
+Nov 16 17:53:11 ravinder-adsb systemd[1]: Stopped ADSB forwarder.
+Nov 16 17:53:11 ravinder-adsb systemd[1]: Started ADSB forwarder.
+Nov 16 17:53:11 ravinder-adsb python3[7341]: 103.171.84.166
+Nov 16 17:53:11 ravinder-adsb python3[7341]: 30012
+Nov 16 17:53:12 ravinder-adsb systemd[1]: feed-data.service: Succeeded.
+Nov 16 17:53:15 ravinder-adsb systemd[1]: feed-data.service: Service RestartSec=3s expired, scheduling restart.
+Nov 16 17:53:15 ravinder-adsb systemd[1]: feed-data.service: Scheduled restart job, restart counter is at 4238.
+Nov 16 17:53:15 ravinder-adsb systemd[1]: Stopped ADSB forwarder.
+Nov 16 17:53:15 ravinder-adsb systemd[1]: Started ADSB forwarder.
+Nov 16 17:53:15 ravinder-adsb reconnect-modem.py[467]: PING 103.171.84.166 (103.171.84.166) 0(28) bytes of data.
+Nov 16 17:53:15 ravinder-adsb reconnect-modem.py[467]: --- 103.171.84.166 ping statistics ---
+Nov 16 17:53:15 ravinder-adsb reconnect-modem.py[467]: 10 packets transmitted, 0 received, 100% packet loss, time 377ms
+Nov 16 17:53:15 ravinder-adsb python3[7342]: 103.171.84.166
+Nov 16 17:53:15 ravinder-adsb python3[7342]: 30012
+Nov 16 17:53:15 ravinder-adsb systemd[1]: feed-data.service: Succeeded.
+Nov 16 17:53:18 ravinder-adsb systemd[1]: feed-data.service: Service RestartSec=3s expired, scheduling restart.
+Nov 16 17:53:18 ravinder-adsb systemd[1]: feed-data.service: Scheduled restart job, restart counter is at 4239.
+Nov 16 17:53:18 ravinder-adsb systemd[1]: Stopped ADSB forwarder.
+Nov 16 17:53:18 ravinder-adsb systemd[1]: Started ADSB forwarder.
+Nov 16 17:53:19 ravinder-adsb python3[7343]: 103.171.84.166
+Nov 16 17:53:19 ravinder-adsb python3[7343]: 30012
+Nov 16 17:53:19 ravinder-adsb systemd[1]: feed-data.service: Succeeded.
+Nov 16 17:53:20 ravinder-adsb reconnect-modem.py[467]: PING 8.8.8.8 (8.8.8.8) from 10.61.208.69 wwan0: 0(28) bytes of data.
+Nov 16 17:53:20 ravinder-adsb reconnect-modem.py[467]: 8 bytes from 8.8.8.8: icmp_seq=1 ttl=114
+Nov 16 17:53:20 ravinder-adsb reconnect-modem.py[467]: --- 8.8.8.8 ping statistics ---
+Nov 16 17:53:20 ravinder-adsb reconnect-modem.py[467]: 1 packets transmitted, 1 received, 0% packet loss, time 0ms
+Nov 16 17:53:22 ravinder-adsb systemd[1]: feed-data.service: Service RestartSec=3s expired, scheduling restart.
+Nov 16 17:53:22 ravinder-adsb systemd[1]: feed-data.service: Scheduled restart job, restart counter is at 4240.
+Nov 16 17:53:22 ravinder-adsb systemd[1]: Stopped ADSB forwarder.
+Nov 16 17:53:22 ravinder-adsb systemd[1]: Started ADSB forwarder.
+Nov 16 17:53:22 ravinder-adsb python3[7346]: 103.171.84.166
+Nov 16 17:53:22 ravinder-adsb python3[7346]: 30012
+Nov 16 17:53:23 ravinder-adsb systemd[1]: feed-data.service: Succeeded.
+Nov 16 17:53:26 ravinder-adsb systemd[1]: feed-data.service: Service RestartSec=3s expired, scheduling restart.
+Nov 16 17:53:26 ravinder-adsb systemd[1]: feed-data.service: Scheduled restart job, restart counter is at 4241.
+Nov 16 17:53:26 ravinder-adsb systemd[1]: Stopped ADSB forwarder.
+Nov 16 17:53:26 ravinder-adsb systemd[1]: Started ADSB forwarder.
+Nov 16 17:53:26 ravinder-adsb python3[7347]: 103.171.84.166
+Nov 16 17:53:26 ravinder-adsb python3[7347]: 30012
+Nov 16 17:53:26 ravinder-adsb systemd[1]: feed-data.service: Succeeded.
+Nov 16 17:53:30 ravinder-adsb systemd[1]: feed-data.service: Service RestartSec=3s expired, scheduling restart.
+Nov 16 17:53:30 ravinder-adsb systemd[1]: feed-data.service: Scheduled restart job, restart counter is at 4242.
+Nov 16 17:53:30 ravinder-adsb systemd[1]: Stopped ADSB forwarder.
+Nov 16 17:53:30 ravinder-adsb systemd[1]: Started ADSB forwarder.
+Nov 16 17:53:30 ravinder-adsb reconnect-modem.py[467]: PING 103.171.84.166 (103.171.84.166) 0(28) bytes of data.
+Nov 16 17:53:30 ravinder-adsb reconnect-modem.py[467]: --- 103.171.84.166 ping statistics ---
+Nov 16 17:53:30 ravinder-adsb reconnect-modem.py[467]: 10 packets transmitted, 0 received, 100% packet loss, time 364ms
+Nov 16 17:53:30 ravinder-adsb python3[7348]: 103.171.84.166
+Nov 16 17:53:30 ravinder-adsb python3[7348]: 30012
+Nov 16 17:53:30 ravinder-adsb systemd[1]: feed-data.service: Succeeded.
+Nov 16 17:53:33 ravinder-adsb systemd[1]: feed-data.service: Service RestartSec=3s expired, scheduling restart.
+Nov 16 17:53:33 ravinder-adsb systemd[1]: feed-data.service: Scheduled restart job, restart counter is at 4243.
+Nov 16 17:53:33 ravinder-adsb systemd[1]: Stopped ADSB forwarder.
+Nov 16 17:53:33 ravinder-adsb systemd[1]: Started ADSB forwarder.
+Nov 16 17:53:34 ravinder-adsb python3[7349]: 103.171.84.166
+Nov 16 17:53:34 ravinder-adsb python3[7349]: 30012
+Nov 16 17:53:34 ravinder-adsb systemd[1]: feed-data.service: Succeeded.
+Nov 16 17:53:35 ravinder-adsb reconnect-modem.py[467]: PING 8.8.8.8 (8.8.8.8) from 10.61.208.69 wwan0: 0(28) bytes of data.
+Nov 16 17:53:35 ravinder-adsb reconnect-modem.py[467]: 8 bytes from 8.8.8.8: icmp_seq=1 ttl=114
+Nov 16 17:53:35 ravinder-adsb reconnect-modem.py[467]: --- 8.8.8.8 ping statistics ---
+Nov 16 17:53:35 ravinder-adsb reconnect-modem.py[467]: 1 packets transmitted, 1 received, 0% packet loss, time 0ms
+Nov 16 17:53:37 ravinder-adsb systemd[1]: feed-data.service: Service RestartSec=3s expired, scheduling restart.
+Nov 16 17:53:37 ravinder-adsb systemd[1]: feed-data.service: Scheduled restart job, restart counter is at 4244.
+Nov 16 17:53:37 ravinder-adsb systemd[1]: Stopped ADSB forwarder.
+Nov 16 17:53:37 ravinder-adsb systemd[1]: Started ADSB forwarder.
+Nov 16 17:53:37 ravinder-adsb python3[7352]: 103.171.84.166
+Nov 16 17:53:37 ravinder-adsb python3[7352]: 30012
+Nov 16 17:53:38 ravinder-adsb systemd[1]: feed-data.service: Succeeded.
+Nov 16 17:53:41 ravinder-adsb systemd[1]: feed-data.service: Service RestartSec=3s expired, scheduling restart.
+Nov 16 17:53:41 ravinder-adsb systemd[1]: feed-data.service: Scheduled restart job, restart counter is at 4245.
+Nov 16 17:53:41 ravinder-adsb systemd[1]: Stopped ADSB forwarder.
+Nov 16 17:53:41 ravinder-adsb systemd[1]: Started ADSB forwarder.
+Nov 16 17:53:41 ravinder-adsb python3[7353]: 103.171.84.166
+Nov 16 17:53:41 ravinder-adsb python3[7353]: 30012
+Nov 16 17:53:41 ravinder-adsb systemd[1]: feed-data.service: Succeeded.
+Nov 16 17:53:45 ravinder-adsb systemd[1]: feed-data.service: Service RestartSec=3s expired, scheduling restart.
+Nov 16 17:53:45 ravinder-adsb systemd[1]: feed-data.service: Scheduled restart job, restart counter is at 4246.
+Nov 16 17:53:45 ravinder-adsb systemd[1]: Stopped ADSB forwarder.
+Nov 16 17:53:45 ravinder-adsb systemd[1]: Started ADSB forwarder.
+Nov 16 17:53:45 ravinder-adsb python3[7354]: 103.171.84.166
+Nov 16 17:53:45 ravinder-adsb python3[7354]: 30012
+Nov 16 17:53:45 ravinder-adsb systemd[1]: feed-data.service: Succeeded.
+Nov 16 17:53:45 ravinder-adsb reconnect-modem.py[467]: PING 103.171.84.166 (103.171.84.166) 0(28) bytes of data.
+Nov 16 17:53:45 ravinder-adsb reconnect-modem.py[467]: --- 103.171.84.166 ping statistics ---
+Nov 16 17:53:45 ravinder-adsb reconnect-modem.py[467]: 10 packets transmitted, 0 received, 100% packet loss, time 373ms
+Nov 16 17:53:48 ravinder-adsb systemd[1]: feed-data.service: Service RestartSec=3s expired, scheduling restart.
+Nov 16 17:53:48 ravinder-adsb systemd[1]: feed-data.service: Scheduled restart job, restart counter is at 4247.
+Nov 16 17:53:48 ravinder-adsb systemd[1]: Stopped ADSB forwarder.
+Nov 16 17:53:48 ravinder-adsb systemd[1]: Started ADSB forwarder.
+Nov 16 17:53:49 ravinder-adsb python3[7355]: 103.171.84.166
+Nov 16 17:53:49 ravinder-adsb python3[7355]: 30012
+Nov 16 17:53:49 ravinder-adsb systemd[1]: feed-data.service: Succeeded.
+Nov 16 17:53:50 ravinder-adsb reconnect-modem.py[467]: PING 8.8.8.8 (8.8.8.8) from 10.61.208.69 wwan0: 0(28) bytes of data.
+Nov 16 17:53:50 ravinder-adsb reconnect-modem.py[467]: 8 bytes from 8.8.8.8: icmp_seq=1 ttl=114
+Nov 16 17:53:50 ravinder-adsb reconnect-modem.py[467]: --- 8.8.8.8 ping statistics ---
+Nov 16 17:53:50 ravinder-adsb reconnect-modem.py[467]: 1 packets transmitted, 1 received, 0% packet loss, time 0ms
+Nov 16 17:53:52 ravinder-adsb systemd[1]: feed-data.service: Service RestartSec=3s expired, scheduling restart.
+Nov 16 17:53:52 ravinder-adsb systemd[1]: feed-data.service: Scheduled restart job, restart counter is at 4248.
+Nov 16 17:53:52 ravinder-adsb systemd[1]: Stopped ADSB forwarder.
+Nov 16 17:53:52 ravinder-adsb systemd[1]: Started ADSB forwarder.
+Nov 16 17:53:52 ravinder-adsb python3[7359]: 103.171.84.166
+Nov 16 17:53:52 ravinder-adsb python3[7359]: 30012
+Nov 16 17:53:52 ravinder-adsb systemd[1]: feed-data.service: Succeeded.
+Nov 16 17:53:56 ravinder-adsb systemd[1]: feed-data.service: Service RestartSec=3s expired, scheduling restart.
+Nov 16 17:53:56 ravinder-adsb systemd[1]: feed-data.service: Scheduled restart job, restart counter is at 4249.
+Nov 16 17:53:56 ravinder-adsb systemd[1]: Stopped ADSB forwarder.
+Nov 16 17:53:56 ravinder-adsb systemd[1]: Started ADSB forwarder.
+Nov 16 17:53:56 ravinder-adsb python3[7360]: 103.171.84.166
+Nov 16 17:53:56 ravinder-adsb python3[7360]: 30012
+Nov 16 17:53:56 ravinder-adsb systemd[1]: feed-data.service: Succeeded.
+Nov 16 17:53:59 ravinder-adsb systemd[1]: feed-data.service: Service RestartSec=3s expired, scheduling restart.
+Nov 16 17:53:59 ravinder-adsb systemd[1]: feed-data.service: Scheduled restart job, restart counter is at 4250.
+Nov 16 17:53:59 ravinder-adsb systemd[1]: Stopped ADSB forwarder.
+Nov 16 17:53:59 ravinder-adsb systemd[1]: Started ADSB forwarder.
+Nov 16 17:54:00 ravinder-adsb python3[7361]: 103.171.84.166
+Nov 16 17:54:00 ravinder-adsb python3[7361]: 30012
+Nov 16 17:54:00 ravinder-adsb systemd[1]: feed-data.service: Succeeded.
+Nov 16 17:54:00 ravinder-adsb reconnect-modem.py[467]: PING 103.171.84.166 (103.171.84.166) 0(28) bytes of data.
+Nov 16 17:54:00 ravinder-adsb reconnect-modem.py[467]: --- 103.171.84.166 ping statistics ---
+Nov 16 17:54:00 ravinder-adsb reconnect-modem.py[467]: 10 packets transmitted, 0 received, 100% packet loss, time 378ms
+Nov 16 17:54:03 ravinder-adsb systemd[1]: feed-data.service: Service RestartSec=3s expired, scheduling restart.
+Nov 16 17:54:03 ravinder-adsb systemd[1]: feed-data.service: Scheduled restart job, restart counter is at 4251.
+Nov 16 17:54:03 ravinder-adsb systemd[1]: Stopped ADSB forwarder.
+Nov 16 17:54:03 ravinder-adsb systemd[1]: Started ADSB forwarder.
+Nov 16 17:54:03 ravinder-adsb python3[7362]: 103.171.84.166
+Nov 16 17:54:03 ravinder-adsb python3[7362]: 30012
+Nov 16 17:54:04 ravinder-adsb systemd[1]: feed-data.service: Succeeded.
+Nov 16 17:54:05 ravinder-adsb reconnect-modem.py[467]: PING 8.8.8.8 (8.8.8.8) from 10.61.208.69 wwan0: 0(28) bytes of data.
+Nov 16 17:54:05 ravinder-adsb reconnect-modem.py[467]: 8 bytes from 8.8.8.8: icmp_seq=1 ttl=114
+Nov 16 17:54:05 ravinder-adsb reconnect-modem.py[467]: --- 8.8.8.8 ping statistics ---
+Nov 16 17:54:05 ravinder-adsb reconnect-modem.py[467]: 1 packets transmitted, 1 received, 0% packet loss, time 0ms
+Nov 16 17:54:07 ravinder-adsb systemd[1]: feed-data.service: Service RestartSec=3s expired, scheduling restart.
+Nov 16 17:54:07 ravinder-adsb systemd[1]: feed-data.service: Scheduled restart job, restart counter is at 4252.
+Nov 16 17:54:07 ravinder-adsb systemd[1]: Stopped ADSB forwarder.
+Nov 16 17:54:07 ravinder-adsb systemd[1]: Started ADSB forwarder.
+Nov 16 17:54:07 ravinder-adsb python3[7365]: 103.171.84.166
+Nov 16 17:54:07 ravinder-adsb python3[7365]: 30012
+Nov 16 17:54:07 ravinder-adsb systemd[1]: feed-data.service: Succeeded.
+Nov 16 17:54:11 ravinder-adsb systemd[1]: feed-data.service: Service RestartSec=3s expired, scheduling restart.
+Nov 16 17:54:11 ravinder-adsb systemd[1]: feed-data.service: Scheduled restart job, restart counter is at 4253.
+Nov 16 17:54:11 ravinder-adsb systemd[1]: Stopped ADSB forwarder.
+Nov 16 17:54:11 ravinder-adsb systemd[1]: Started ADSB forwarder.
+Nov 16 17:54:11 ravinder-adsb python3[7366]: 103.171.84.166
+Nov 16 17:54:11 ravinder-adsb python3[7366]: 30012
+Nov 16 17:54:11 ravinder-adsb systemd[1]: feed-data.service: Succeeded.
+Nov 16 17:54:14 ravinder-adsb systemd[1]: feed-data.service: Service RestartSec=3s expired, scheduling restart.
+Nov 16 17:54:14 ravinder-adsb systemd[1]: feed-data.service: Scheduled restart job, restart counter is at 4254.
+Nov 16 17:54:14 ravinder-adsb systemd[1]: Stopped ADSB forwarder.
+Nov 16 17:54:14 ravinder-adsb systemd[1]: Started ADSB forwarder.
+Nov 16 17:54:14 ravinder-adsb python3[7367]: 103.171.84.166
+Nov 16 17:54:14 ravinder-adsb python3[7367]: 30012
+Nov 16 17:54:15 ravinder-adsb systemd[1]: feed-data.service: Succeeded.
+Nov 16 17:54:15 ravinder-adsb reconnect-modem.py[467]: PING 103.171.84.166 (103.171.84.166) 0(28) bytes of data.
+Nov 16 17:54:15 ravinder-adsb reconnect-modem.py[467]: --- 103.171.84.166 ping statistics ---
+Nov 16 17:54:15 ravinder-adsb reconnect-modem.py[467]: 10 packets transmitted, 0 received, 100% packet loss, time 371ms
+Nov 16 17:54:18 ravinder-adsb systemd[1]: feed-data.service: Service RestartSec=3s expired, scheduling restart.
+Nov 16 17:54:18 ravinder-adsb systemd[1]: feed-data.service: Scheduled restart job, restart counter is at 4255.
+Nov 16 17:54:18 ravinder-adsb systemd[1]: Stopped ADSB forwarder.
+Nov 16 17:54:18 ravinder-adsb systemd[1]: Started ADSB forwarder.
+Nov 16 17:54:18 ravinder-adsb python3[7368]: 103.171.84.166
+Nov 16 17:54:18 ravinder-adsb python3[7368]: 30012
+Nov 16 17:54:18 ravinder-adsb systemd[1]: feed-data.service: Succeeded.
+Nov 16 17:54:20 ravinder-adsb reconnect-modem.py[467]: PING 8.8.8.8 (8.8.8.8) from 10.61.208.69 wwan0: 0(28) bytes of data.
+Nov 16 17:54:20 ravinder-adsb reconnect-modem.py[467]: 8 bytes from 8.8.8.8: icmp_seq=1 ttl=114
+Nov 16 17:54:20 ravinder-adsb reconnect-modem.py[467]: --- 8.8.8.8 ping statistics ---
+Nov 16 17:54:20 ravinder-adsb reconnect-modem.py[467]: 1 packets transmitted, 1 received, 0% packet loss, time 0ms
+Nov 16 17:54:22 ravinder-adsb systemd[1]: feed-data.service: Service RestartSec=3s expired, scheduling restart.
+Nov 16 17:54:22 ravinder-adsb systemd[1]: feed-data.service: Scheduled restart job, restart counter is at 4256.
+Nov 16 17:54:22 ravinder-adsb systemd[1]: Stopped ADSB forwarder.
+Nov 16 17:54:22 ravinder-adsb systemd[1]: Started ADSB forwarder.
+Nov 16 17:54:22 ravinder-adsb python3[7371]: 103.171.84.166
+Nov 16 17:54:22 ravinder-adsb python3[7371]: 30012
+Nov 16 17:54:22 ravinder-adsb systemd[1]: feed-data.service: Succeeded.
+Nov 16 17:54:25 ravinder-adsb systemd[1]: feed-data.service: Service RestartSec=3s expired, scheduling restart.
+Nov 16 17:54:25 ravinder-adsb systemd[1]: feed-data.service: Scheduled restart job, restart counter is at 4257.
+Nov 16 17:54:25 ravinder-adsb systemd[1]: Stopped ADSB forwarder.
+Nov 16 17:54:25 ravinder-adsb systemd[1]: Started ADSB forwarder.
+Nov 16 17:54:26 ravinder-adsb python3[7372]: 103.171.84.166
+Nov 16 17:54:26 ravinder-adsb python3[7372]: 30012
+Nov 16 17:54:26 ravinder-adsb systemd[1]: feed-data.service: Succeeded.
+Nov 16 17:54:29 ravinder-adsb systemd[1]: feed-data.service: Service RestartSec=3s expired, scheduling restart.
+Nov 16 17:54:29 ravinder-adsb systemd[1]: feed-data.service: Scheduled restart job, restart counter is at 4258.
+Nov 16 17:54:29 ravinder-adsb systemd[1]: Stopped ADSB forwarder.
+Nov 16 17:54:29 ravinder-adsb systemd[1]: Started ADSB forwarder.
+Nov 16 17:54:29 ravinder-adsb python3[7373]: 103.171.84.166
+Nov 16 17:54:29 ravinder-adsb python3[7373]: 30012
+Nov 16 17:54:29 ravinder-adsb systemd[1]: feed-data.service: Succeeded.
+Nov 16 17:54:30 ravinder-adsb reconnect-modem.py[467]: PING 103.171.84.166 (103.171.84.166) 0(28) bytes of data.
+Nov 16 17:54:30 ravinder-adsb reconnect-modem.py[467]: --- 103.171.84.166 ping statistics ---
+Nov 16 17:54:30 ravinder-adsb reconnect-modem.py[467]: 10 packets transmitted, 0 received, 100% packet loss, time 378ms
+Nov 16 17:54:33 ravinder-adsb systemd[1]: feed-data.service: Service RestartSec=3s expired, scheduling restart.
+Nov 16 17:54:33 ravinder-adsb systemd[1]: feed-data.service: Scheduled restart job, restart counter is at 4259.
+Nov 16 17:54:33 ravinder-adsb systemd[1]: Stopped ADSB forwarder.
+Nov 16 17:54:33 ravinder-adsb systemd[1]: Started ADSB forwarder.
+Nov 16 17:54:33 ravinder-adsb python3[7374]: 103.171.84.166
+Nov 16 17:54:33 ravinder-adsb python3[7374]: 30012
+Nov 16 17:54:33 ravinder-adsb systemd[1]: feed-data.service: Succeeded.
+Nov 16 17:54:35 ravinder-adsb reconnect-modem.py[467]: PING 8.8.8.8 (8.8.8.8) from 10.61.208.69 wwan0: 0(28) bytes of data.
+Nov 16 17:54:35 ravinder-adsb reconnect-modem.py[467]: 8 bytes from 8.8.8.8: icmp_seq=1 ttl=114
+Nov 16 17:54:35 ravinder-adsb reconnect-modem.py[467]: --- 8.8.8.8 ping statistics ---
+Nov 16 17:54:35 ravinder-adsb reconnect-modem.py[467]: 1 packets transmitted, 1 received, 0% packet loss, time 0ms
+Nov 16 17:54:36 ravinder-adsb systemd[1]: feed-data.service: Service RestartSec=3s expired, scheduling restart.
+Nov 16 17:54:36 ravinder-adsb systemd[1]: feed-data.service: Scheduled restart job, restart counter is at 4260.
+Nov 16 17:54:36 ravinder-adsb systemd[1]: Stopped ADSB forwarder.
+Nov 16 17:54:36 ravinder-adsb systemd[1]: Started ADSB forwarder.
+Nov 16 17:54:37 ravinder-adsb python3[7377]: 103.171.84.166
+Nov 16 17:54:37 ravinder-adsb python3[7377]: 30012
+Nov 16 17:54:37 ravinder-adsb systemd[1]: feed-data.service: Succeeded.
+Nov 16 17:54:40 ravinder-adsb systemd[1]: feed-data.service: Service RestartSec=3s expired, scheduling restart.
+Nov 16 17:54:40 ravinder-adsb systemd[1]: feed-data.service: Scheduled restart job, restart counter is at 4261.
+Nov 16 17:54:40 ravinder-adsb systemd[1]: Stopped ADSB forwarder.
+Nov 16 17:54:40 ravinder-adsb systemd[1]: Started ADSB forwarder.
+Nov 16 17:54:40 ravinder-adsb python3[7378]: 103.171.84.166
+Nov 16 17:54:40 ravinder-adsb python3[7378]: 30012
+Nov 16 17:54:41 ravinder-adsb systemd[1]: feed-data.service: Succeeded.
+Nov 16 17:54:44 ravinder-adsb systemd[1]: feed-data.service: Service RestartSec=3s expired, scheduling restart.
+Nov 16 17:54:44 ravinder-adsb systemd[1]: feed-data.service: Scheduled restart job, restart counter is at 4262.
+Nov 16 17:54:44 ravinder-adsb systemd[1]: Stopped ADSB forwarder.
+Nov 16 17:54:44 ravinder-adsb systemd[1]: Started ADSB forwarder.
+Nov 16 17:54:44 ravinder-adsb python3[7379]: 103.171.84.166
+Nov 16 17:54:44 ravinder-adsb python3[7379]: 30012
+Nov 16 17:54:44 ravinder-adsb systemd[1]: feed-data.service: Succeeded.
+Nov 16 17:54:46 ravinder-adsb reconnect-modem.py[467]: PING 103.171.84.166 (103.171.84.166) 0(28) bytes of data.
+Nov 16 17:54:46 ravinder-adsb reconnect-modem.py[467]: --- 103.171.84.166 ping statistics ---
+Nov 16 17:54:46 ravinder-adsb reconnect-modem.py[467]: 10 packets transmitted, 0 received, 100% packet loss, time 380ms
+Nov 16 17:54:48 ravinder-adsb systemd[1]: feed-data.service: Service RestartSec=3s expired, scheduling restart.
+Nov 16 17:54:48 ravinder-adsb systemd[1]: feed-data.service: Scheduled restart job, restart counter is at 4263.
+Nov 16 17:54:48 ravinder-adsb systemd[1]: Stopped ADSB forwarder.
+Nov 16 17:54:48 ravinder-adsb systemd[1]: Started ADSB forwarder.
+Nov 16 17:54:48 ravinder-adsb python3[7380]: 103.171.84.166
+Nov 16 17:54:48 ravinder-adsb python3[7380]: 30012
+Nov 16 17:54:48 ravinder-adsb systemd[1]: feed-data.service: Succeeded.
+Nov 16 17:54:51 ravinder-adsb reconnect-modem.py[467]: PING 8.8.8.8 (8.8.8.8) from 10.61.208.69 wwan0: 0(28) bytes of data.
+Nov 16 17:54:51 ravinder-adsb reconnect-modem.py[467]: 8 bytes from 8.8.8.8: icmp_seq=1 ttl=114
+Nov 16 17:54:51 ravinder-adsb reconnect-modem.py[467]: --- 8.8.8.8 ping statistics ---
+Nov 16 17:54:51 ravinder-adsb reconnect-modem.py[467]: 1 packets transmitted, 1 received, 0% packet loss, time 0ms
+Nov 16 17:54:51 ravinder-adsb systemd[1]: feed-data.service: Service RestartSec=3s expired, scheduling restart.
+Nov 16 17:54:51 ravinder-adsb systemd[1]: feed-data.service: Scheduled restart job, restart counter is at 4264.
+Nov 16 17:54:51 ravinder-adsb systemd[1]: Stopped ADSB forwarder.
+Nov 16 17:54:51 ravinder-adsb systemd[1]: Started ADSB forwarder.
+Nov 16 17:54:52 ravinder-adsb python3[7383]: 103.171.84.166
+Nov 16 17:54:52 ravinder-adsb python3[7383]: 30012
+Nov 16 17:54:52 ravinder-adsb systemd[1]: feed-data.service: Succeeded.
+Nov 16 17:54:55 ravinder-adsb systemd[1]: feed-data.service: Service RestartSec=3s expired, scheduling restart.
+Nov 16 17:54:55 ravinder-adsb systemd[1]: feed-data.service: Scheduled restart job, restart counter is at 4265.
+Nov 16 17:54:55 ravinder-adsb systemd[1]: Stopped ADSB forwarder.
+Nov 16 17:54:55 ravinder-adsb systemd[1]: Started ADSB forwarder.
+Nov 16 17:54:55 ravinder-adsb python3[7384]: 103.171.84.166
+Nov 16 17:54:55 ravinder-adsb python3[7384]: 30012
+Nov 16 17:54:56 ravinder-adsb systemd[1]: feed-data.service: Succeeded.
+Nov 16 17:54:59 ravinder-adsb systemd[1]: feed-data.service: Service RestartSec=3s expired, scheduling restart.
+Nov 16 17:54:59 ravinder-adsb systemd[1]: feed-data.service: Scheduled restart job, restart counter is at 4266.
+Nov 16 17:54:59 ravinder-adsb systemd[1]: Stopped ADSB forwarder.
+Nov 16 17:54:59 ravinder-adsb systemd[1]: Started ADSB forwarder.
+Nov 16 17:54:59 ravinder-adsb python3[7385]: 103.171.84.166
+Nov 16 17:54:59 ravinder-adsb python3[7385]: 30012
+Nov 16 17:54:59 ravinder-adsb systemd[1]: feed-data.service: Succeeded.
+Nov 16 17:55:01 ravinder-adsb reconnect-modem.py[467]: PING 103.171.84.166 (103.171.84.166) 0(28) bytes of data.
+Nov 16 17:55:01 ravinder-adsb reconnect-modem.py[467]: --- 103.171.84.166 ping statistics ---
+Nov 16 17:55:01 ravinder-adsb reconnect-modem.py[467]: 10 packets transmitted, 0 received, 100% packet loss, time 378ms
+Nov 16 17:55:02 ravinder-adsb systemd[1]: feed-data.service: Service RestartSec=3s expired, scheduling restart.
+Nov 16 17:55:02 ravinder-adsb systemd[1]: feed-data.service: Scheduled restart job, restart counter is at 4267.
+Nov 16 17:55:02 ravinder-adsb systemd[1]: Stopped ADSB forwarder.
+Nov 16 17:55:02 ravinder-adsb systemd[1]: Started ADSB forwarder.
+Nov 16 17:55:03 ravinder-adsb python3[7386]: 103.171.84.166
+Nov 16 17:55:03 ravinder-adsb python3[7386]: 30012
+Nov 16 17:55:03 ravinder-adsb systemd[1]: feed-data.service: Succeeded.
+Nov 16 17:55:06 ravinder-adsb reconnect-modem.py[467]: PING 8.8.8.8 (8.8.8.8) from 10.61.208.69 wwan0: 0(28) bytes of data.
+Nov 16 17:55:06 ravinder-adsb reconnect-modem.py[467]: 8 bytes from 8.8.8.8: icmp_seq=1 ttl=114
+Nov 16 17:55:06 ravinder-adsb reconnect-modem.py[467]: --- 8.8.8.8 ping statistics ---
+Nov 16 17:55:06 ravinder-adsb reconnect-modem.py[467]: 1 packets transmitted, 1 received, 0% packet loss, time 0ms
+Nov 16 17:55:06 ravinder-adsb systemd[1]: feed-data.service: Service RestartSec=3s expired, scheduling restart.
+Nov 16 17:55:06 ravinder-adsb systemd[1]: feed-data.service: Scheduled restart job, restart counter is at 4268.
+Nov 16 17:55:06 ravinder-adsb systemd[1]: Stopped ADSB forwarder.
+Nov 16 17:55:06 ravinder-adsb systemd[1]: Started ADSB forwarder.
+Nov 16 17:55:06 ravinder-adsb python3[7389]: 103.171.84.166
+Nov 16 17:55:06 ravinder-adsb python3[7389]: 30012
+Nov 16 17:55:07 ravinder-adsb systemd[1]: feed-data.service: Succeeded.
+Nov 16 17:55:10 ravinder-adsb systemd[1]: feed-data.service: Service RestartSec=3s expired, scheduling restart.
+Nov 16 17:55:10 ravinder-adsb systemd[1]: feed-data.service: Scheduled restart job, restart counter is at 4269.
+Nov 16 17:55:10 ravinder-adsb systemd[1]: Stopped ADSB forwarder.
+Nov 16 17:55:10 ravinder-adsb systemd[1]: Started ADSB forwarder.
+Nov 16 17:55:10 ravinder-adsb python3[7390]: 103.171.84.166
+Nov 16 17:55:10 ravinder-adsb python3[7390]: 30012
+Nov 16 17:55:10 ravinder-adsb systemd[1]: feed-data.service: Succeeded.
+Nov 16 17:55:14 ravinder-adsb systemd[1]: feed-data.service: Service RestartSec=3s expired, scheduling restart.
+Nov 16 17:55:14 ravinder-adsb systemd[1]: feed-data.service: Scheduled restart job, restart counter is at 4270.
+Nov 16 17:55:14 ravinder-adsb systemd[1]: Stopped ADSB forwarder.
+Nov 16 17:55:14 ravinder-adsb systemd[1]: Started ADSB forwarder.
+Nov 16 17:55:14 ravinder-adsb python3[7392]: 103.171.84.166
+Nov 16 17:55:14 ravinder-adsb python3[7392]: 30012
+Nov 16 17:55:14 ravinder-adsb systemd[1]: feed-data.service: Succeeded.
+Nov 16 17:55:16 ravinder-adsb reconnect-modem.py[467]: PING 103.171.84.166 (103.171.84.166) 0(28) bytes of data.
+Nov 16 17:55:16 ravinder-adsb reconnect-modem.py[467]: --- 103.171.84.166 ping statistics ---
+Nov 16 17:55:16 ravinder-adsb reconnect-modem.py[467]: 10 packets transmitted, 0 received, 100% packet loss, time 375ms
+Nov 16 17:55:17 ravinder-adsb systemd[1]: feed-data.service: Service RestartSec=3s expired, scheduling restart.
+Nov 16 17:55:17 ravinder-adsb systemd[1]: feed-data.service: Scheduled restart job, restart counter is at 4271.
+Nov 16 17:55:17 ravinder-adsb systemd[1]: Stopped ADSB forwarder.
+Nov 16 17:55:17 ravinder-adsb systemd[1]: Started ADSB forwarder.
+Nov 16 17:55:18 ravinder-adsb python3[7393]: 103.171.84.166
+Nov 16 17:55:18 ravinder-adsb python3[7393]: 30012
+Nov 16 17:55:18 ravinder-adsb systemd[1]: feed-data.service: Succeeded.
+Nov 16 17:55:21 ravinder-adsb reconnect-modem.py[467]: PING 8.8.8.8 (8.8.8.8) from 10.61.208.69 wwan0: 0(28) bytes of data.
+Nov 16 17:55:21 ravinder-adsb reconnect-modem.py[467]: 8 bytes from 8.8.8.8: icmp_seq=1 ttl=114
+Nov 16 17:55:21 ravinder-adsb reconnect-modem.py[467]: --- 8.8.8.8 ping statistics ---
+Nov 16 17:55:21 ravinder-adsb reconnect-modem.py[467]: 1 packets transmitted, 1 received, 0% packet loss, time 0ms
+Nov 16 17:55:21 ravinder-adsb systemd[1]: feed-data.service: Service RestartSec=3s expired, scheduling restart.
+Nov 16 17:55:21 ravinder-adsb systemd[1]: feed-data.service: Scheduled restart job, restart counter is at 4272.
+Nov 16 17:55:21 ravinder-adsb systemd[1]: Stopped ADSB forwarder.
+Nov 16 17:55:21 ravinder-adsb systemd[1]: Started ADSB forwarder.
+Nov 16 17:55:21 ravinder-adsb python3[7396]: 103.171.84.166
+Nov 16 17:55:21 ravinder-adsb python3[7396]: 30012
+Nov 16 17:55:22 ravinder-adsb systemd[1]: feed-data.service: Succeeded.
+Nov 16 17:55:25 ravinder-adsb systemd[1]: feed-data.service: Service RestartSec=3s expired, scheduling restart.
+Nov 16 17:55:25 ravinder-adsb systemd[1]: feed-data.service: Scheduled restart job, restart counter is at 4273.
+Nov 16 17:55:25 ravinder-adsb systemd[1]: Stopped ADSB forwarder.
+Nov 16 17:55:25 ravinder-adsb systemd[1]: Started ADSB forwarder.
+Nov 16 17:55:25 ravinder-adsb python3[7397]: 103.171.84.166
+Nov 16 17:55:25 ravinder-adsb python3[7397]: 30012
+Nov 16 17:55:25 ravinder-adsb systemd[1]: feed-data.service: Succeeded.
+Nov 16 17:55:29 ravinder-adsb systemd[1]: feed-data.service: Service RestartSec=3s expired, scheduling restart.
+Nov 16 17:55:29 ravinder-adsb systemd[1]: feed-data.service: Scheduled restart job, restart counter is at 4274.
+Nov 16 17:55:29 ravinder-adsb systemd[1]: Stopped ADSB forwarder.
+Nov 16 17:55:29 ravinder-adsb systemd[1]: Started ADSB forwarder.
+Nov 16 17:55:29 ravinder-adsb python3[7398]: 103.171.84.166
+Nov 16 17:55:29 ravinder-adsb python3[7398]: 30012
+Nov 16 17:55:29 ravinder-adsb systemd[1]: feed-data.service: Succeeded.
+Nov 16 17:55:31 ravinder-adsb reconnect-modem.py[467]: PING 103.171.84.166 (103.171.84.166) 0(28) bytes of data.
+Nov 16 17:55:31 ravinder-adsb reconnect-modem.py[467]: --- 103.171.84.166 ping statistics ---
+Nov 16 17:55:31 ravinder-adsb reconnect-modem.py[467]: 10 packets transmitted, 0 received, 100% packet loss, time 380ms
+Nov 16 17:55:32 ravinder-adsb systemd[1]: feed-data.service: Service RestartSec=3s expired, scheduling restart.
+Nov 16 17:55:32 ravinder-adsb systemd[1]: feed-data.service: Scheduled restart job, restart counter is at 4275.
+Nov 16 17:55:32 ravinder-adsb systemd[1]: Stopped ADSB forwarder.
+Nov 16 17:55:32 ravinder-adsb systemd[1]: Started ADSB forwarder.
+Nov 16 17:55:33 ravinder-adsb python3[7399]: 103.171.84.166
+Nov 16 17:55:33 ravinder-adsb python3[7399]: 30012
+Nov 16 17:55:33 ravinder-adsb systemd[1]: feed-data.service: Succeeded.
+Nov 16 17:55:36 ravinder-adsb reconnect-modem.py[467]: PING 8.8.8.8 (8.8.8.8) from 10.61.208.69 wwan0: 0(28) bytes of data.
+Nov 16 17:55:36 ravinder-adsb reconnect-modem.py[467]: 8 bytes from 8.8.8.8: icmp_seq=1 ttl=114
+Nov 16 17:55:36 ravinder-adsb reconnect-modem.py[467]: --- 8.8.8.8 ping statistics ---
+Nov 16 17:55:36 ravinder-adsb reconnect-modem.py[467]: 1 packets transmitted, 1 received, 0% packet loss, time 0ms
+Nov 16 17:55:36 ravinder-adsb systemd[1]: feed-data.service: Service RestartSec=3s expired, scheduling restart.
+Nov 16 17:55:36 ravinder-adsb systemd[1]: feed-data.service: Scheduled restart job, restart counter is at 4276.
+Nov 16 17:55:36 ravinder-adsb systemd[1]: Stopped ADSB forwarder.
+Nov 16 17:55:36 ravinder-adsb systemd[1]: Started ADSB forwarder.
+Nov 16 17:55:36 ravinder-adsb python3[7402]: 103.171.84.166
+Nov 16 17:55:36 ravinder-adsb python3[7402]: 30012
+Nov 16 17:55:37 ravinder-adsb systemd[1]: feed-data.service: Succeeded.
+Nov 16 17:55:40 ravinder-adsb systemd[1]: feed-data.service: Service RestartSec=3s expired, scheduling restart.
+Nov 16 17:55:40 ravinder-adsb systemd[1]: feed-data.service: Scheduled restart job, restart counter is at 4277.
+Nov 16 17:55:40 ravinder-adsb systemd[1]: Stopped ADSB forwarder.
+Nov 16 17:55:40 ravinder-adsb systemd[1]: Started ADSB forwarder.
+Nov 16 17:55:40 ravinder-adsb python3[7403]: 103.171.84.166
+Nov 16 17:55:40 ravinder-adsb python3[7403]: 30012
+Nov 16 17:55:40 ravinder-adsb systemd[1]: feed-data.service: Succeeded.
+Nov 16 17:55:43 ravinder-adsb systemd[1]: feed-data.service: Service RestartSec=3s expired, scheduling restart.
+Nov 16 17:55:43 ravinder-adsb systemd[1]: feed-data.service: Scheduled restart job, restart counter is at 4278.
+Nov 16 17:55:43 ravinder-adsb systemd[1]: Stopped ADSB forwarder.
+Nov 16 17:55:43 ravinder-adsb systemd[1]: Started ADSB forwarder.
+Nov 16 17:55:44 ravinder-adsb python3[7404]: 103.171.84.166
+Nov 16 17:55:44 ravinder-adsb python3[7404]: 30012
+Nov 16 17:55:44 ravinder-adsb systemd[1]: feed-data.service: Succeeded.
+Nov 16 17:55:46 ravinder-adsb reconnect-modem.py[467]: PING 103.171.84.166 (103.171.84.166) 0(28) bytes of data.
+Nov 16 17:55:46 ravinder-adsb reconnect-modem.py[467]: --- 103.171.84.166 ping statistics ---
+Nov 16 17:55:46 ravinder-adsb reconnect-modem.py[467]: 10 packets transmitted, 0 received, 100% packet loss, time 337ms
+Nov 16 17:55:47 ravinder-adsb systemd[1]: feed-data.service: Service RestartSec=3s expired, scheduling restart.
+Nov 16 17:55:47 ravinder-adsb systemd[1]: feed-data.service: Scheduled restart job, restart counter is at 4279.
+Nov 16 17:55:47 ravinder-adsb systemd[1]: Stopped ADSB forwarder.
+Nov 16 17:55:47 ravinder-adsb systemd[1]: Started ADSB forwarder.
+Nov 16 17:55:47 ravinder-adsb python3[7405]: 103.171.84.166
+Nov 16 17:55:47 ravinder-adsb python3[7405]: 30012
+Nov 16 17:55:48 ravinder-adsb systemd[1]: feed-data.service: Succeeded.
+Nov 16 17:55:51 ravinder-adsb systemd[1]: feed-data.service: Service RestartSec=3s expired, scheduling restart.
+Nov 16 17:55:51 ravinder-adsb systemd[1]: feed-data.service: Scheduled restart job, restart counter is at 4280.
+Nov 16 17:55:51 ravinder-adsb systemd[1]: Stopped ADSB forwarder.
+Nov 16 17:55:51 ravinder-adsb systemd[1]: Started ADSB forwarder.
+Nov 16 17:55:51 ravinder-adsb reconnect-modem.py[467]: PING 8.8.8.8 (8.8.8.8) from 10.61.208.69 wwan0: 0(28) bytes of data.
+Nov 16 17:55:51 ravinder-adsb reconnect-modem.py[467]: 8 bytes from 8.8.8.8: icmp_seq=1 ttl=114
+Nov 16 17:55:51 ravinder-adsb reconnect-modem.py[467]: --- 8.8.8.8 ping statistics ---
+Nov 16 17:55:51 ravinder-adsb reconnect-modem.py[467]: 1 packets transmitted, 1 received, 0% packet loss, time 0ms
+Nov 16 17:55:51 ravinder-adsb python3[7406]: 103.171.84.166
+Nov 16 17:55:51 ravinder-adsb python3[7406]: 30012
+Nov 16 17:55:51 ravinder-adsb systemd[1]: feed-data.service: Succeeded.
+Nov 16 17:55:55 ravinder-adsb systemd[1]: feed-data.service: Service RestartSec=3s expired, scheduling restart.
+Nov 16 17:55:55 ravinder-adsb systemd[1]: feed-data.service: Scheduled restart job, restart counter is at 4281.
+Nov 16 17:55:55 ravinder-adsb systemd[1]: Stopped ADSB forwarder.
+Nov 16 17:55:55 ravinder-adsb systemd[1]: Started ADSB forwarder.
+Nov 16 17:55:55 ravinder-adsb python3[7410]: 103.171.84.166
+Nov 16 17:55:55 ravinder-adsb python3[7410]: 30012
+Nov 16 17:55:55 ravinder-adsb systemd[1]: feed-data.service: Succeeded.
+Nov 16 17:55:58 ravinder-adsb systemd[1]: feed-data.service: Service RestartSec=3s expired, scheduling restart.
+Nov 16 17:55:58 ravinder-adsb systemd[1]: feed-data.service: Scheduled restart job, restart counter is at 4282.
+Nov 16 17:55:58 ravinder-adsb systemd[1]: Stopped ADSB forwarder.
+Nov 16 17:55:58 ravinder-adsb systemd[1]: Started ADSB forwarder.
+Nov 16 17:55:59 ravinder-adsb python3[7411]: 103.171.84.166
+Nov 16 17:55:59 ravinder-adsb python3[7411]: 30012
+Nov 16 17:55:59 ravinder-adsb systemd[1]: feed-data.service: Succeeded.
+Nov 16 17:56:01 ravinder-adsb reconnect-modem.py[467]: PING 103.171.84.166 (103.171.84.166) 0(28) bytes of data.
+Nov 16 17:56:01 ravinder-adsb reconnect-modem.py[467]: --- 103.171.84.166 ping statistics ---
+Nov 16 17:56:01 ravinder-adsb reconnect-modem.py[467]: 10 packets transmitted, 0 received, 100% packet loss, time 381ms
+Nov 16 17:56:02 ravinder-adsb systemd[1]: feed-data.service: Service RestartSec=3s expired, scheduling restart.
+Nov 16 17:56:02 ravinder-adsb systemd[1]: feed-data.service: Scheduled restart job, restart counter is at 4283.
+Nov 16 17:56:02 ravinder-adsb systemd[1]: Stopped ADSB forwarder.
+Nov 16 17:56:02 ravinder-adsb systemd[1]: Started ADSB forwarder.
+Nov 16 17:56:02 ravinder-adsb python3[7412]: 103.171.84.166
+Nov 16 17:56:02 ravinder-adsb python3[7412]: 30012
+Nov 16 17:56:03 ravinder-adsb systemd[1]: feed-data.service: Succeeded.
+Nov 16 17:56:06 ravinder-adsb systemd[1]: feed-data.service: Service RestartSec=3s expired, scheduling restart.
+Nov 16 17:56:06 ravinder-adsb systemd[1]: feed-data.service: Scheduled restart job, restart counter is at 4284.
+Nov 16 17:56:06 ravinder-adsb systemd[1]: Stopped ADSB forwarder.
+Nov 16 17:56:06 ravinder-adsb systemd[1]: Started ADSB forwarder.
+Nov 16 17:56:06 ravinder-adsb reconnect-modem.py[467]: PING 8.8.8.8 (8.8.8.8) from 10.61.208.69 wwan0: 0(28) bytes of data.
+Nov 16 17:56:06 ravinder-adsb reconnect-modem.py[467]: 8 bytes from 8.8.8.8: icmp_seq=1 ttl=114
+Nov 16 17:56:06 ravinder-adsb reconnect-modem.py[467]: --- 8.8.8.8 ping statistics ---
+Nov 16 17:56:06 ravinder-adsb reconnect-modem.py[467]: 1 packets transmitted, 1 received, 0% packet loss, time 0ms
+Nov 16 17:56:06 ravinder-adsb python3[7413]: 103.171.84.166
+Nov 16 17:56:06 ravinder-adsb python3[7413]: 30012
+Nov 16 17:56:06 ravinder-adsb systemd[1]: feed-data.service: Succeeded.
+Nov 16 17:56:09 ravinder-adsb systemd[1]: feed-data.service: Service RestartSec=3s expired, scheduling restart.
+Nov 16 17:56:09 ravinder-adsb systemd[1]: feed-data.service: Scheduled restart job, restart counter is at 4285.
+Nov 16 17:56:09 ravinder-adsb systemd[1]: Stopped ADSB forwarder.
+Nov 16 17:56:09 ravinder-adsb systemd[1]: Started ADSB forwarder.
+Nov 16 17:56:10 ravinder-adsb python3[7416]: 103.171.84.166
+Nov 16 17:56:10 ravinder-adsb python3[7416]: 30012
+Nov 16 17:56:10 ravinder-adsb systemd[1]: feed-data.service: Succeeded.
+Nov 16 17:56:13 ravinder-adsb systemd[1]: feed-data.service: Service RestartSec=3s expired, scheduling restart.
+Nov 16 17:56:13 ravinder-adsb systemd[1]: feed-data.service: Scheduled restart job, restart counter is at 4286.
+Nov 16 17:56:13 ravinder-adsb systemd[1]: Stopped ADSB forwarder.
+Nov 16 17:56:13 ravinder-adsb systemd[1]: Started ADSB forwarder.
+Nov 16 17:56:13 ravinder-adsb python3[7417]: 103.171.84.166
+Nov 16 17:56:13 ravinder-adsb python3[7417]: 30012
+Nov 16 17:56:14 ravinder-adsb systemd[1]: feed-data.service: Succeeded.
+Nov 16 17:56:16 ravinder-adsb reconnect-modem.py[467]: PING 103.171.84.166 (103.171.84.166) 0(28) bytes of data.
+Nov 16 17:56:16 ravinder-adsb reconnect-modem.py[467]: --- 103.171.84.166 ping statistics ---
+Nov 16 17:56:16 ravinder-adsb reconnect-modem.py[467]: 10 packets transmitted, 0 received, 100% packet loss, time 390ms
+Nov 16 17:56:17 ravinder-adsb systemd[1]: feed-data.service: Service RestartSec=3s expired, scheduling restart.
+Nov 16 17:56:17 ravinder-adsb systemd[1]: feed-data.service: Scheduled restart job, restart counter is at 4287.
+Nov 16 17:56:17 ravinder-adsb systemd[1]: Stopped ADSB forwarder.
+Nov 16 17:56:17 ravinder-adsb systemd[1]: Started ADSB forwarder.
+Nov 16 17:56:17 ravinder-adsb python3[7418]: 103.171.84.166
+Nov 16 17:56:17 ravinder-adsb python3[7418]: 30012
+Nov 16 17:56:17 ravinder-adsb systemd[1]: feed-data.service: Succeeded.
+Nov 16 17:56:21 ravinder-adsb systemd[1]: feed-data.service: Service RestartSec=3s expired, scheduling restart.
+Nov 16 17:56:21 ravinder-adsb systemd[1]: feed-data.service: Scheduled restart job, restart counter is at 4288.
+Nov 16 17:56:21 ravinder-adsb systemd[1]: Stopped ADSB forwarder.
+Nov 16 17:56:21 ravinder-adsb systemd[1]: Started ADSB forwarder.
+Nov 16 17:56:21 ravinder-adsb python3[7419]: 103.171.84.166
+Nov 16 17:56:21 ravinder-adsb python3[7419]: 30012
+Nov 16 17:56:21 ravinder-adsb systemd[1]: feed-data.service: Succeeded.
+Nov 16 17:56:21 ravinder-adsb reconnect-modem.py[467]: PING 8.8.8.8 (8.8.8.8) from 10.61.208.69 wwan0: 0(28) bytes of data.
+Nov 16 17:56:21 ravinder-adsb reconnect-modem.py[467]: 8 bytes from 8.8.8.8: icmp_seq=1 ttl=114
+Nov 16 17:56:21 ravinder-adsb reconnect-modem.py[467]: --- 8.8.8.8 ping statistics ---
+Nov 16 17:56:21 ravinder-adsb reconnect-modem.py[467]: 1 packets transmitted, 1 received, 0% packet loss, time 0ms
+Nov 16 17:56:24 ravinder-adsb systemd[1]: feed-data.service: Service RestartSec=3s expired, scheduling restart.
+Nov 16 17:56:24 ravinder-adsb systemd[1]: feed-data.service: Scheduled restart job, restart counter is at 4289.
+Nov 16 17:56:24 ravinder-adsb systemd[1]: Stopped ADSB forwarder.
+Nov 16 17:56:24 ravinder-adsb systemd[1]: Started ADSB forwarder.
+Nov 16 17:56:25 ravinder-adsb python3[7422]: 103.171.84.166
+Nov 16 17:56:25 ravinder-adsb python3[7422]: 30012
+Nov 16 17:56:25 ravinder-adsb systemd[1]: feed-data.service: Succeeded.
+Nov 16 17:56:28 ravinder-adsb systemd[1]: feed-data.service: Service RestartSec=3s expired, scheduling restart.
+Nov 16 17:56:28 ravinder-adsb systemd[1]: feed-data.service: Scheduled restart job, restart counter is at 4290.
+Nov 16 17:56:28 ravinder-adsb systemd[1]: Stopped ADSB forwarder.
+Nov 16 17:56:28 ravinder-adsb systemd[1]: Started ADSB forwarder.
+Nov 16 17:56:28 ravinder-adsb python3[7423]: 103.171.84.166
+Nov 16 17:56:28 ravinder-adsb python3[7423]: 30012
+Nov 16 17:56:29 ravinder-adsb systemd[1]: feed-data.service: Succeeded.
+Nov 16 17:56:31 ravinder-adsb reconnect-modem.py[467]: PING 103.171.84.166 (103.171.84.166) 0(28) bytes of data.
+Nov 16 17:56:31 ravinder-adsb reconnect-modem.py[467]: --- 103.171.84.166 ping statistics ---
+Nov 16 17:56:31 ravinder-adsb reconnect-modem.py[467]: 10 packets transmitted, 0 received, 100% packet loss, time 380ms
+Nov 16 17:56:32 ravinder-adsb systemd[1]: feed-data.service: Service RestartSec=3s expired, scheduling restart.
+Nov 16 17:56:32 ravinder-adsb systemd[1]: feed-data.service: Scheduled restart job, restart counter is at 4291.
+Nov 16 17:56:32 ravinder-adsb systemd[1]: Stopped ADSB forwarder.
+Nov 16 17:56:32 ravinder-adsb systemd[1]: Started ADSB forwarder.
+Nov 16 17:56:32 ravinder-adsb python3[7424]: 103.171.84.166
+Nov 16 17:56:32 ravinder-adsb python3[7424]: 30012
+Nov 16 17:56:32 ravinder-adsb systemd[1]: feed-data.service: Succeeded.
+Nov 16 17:56:36 ravinder-adsb systemd[1]: feed-data.service: Service RestartSec=3s expired, scheduling restart.
+Nov 16 17:56:36 ravinder-adsb systemd[1]: feed-data.service: Scheduled restart job, restart counter is at 4292.
+Nov 16 17:56:36 ravinder-adsb systemd[1]: Stopped ADSB forwarder.
+Nov 16 17:56:36 ravinder-adsb systemd[1]: Started ADSB forwarder.
+Nov 16 17:56:36 ravinder-adsb python3[7426]: 103.171.84.166
+Nov 16 17:56:36 ravinder-adsb python3[7426]: 30012
+Nov 16 17:56:36 ravinder-adsb systemd[1]: feed-data.service: Succeeded.
+Nov 16 17:56:36 ravinder-adsb reconnect-modem.py[467]: PING 8.8.8.8 (8.8.8.8) from 10.61.208.69 wwan0: 0(28) bytes of data.
+Nov 16 17:56:36 ravinder-adsb reconnect-modem.py[467]: 8 bytes from 8.8.8.8: icmp_seq=1 ttl=114
+Nov 16 17:56:36 ravinder-adsb reconnect-modem.py[467]: --- 8.8.8.8 ping statistics ---
+Nov 16 17:56:36 ravinder-adsb reconnect-modem.py[467]: 1 packets transmitted, 1 received, 0% packet loss, time 0ms
+Nov 16 17:56:39 ravinder-adsb systemd[1]: feed-data.service: Service RestartSec=3s expired, scheduling restart.
+Nov 16 17:56:39 ravinder-adsb systemd[1]: feed-data.service: Scheduled restart job, restart counter is at 4293.
+Nov 16 17:56:39 ravinder-adsb systemd[1]: Stopped ADSB forwarder.
+Nov 16 17:56:39 ravinder-adsb systemd[1]: Started ADSB forwarder.
+Nov 16 17:56:40 ravinder-adsb python3[7429]: 103.171.84.166
+Nov 16 17:56:40 ravinder-adsb python3[7429]: 30012
+Nov 16 17:56:40 ravinder-adsb systemd[1]: feed-data.service: Succeeded.
+Nov 16 17:56:43 ravinder-adsb systemd[1]: feed-data.service: Service RestartSec=3s expired, scheduling restart.
+Nov 16 17:56:43 ravinder-adsb systemd[1]: feed-data.service: Scheduled restart job, restart counter is at 4294.
+Nov 16 17:56:43 ravinder-adsb systemd[1]: Stopped ADSB forwarder.
+Nov 16 17:56:43 ravinder-adsb systemd[1]: Started ADSB forwarder.
+Nov 16 17:56:43 ravinder-adsb python3[7430]: 103.171.84.166
+Nov 16 17:56:43 ravinder-adsb python3[7430]: 30012
+Nov 16 17:56:44 ravinder-adsb systemd[1]: feed-data.service: Succeeded.
+Nov 16 17:56:46 ravinder-adsb reconnect-modem.py[467]: PING 103.171.84.166 (103.171.84.166) 0(28) bytes of data.
+Nov 16 17:56:46 ravinder-adsb reconnect-modem.py[467]: --- 103.171.84.166 ping statistics ---
+Nov 16 17:56:46 ravinder-adsb reconnect-modem.py[467]: 10 packets transmitted, 0 received, 100% packet loss, time 384ms
+Nov 16 17:56:47 ravinder-adsb systemd[1]: feed-data.service: Service RestartSec=3s expired, scheduling restart.
+Nov 16 17:56:47 ravinder-adsb systemd[1]: feed-data.service: Scheduled restart job, restart counter is at 4295.
+Nov 16 17:56:47 ravinder-adsb systemd[1]: Stopped ADSB forwarder.
+Nov 16 17:56:47 ravinder-adsb systemd[1]: Started ADSB forwarder.
+Nov 16 17:56:47 ravinder-adsb python3[7431]: 103.171.84.166
+Nov 16 17:56:47 ravinder-adsb python3[7431]: 30012
+Nov 16 17:56:47 ravinder-adsb systemd[1]: feed-data.service: Succeeded.
+Nov 16 17:56:51 ravinder-adsb systemd[1]: feed-data.service: Service RestartSec=3s expired, scheduling restart.
+Nov 16 17:56:51 ravinder-adsb systemd[1]: feed-data.service: Scheduled restart job, restart counter is at 4296.
+Nov 16 17:56:51 ravinder-adsb systemd[1]: Stopped ADSB forwarder.
+Nov 16 17:56:51 ravinder-adsb systemd[1]: Started ADSB forwarder.
+Nov 16 17:56:51 ravinder-adsb python3[7432]: 103.171.84.166
+Nov 16 17:56:51 ravinder-adsb python3[7432]: 30012
+Nov 16 17:56:51 ravinder-adsb systemd[1]: feed-data.service: Succeeded.
+Nov 16 17:56:51 ravinder-adsb reconnect-modem.py[467]: PING 8.8.8.8 (8.8.8.8) from 10.61.208.69 wwan0: 0(28) bytes of data.
+Nov 16 17:56:51 ravinder-adsb reconnect-modem.py[467]: 8 bytes from 8.8.8.8: icmp_seq=1 ttl=114
+Nov 16 17:56:51 ravinder-adsb reconnect-modem.py[467]: --- 8.8.8.8 ping statistics ---
+Nov 16 17:56:51 ravinder-adsb reconnect-modem.py[467]: 1 packets transmitted, 1 received, 0% packet loss, time 0ms
+Nov 16 17:56:54 ravinder-adsb systemd[1]: feed-data.service: Service RestartSec=3s expired, scheduling restart.
+Nov 16 17:56:54 ravinder-adsb systemd[1]: feed-data.service: Scheduled restart job, restart counter is at 4297.
+Nov 16 17:56:54 ravinder-adsb systemd[1]: Stopped ADSB forwarder.
+Nov 16 17:56:54 ravinder-adsb systemd[1]: Started ADSB forwarder.
+Nov 16 17:56:55 ravinder-adsb python3[7435]: 103.171.84.166
+Nov 16 17:56:55 ravinder-adsb python3[7435]: 30012
+Nov 16 17:56:55 ravinder-adsb systemd[1]: feed-data.service: Succeeded.
+Nov 16 17:56:58 ravinder-adsb systemd[1]: feed-data.service: Service RestartSec=3s expired, scheduling restart.
+Nov 16 17:56:58 ravinder-adsb systemd[1]: feed-data.service: Scheduled restart job, restart counter is at 4298.
+Nov 16 17:56:58 ravinder-adsb systemd[1]: Stopped ADSB forwarder.
+Nov 16 17:56:58 ravinder-adsb systemd[1]: Started ADSB forwarder.
+Nov 16 17:56:58 ravinder-adsb python3[7436]: 103.171.84.166
+Nov 16 17:56:58 ravinder-adsb python3[7436]: 30012
+Nov 16 17:56:59 ravinder-adsb systemd[1]: feed-data.service: Succeeded.
+Nov 16 17:57:02 ravinder-adsb reconnect-modem.py[467]: PING 103.171.84.166 (103.171.84.166) 0(28) bytes of data.
+Nov 16 17:57:02 ravinder-adsb reconnect-modem.py[467]: --- 103.171.84.166 ping statistics ---
+Nov 16 17:57:02 ravinder-adsb reconnect-modem.py[467]: 10 packets transmitted, 0 received, 100% packet loss, time 383ms
+Nov 16 17:57:02 ravinder-adsb systemd[1]: feed-data.service: Service RestartSec=3s expired, scheduling restart.
+Nov 16 17:57:02 ravinder-adsb systemd[1]: feed-data.service: Scheduled restart job, restart counter is at 4299.
+Nov 16 17:57:02 ravinder-adsb systemd[1]: Stopped ADSB forwarder.
+Nov 16 17:57:02 ravinder-adsb systemd[1]: Started ADSB forwarder.
+Nov 16 17:57:02 ravinder-adsb python3[7437]: 103.171.84.166
+Nov 16 17:57:02 ravinder-adsb python3[7437]: 30012
+Nov 16 17:57:02 ravinder-adsb systemd[1]: feed-data.service: Succeeded.
+Nov 16 17:57:06 ravinder-adsb systemd[1]: feed-data.service: Service RestartSec=3s expired, scheduling restart.
+Nov 16 17:57:06 ravinder-adsb systemd[1]: feed-data.service: Scheduled restart job, restart counter is at 4300.
+Nov 16 17:57:06 ravinder-adsb systemd[1]: Stopped ADSB forwarder.
+Nov 16 17:57:06 ravinder-adsb systemd[1]: Started ADSB forwarder.
+Nov 16 17:57:06 ravinder-adsb python3[7438]: 103.171.84.166
+Nov 16 17:57:06 ravinder-adsb python3[7438]: 30012
+Nov 16 17:57:06 ravinder-adsb systemd[1]: feed-data.service: Succeeded.
+Nov 16 17:57:07 ravinder-adsb reconnect-modem.py[467]: PING 8.8.8.8 (8.8.8.8) from 10.61.208.69 wwan0: 0(28) bytes of data.
+Nov 16 17:57:07 ravinder-adsb reconnect-modem.py[467]: 8 bytes from 8.8.8.8: icmp_seq=1 ttl=114
+Nov 16 17:57:07 ravinder-adsb reconnect-modem.py[467]: --- 8.8.8.8 ping statistics ---
+Nov 16 17:57:07 ravinder-adsb reconnect-modem.py[467]: 1 packets transmitted, 1 received, 0% packet loss, time 0ms
+Nov 16 17:57:09 ravinder-adsb systemd[1]: feed-data.service: Service RestartSec=3s expired, scheduling restart.
+Nov 16 17:57:09 ravinder-adsb systemd[1]: feed-data.service: Scheduled restart job, restart counter is at 4301.
+Nov 16 17:57:09 ravinder-adsb systemd[1]: Stopped ADSB forwarder.
+Nov 16 17:57:09 ravinder-adsb systemd[1]: Started ADSB forwarder.
+Nov 16 17:57:10 ravinder-adsb python3[7441]: 103.171.84.166
+Nov 16 17:57:10 ravinder-adsb python3[7441]: 30012
+Nov 16 17:57:10 ravinder-adsb systemd[1]: feed-data.service: Succeeded.
+Nov 16 17:57:13 ravinder-adsb systemd[1]: feed-data.service: Service RestartSec=3s expired, scheduling restart.
+Nov 16 17:57:13 ravinder-adsb systemd[1]: feed-data.service: Scheduled restart job, restart counter is at 4302.
+Nov 16 17:57:13 ravinder-adsb systemd[1]: Stopped ADSB forwarder.
+Nov 16 17:57:13 ravinder-adsb systemd[1]: Started ADSB forwarder.
+Nov 16 17:57:13 ravinder-adsb python3[7442]: 103.171.84.166
+Nov 16 17:57:13 ravinder-adsb python3[7442]: 30012
+Nov 16 17:57:14 ravinder-adsb systemd[1]: feed-data.service: Succeeded.
+Nov 16 17:57:17 ravinder-adsb reconnect-modem.py[467]: PING 103.171.84.166 (103.171.84.166) 0(28) bytes of data.
+Nov 16 17:57:17 ravinder-adsb reconnect-modem.py[467]: --- 103.171.84.166 ping statistics ---
+Nov 16 17:57:17 ravinder-adsb reconnect-modem.py[467]: 10 packets transmitted, 0 received, 100% packet loss, time 382ms
+Nov 16 17:57:17 ravinder-adsb systemd[1]: feed-data.service: Service RestartSec=3s expired, scheduling restart.
+Nov 16 17:57:17 ravinder-adsb systemd[1]: feed-data.service: Scheduled restart job, restart counter is at 4303.
+Nov 16 17:57:17 ravinder-adsb systemd[1]: Stopped ADSB forwarder.
+Nov 16 17:57:17 ravinder-adsb systemd[1]: Started ADSB forwarder.
+Nov 16 17:57:17 ravinder-adsb python3[7443]: 103.171.84.166
+Nov 16 17:57:17 ravinder-adsb python3[7443]: 30012
+Nov 16 17:57:17 ravinder-adsb systemd[1]: feed-data.service: Succeeded.
+Nov 16 17:57:20 ravinder-adsb systemd[1]: feed-data.service: Service RestartSec=3s expired, scheduling restart.
+Nov 16 17:57:20 ravinder-adsb systemd[1]: feed-data.service: Scheduled restart job, restart counter is at 4304.
+Nov 16 17:57:20 ravinder-adsb systemd[1]: Stopped ADSB forwarder.
+Nov 16 17:57:20 ravinder-adsb systemd[1]: Started ADSB forwarder.
+Nov 16 17:57:21 ravinder-adsb python3[7444]: 103.171.84.166
+Nov 16 17:57:21 ravinder-adsb python3[7444]: 30012
+Nov 16 17:57:21 ravinder-adsb systemd[1]: feed-data.service: Succeeded.
+Nov 16 17:57:22 ravinder-adsb reconnect-modem.py[467]: PING 8.8.8.8 (8.8.8.8) from 10.61.208.69 wwan0: 0(28) bytes of data.
+Nov 16 17:57:22 ravinder-adsb reconnect-modem.py[467]: 8 bytes from 8.8.8.8: icmp_seq=1 ttl=114
+Nov 16 17:57:22 ravinder-adsb reconnect-modem.py[467]: --- 8.8.8.8 ping statistics ---
+Nov 16 17:57:22 ravinder-adsb reconnect-modem.py[467]: 1 packets transmitted, 1 received, 0% packet loss, time 0ms
+Nov 16 17:57:24 ravinder-adsb systemd[1]: feed-data.service: Service RestartSec=3s expired, scheduling restart.
+Nov 16 17:57:24 ravinder-adsb systemd[1]: feed-data.service: Scheduled restart job, restart counter is at 4305.
+Nov 16 17:57:24 ravinder-adsb systemd[1]: Stopped ADSB forwarder.
+Nov 16 17:57:24 ravinder-adsb systemd[1]: Started ADSB forwarder.
+Nov 16 17:57:24 ravinder-adsb python3[7447]: 103.171.84.166
+Nov 16 17:57:24 ravinder-adsb python3[7447]: 30012
+Nov 16 17:57:25 ravinder-adsb systemd[1]: feed-data.service: Succeeded.
+Nov 16 17:57:28 ravinder-adsb systemd[1]: feed-data.service: Service RestartSec=3s expired, scheduling restart.
+Nov 16 17:57:28 ravinder-adsb systemd[1]: feed-data.service: Scheduled restart job, restart counter is at 4306.
+Nov 16 17:57:28 ravinder-adsb systemd[1]: Stopped ADSB forwarder.
+Nov 16 17:57:28 ravinder-adsb systemd[1]: Started ADSB forwarder.
+Nov 16 17:57:28 ravinder-adsb python3[7448]: 103.171.84.166
+Nov 16 17:57:28 ravinder-adsb python3[7448]: 30012
+Nov 16 17:57:28 ravinder-adsb systemd[1]: feed-data.service: Succeeded.
+Nov 16 17:57:32 ravinder-adsb systemd[1]: feed-data.service: Service RestartSec=3s expired, scheduling restart.
+Nov 16 17:57:32 ravinder-adsb systemd[1]: feed-data.service: Scheduled restart job, restart counter is at 4307.
+Nov 16 17:57:32 ravinder-adsb systemd[1]: Stopped ADSB forwarder.
+Nov 16 17:57:32 ravinder-adsb systemd[1]: Started ADSB forwarder.
+Nov 16 17:57:32 ravinder-adsb reconnect-modem.py[467]: PING 103.171.84.166 (103.171.84.166) 0(28) bytes of data.
+Nov 16 17:57:32 ravinder-adsb reconnect-modem.py[467]: --- 103.171.84.166 ping statistics ---
+Nov 16 17:57:32 ravinder-adsb reconnect-modem.py[467]: 10 packets transmitted, 0 received, 100% packet loss, time 382ms
+Nov 16 17:57:32 ravinder-adsb python3[7449]: 103.171.84.166
+Nov 16 17:57:32 ravinder-adsb python3[7449]: 30012
+Nov 16 17:57:32 ravinder-adsb systemd[1]: feed-data.service: Succeeded.
+Nov 16 17:57:35 ravinder-adsb systemd[1]: feed-data.service: Service RestartSec=3s expired, scheduling restart.
+Nov 16 17:57:35 ravinder-adsb systemd[1]: feed-data.service: Scheduled restart job, restart counter is at 4308.
+Nov 16 17:57:35 ravinder-adsb systemd[1]: Stopped ADSB forwarder.
+Nov 16 17:57:35 ravinder-adsb systemd[1]: Started ADSB forwarder.
+Nov 16 17:57:36 ravinder-adsb python3[7450]: 103.171.84.166
+Nov 16 17:57:36 ravinder-adsb python3[7450]: 30012
+Nov 16 17:57:36 ravinder-adsb systemd[1]: feed-data.service: Succeeded.
+Nov 16 17:57:37 ravinder-adsb reconnect-modem.py[467]: PING 8.8.8.8 (8.8.8.8) from 10.61.208.69 wwan0: 0(28) bytes of data.
+Nov 16 17:57:37 ravinder-adsb reconnect-modem.py[467]: 8 bytes from 8.8.8.8: icmp_seq=1 ttl=114
+Nov 16 17:57:37 ravinder-adsb reconnect-modem.py[467]: --- 8.8.8.8 ping statistics ---
+Nov 16 17:57:37 ravinder-adsb reconnect-modem.py[467]: 1 packets transmitted, 1 received, 0% packet loss, time 0ms
+Nov 16 17:57:39 ravinder-adsb systemd[1]: feed-data.service: Service RestartSec=3s expired, scheduling restart.
+Nov 16 17:57:39 ravinder-adsb systemd[1]: feed-data.service: Scheduled restart job, restart counter is at 4309.
+Nov 16 17:57:39 ravinder-adsb systemd[1]: Stopped ADSB forwarder.
+Nov 16 17:57:39 ravinder-adsb systemd[1]: Started ADSB forwarder.
+Nov 16 17:57:39 ravinder-adsb python3[7454]: 103.171.84.166
+Nov 16 17:57:39 ravinder-adsb python3[7454]: 30012
+Nov 16 17:57:39 ravinder-adsb systemd[1]: feed-data.service: Succeeded.
+Nov 16 17:57:43 ravinder-adsb systemd[1]: feed-data.service: Service RestartSec=3s expired, scheduling restart.
+Nov 16 17:57:43 ravinder-adsb systemd[1]: feed-data.service: Scheduled restart job, restart counter is at 4310.
+Nov 16 17:57:43 ravinder-adsb systemd[1]: Stopped ADSB forwarder.
+Nov 16 17:57:43 ravinder-adsb systemd[1]: Started ADSB forwarder.
+Nov 16 17:57:43 ravinder-adsb python3[7455]: 103.171.84.166
+Nov 16 17:57:43 ravinder-adsb python3[7455]: 30012
+Nov 16 17:57:43 ravinder-adsb systemd[1]: feed-data.service: Succeeded.
+Nov 16 17:57:46 ravinder-adsb systemd[1]: feed-data.service: Service RestartSec=3s expired, scheduling restart.
+Nov 16 17:57:46 ravinder-adsb systemd[1]: feed-data.service: Scheduled restart job, restart counter is at 4311.
+Nov 16 17:57:46 ravinder-adsb systemd[1]: Stopped ADSB forwarder.
+Nov 16 17:57:46 ravinder-adsb systemd[1]: Started ADSB forwarder.
+Nov 16 17:57:47 ravinder-adsb python3[7456]: 103.171.84.166
+Nov 16 17:57:47 ravinder-adsb python3[7456]: 30012
+Nov 16 17:57:47 ravinder-adsb systemd[1]: feed-data.service: Succeeded.
+Nov 16 17:57:47 ravinder-adsb reconnect-modem.py[467]: PING 103.171.84.166 (103.171.84.166) 0(28) bytes of data.
+Nov 16 17:57:47 ravinder-adsb reconnect-modem.py[467]: --- 103.171.84.166 ping statistics ---
+Nov 16 17:57:47 ravinder-adsb reconnect-modem.py[467]: 10 packets transmitted, 0 received, 100% packet loss, time 376ms
+Nov 16 17:57:50 ravinder-adsb systemd[1]: feed-data.service: Service RestartSec=3s expired, scheduling restart.
+Nov 16 17:57:50 ravinder-adsb systemd[1]: feed-data.service: Scheduled restart job, restart counter is at 4312.
+Nov 16 17:57:50 ravinder-adsb systemd[1]: Stopped ADSB forwarder.
+Nov 16 17:57:50 ravinder-adsb systemd[1]: Started ADSB forwarder.
+Nov 16 17:57:50 ravinder-adsb python3[7457]: 103.171.84.166
+Nov 16 17:57:50 ravinder-adsb python3[7457]: 30012
+Nov 16 17:57:51 ravinder-adsb systemd[1]: feed-data.service: Succeeded.
+Nov 16 17:57:52 ravinder-adsb reconnect-modem.py[467]: PING 8.8.8.8 (8.8.8.8) from 10.61.208.69 wwan0: 0(28) bytes of data.
+Nov 16 17:57:52 ravinder-adsb reconnect-modem.py[467]: 8 bytes from 8.8.8.8: icmp_seq=1 ttl=114
+Nov 16 17:57:52 ravinder-adsb reconnect-modem.py[467]: --- 8.8.8.8 ping statistics ---
+Nov 16 17:57:52 ravinder-adsb reconnect-modem.py[467]: 1 packets transmitted, 1 received, 0% packet loss, time 0ms
+Nov 16 17:57:54 ravinder-adsb systemd[1]: feed-data.service: Service RestartSec=3s expired, scheduling restart.
+Nov 16 17:57:54 ravinder-adsb systemd[1]: feed-data.service: Scheduled restart job, restart counter is at 4313.
+Nov 16 17:57:54 ravinder-adsb systemd[1]: Stopped ADSB forwarder.
+Nov 16 17:57:54 ravinder-adsb systemd[1]: Started ADSB forwarder.
+Nov 16 17:57:54 ravinder-adsb python3[7460]: 103.171.84.166
+Nov 16 17:57:54 ravinder-adsb python3[7460]: 30012
+Nov 16 17:57:54 ravinder-adsb systemd[1]: feed-data.service: Succeeded.
+Nov 16 17:57:58 ravinder-adsb systemd[1]: feed-data.service: Service RestartSec=3s expired, scheduling restart.
+Nov 16 17:57:58 ravinder-adsb systemd[1]: feed-data.service: Scheduled restart job, restart counter is at 4314.
+Nov 16 17:57:58 ravinder-adsb systemd[1]: Stopped ADSB forwarder.
+Nov 16 17:57:58 ravinder-adsb systemd[1]: Started ADSB forwarder.
+Nov 16 17:57:58 ravinder-adsb python3[7461]: 103.171.84.166
+Nov 16 17:57:58 ravinder-adsb python3[7461]: 30012
+Nov 16 17:57:58 ravinder-adsb systemd[1]: feed-data.service: Succeeded.
+Nov 16 17:58:01 ravinder-adsb systemd[1]: feed-data.service: Service RestartSec=3s expired, scheduling restart.
+Nov 16 17:58:01 ravinder-adsb systemd[1]: feed-data.service: Scheduled restart job, restart counter is at 4315.
+Nov 16 17:58:01 ravinder-adsb systemd[1]: Stopped ADSB forwarder.
+Nov 16 17:58:01 ravinder-adsb systemd[1]: Started ADSB forwarder.
+Nov 16 17:58:02 ravinder-adsb python3[7462]: 103.171.84.166
+Nov 16 17:58:02 ravinder-adsb python3[7462]: 30012
+Nov 16 17:58:02 ravinder-adsb systemd[1]: feed-data.service: Succeeded.
+Nov 16 17:58:02 ravinder-adsb reconnect-modem.py[467]: PING 103.171.84.166 (103.171.84.166) 0(28) bytes of data.
+Nov 16 17:58:02 ravinder-adsb reconnect-modem.py[467]: --- 103.171.84.166 ping statistics ---
+Nov 16 17:58:02 ravinder-adsb reconnect-modem.py[467]: 10 packets transmitted, 0 received, 100% packet loss, time 379ms
+Nov 16 17:58:05 ravinder-adsb systemd[1]: feed-data.service: Service RestartSec=3s expired, scheduling restart.
+Nov 16 17:58:05 ravinder-adsb systemd[1]: feed-data.service: Scheduled restart job, restart counter is at 4316.
+Nov 16 17:58:05 ravinder-adsb systemd[1]: Stopped ADSB forwarder.
+Nov 16 17:58:05 ravinder-adsb systemd[1]: Started ADSB forwarder.
+Nov 16 17:58:05 ravinder-adsb python3[7464]: 103.171.84.166
+Nov 16 17:58:05 ravinder-adsb python3[7464]: 30012
+Nov 16 17:58:06 ravinder-adsb systemd[1]: feed-data.service: Succeeded.
+Nov 16 17:58:07 ravinder-adsb reconnect-modem.py[467]: PING 8.8.8.8 (8.8.8.8) from 10.61.208.69 wwan0: 0(28) bytes of data.
+Nov 16 17:58:07 ravinder-adsb reconnect-modem.py[467]: 8 bytes from 8.8.8.8: icmp_seq=1 ttl=114
+Nov 16 17:58:07 ravinder-adsb reconnect-modem.py[467]: --- 8.8.8.8 ping statistics ---
+Nov 16 17:58:07 ravinder-adsb reconnect-modem.py[467]: 1 packets transmitted, 1 received, 0% packet loss, time 0ms
+Nov 16 17:58:09 ravinder-adsb systemd[1]: feed-data.service: Service RestartSec=3s expired, scheduling restart.
+Nov 16 17:58:09 ravinder-adsb systemd[1]: feed-data.service: Scheduled restart job, restart counter is at 4317.
+Nov 16 17:58:09 ravinder-adsb systemd[1]: Stopped ADSB forwarder.
+Nov 16 17:58:09 ravinder-adsb systemd[1]: Started ADSB forwarder.
+Nov 16 17:58:09 ravinder-adsb python3[7467]: 103.171.84.166
+Nov 16 17:58:09 ravinder-adsb python3[7467]: 30012
+Nov 16 17:58:09 ravinder-adsb systemd[1]: feed-data.service: Succeeded.
+Nov 16 17:58:13 ravinder-adsb systemd[1]: feed-data.service: Service RestartSec=3s expired, scheduling restart.
+Nov 16 17:58:13 ravinder-adsb systemd[1]: feed-data.service: Scheduled restart job, restart counter is at 4318.
+Nov 16 17:58:13 ravinder-adsb systemd[1]: Stopped ADSB forwarder.
+Nov 16 17:58:13 ravinder-adsb systemd[1]: Started ADSB forwarder.
+Nov 16 17:58:13 ravinder-adsb python3[7468]: 103.171.84.166
+Nov 16 17:58:13 ravinder-adsb python3[7468]: 30012
+Nov 16 17:58:13 ravinder-adsb systemd[1]: feed-data.service: Succeeded.
+Nov 16 17:58:16 ravinder-adsb systemd[1]: feed-data.service: Service RestartSec=3s expired, scheduling restart.
+Nov 16 17:58:16 ravinder-adsb systemd[1]: feed-data.service: Scheduled restart job, restart counter is at 4319.
+Nov 16 17:58:16 ravinder-adsb systemd[1]: Stopped ADSB forwarder.
+Nov 16 17:58:16 ravinder-adsb systemd[1]: Started ADSB forwarder.
+Nov 16 17:58:16 ravinder-adsb python3[7469]: 103.171.84.166
+Nov 16 17:58:16 ravinder-adsb python3[7469]: 30012
+Nov 16 17:58:17 ravinder-adsb systemd[1]: feed-data.service: Succeeded.
+Nov 16 17:58:17 ravinder-adsb reconnect-modem.py[467]: PING 103.171.84.166 (103.171.84.166) 0(28) bytes of data.
+Nov 16 17:58:17 ravinder-adsb reconnect-modem.py[467]: --- 103.171.84.166 ping statistics ---
+Nov 16 17:58:17 ravinder-adsb reconnect-modem.py[467]: 10 packets transmitted, 0 received, 100% packet loss, time 378ms
+Nov 16 17:58:20 ravinder-adsb systemd[1]: feed-data.service: Service RestartSec=3s expired, scheduling restart.
+Nov 16 17:58:20 ravinder-adsb systemd[1]: feed-data.service: Scheduled restart job, restart counter is at 4320.
+Nov 16 17:58:20 ravinder-adsb systemd[1]: Stopped ADSB forwarder.
+Nov 16 17:58:20 ravinder-adsb systemd[1]: Started ADSB forwarder.
+Nov 16 17:58:20 ravinder-adsb python3[7470]: 103.171.84.166
+Nov 16 17:58:20 ravinder-adsb python3[7470]: 30012
+Nov 16 17:58:20 ravinder-adsb systemd[1]: feed-data.service: Succeeded.
+Nov 16 17:58:22 ravinder-adsb reconnect-modem.py[467]: PING 8.8.8.8 (8.8.8.8) from 10.61.208.69 wwan0: 0(28) bytes of data.
+Nov 16 17:58:22 ravinder-adsb reconnect-modem.py[467]: 8 bytes from 8.8.8.8: icmp_seq=1 ttl=114
+Nov 16 17:58:22 ravinder-adsb reconnect-modem.py[467]: --- 8.8.8.8 ping statistics ---
+Nov 16 17:58:22 ravinder-adsb reconnect-modem.py[467]: 1 packets transmitted, 1 received, 0% packet loss, time 0ms
+Nov 16 17:58:24 ravinder-adsb systemd[1]: feed-data.service: Service RestartSec=3s expired, scheduling restart.
+Nov 16 17:58:24 ravinder-adsb systemd[1]: feed-data.service: Scheduled restart job, restart counter is at 4321.
+Nov 16 17:58:24 ravinder-adsb systemd[1]: Stopped ADSB forwarder.
+Nov 16 17:58:24 ravinder-adsb systemd[1]: Started ADSB forwarder.
+Nov 16 17:58:24 ravinder-adsb python3[7473]: 103.171.84.166
+Nov 16 17:58:24 ravinder-adsb python3[7473]: 30012
+Nov 16 17:58:24 ravinder-adsb systemd[1]: feed-data.service: Succeeded.
+Nov 16 17:58:27 ravinder-adsb systemd[1]: feed-data.service: Service RestartSec=3s expired, scheduling restart.
+Nov 16 17:58:27 ravinder-adsb systemd[1]: feed-data.service: Scheduled restart job, restart counter is at 4322.
+Nov 16 17:58:27 ravinder-adsb systemd[1]: Stopped ADSB forwarder.
+Nov 16 17:58:27 ravinder-adsb systemd[1]: Started ADSB forwarder.
+Nov 16 17:58:28 ravinder-adsb python3[7474]: 103.171.84.166
+Nov 16 17:58:28 ravinder-adsb python3[7474]: 30012
+Nov 16 17:58:28 ravinder-adsb systemd[1]: feed-data.service: Succeeded.
+Nov 16 17:58:31 ravinder-adsb systemd[1]: feed-data.service: Service RestartSec=3s expired, scheduling restart.
+Nov 16 17:58:31 ravinder-adsb systemd[1]: feed-data.service: Scheduled restart job, restart counter is at 4323.
+Nov 16 17:58:31 ravinder-adsb systemd[1]: Stopped ADSB forwarder.
+Nov 16 17:58:31 ravinder-adsb systemd[1]: Started ADSB forwarder.
+Nov 16 17:58:31 ravinder-adsb python3[7475]: 103.171.84.166
+Nov 16 17:58:31 ravinder-adsb python3[7475]: 30012
+Nov 16 17:58:32 ravinder-adsb systemd[1]: feed-data.service: Succeeded.
+Nov 16 17:58:32 ravinder-adsb reconnect-modem.py[467]: PING 103.171.84.166 (103.171.84.166) 0(28) bytes of data.
+Nov 16 17:58:32 ravinder-adsb reconnect-modem.py[467]: --- 103.171.84.166 ping statistics ---
+Nov 16 17:58:32 ravinder-adsb reconnect-modem.py[467]: 10 packets transmitted, 0 received, 100% packet loss, time 378ms
+Nov 16 17:58:35 ravinder-adsb systemd[1]: feed-data.service: Service RestartSec=3s expired, scheduling restart.
+Nov 16 17:58:35 ravinder-adsb systemd[1]: feed-data.service: Scheduled restart job, restart counter is at 4324.
+Nov 16 17:58:35 ravinder-adsb systemd[1]: Stopped ADSB forwarder.
+Nov 16 17:58:35 ravinder-adsb systemd[1]: Started ADSB forwarder.
+Nov 16 17:58:35 ravinder-adsb python3[7476]: 103.171.84.166
+Nov 16 17:58:35 ravinder-adsb python3[7476]: 30012
+Nov 16 17:58:35 ravinder-adsb systemd[1]: feed-data.service: Succeeded.
+Nov 16 17:58:37 ravinder-adsb reconnect-modem.py[467]: PING 8.8.8.8 (8.8.8.8) from 10.61.208.69 wwan0: 0(28) bytes of data.
+Nov 16 17:58:37 ravinder-adsb reconnect-modem.py[467]: 8 bytes from 8.8.8.8: icmp_seq=1 ttl=114
+Nov 16 17:58:37 ravinder-adsb reconnect-modem.py[467]: --- 8.8.8.8 ping statistics ---
+Nov 16 17:58:37 ravinder-adsb reconnect-modem.py[467]: 1 packets transmitted, 1 received, 0% packet loss, time 0ms
+Nov 16 17:58:39 ravinder-adsb systemd[1]: feed-data.service: Service RestartSec=3s expired, scheduling restart.
+Nov 16 17:58:39 ravinder-adsb systemd[1]: feed-data.service: Scheduled restart job, restart counter is at 4325.
+Nov 16 17:58:39 ravinder-adsb systemd[1]: Stopped ADSB forwarder.
+Nov 16 17:58:39 ravinder-adsb systemd[1]: Started ADSB forwarder.
+Nov 16 17:58:39 ravinder-adsb python3[7479]: 103.171.84.166
+Nov 16 17:58:39 ravinder-adsb python3[7479]: 30012
+Nov 16 17:58:39 ravinder-adsb systemd[1]: feed-data.service: Succeeded.
+Nov 16 17:58:42 ravinder-adsb systemd[1]: feed-data.service: Service RestartSec=3s expired, scheduling restart.
+Nov 16 17:58:42 ravinder-adsb systemd[1]: feed-data.service: Scheduled restart job, restart counter is at 4326.
+Nov 16 17:58:42 ravinder-adsb systemd[1]: Stopped ADSB forwarder.
+Nov 16 17:58:42 ravinder-adsb systemd[1]: Started ADSB forwarder.
+Nov 16 17:58:43 ravinder-adsb python3[7480]: 103.171.84.166
+Nov 16 17:58:43 ravinder-adsb python3[7480]: 30012
+Nov 16 17:58:43 ravinder-adsb systemd[1]: feed-data.service: Succeeded.
+Nov 16 17:58:46 ravinder-adsb systemd[1]: feed-data.service: Service RestartSec=3s expired, scheduling restart.
+Nov 16 17:58:46 ravinder-adsb systemd[1]: feed-data.service: Scheduled restart job, restart counter is at 4327.
+Nov 16 17:58:46 ravinder-adsb systemd[1]: Stopped ADSB forwarder.
+Nov 16 17:58:46 ravinder-adsb systemd[1]: Started ADSB forwarder.
+Nov 16 17:58:46 ravinder-adsb python3[7481]: 103.171.84.166
+Nov 16 17:58:46 ravinder-adsb python3[7481]: 30012
+Nov 16 17:58:47 ravinder-adsb systemd[1]: feed-data.service: Succeeded.
+Nov 16 17:58:47 ravinder-adsb reconnect-modem.py[467]: PING 103.171.84.166 (103.171.84.166) 0(28) bytes of data.
+Nov 16 17:58:47 ravinder-adsb reconnect-modem.py[467]: --- 103.171.84.166 ping statistics ---
+Nov 16 17:58:47 ravinder-adsb reconnect-modem.py[467]: 10 packets transmitted, 0 received, 100% packet loss, time 380ms
+Nov 16 17:58:50 ravinder-adsb systemd[1]: feed-data.service: Service RestartSec=3s expired, scheduling restart.
+Nov 16 17:58:50 ravinder-adsb systemd[1]: feed-data.service: Scheduled restart job, restart counter is at 4328.
+Nov 16 17:58:50 ravinder-adsb systemd[1]: Stopped ADSB forwarder.
+Nov 16 17:58:50 ravinder-adsb systemd[1]: Started ADSB forwarder.
+Nov 16 17:58:50 ravinder-adsb python3[7482]: 103.171.84.166
+Nov 16 17:58:50 ravinder-adsb python3[7482]: 30012
+Nov 16 17:58:50 ravinder-adsb systemd[1]: feed-data.service: Succeeded.
+Nov 16 17:58:52 ravinder-adsb reconnect-modem.py[467]: PING 8.8.8.8 (8.8.8.8) from 10.61.208.69 wwan0: 0(28) bytes of data.
+Nov 16 17:58:52 ravinder-adsb reconnect-modem.py[467]: 8 bytes from 8.8.8.8: icmp_seq=1 ttl=114
+Nov 16 17:58:52 ravinder-adsb reconnect-modem.py[467]: --- 8.8.8.8 ping statistics ---
+Nov 16 17:58:52 ravinder-adsb reconnect-modem.py[467]: 1 packets transmitted, 1 received, 0% packet loss, time 0ms
+Nov 16 17:58:54 ravinder-adsb systemd[1]: feed-data.service: Service RestartSec=3s expired, scheduling restart.
+Nov 16 17:58:54 ravinder-adsb systemd[1]: feed-data.service: Scheduled restart job, restart counter is at 4329.
+Nov 16 17:58:54 ravinder-adsb systemd[1]: Stopped ADSB forwarder.
+Nov 16 17:58:54 ravinder-adsb systemd[1]: Started ADSB forwarder.
+Nov 16 17:58:54 ravinder-adsb python3[7486]: 103.171.84.166
+Nov 16 17:58:54 ravinder-adsb python3[7486]: 30012
+Nov 16 17:58:54 ravinder-adsb systemd[1]: feed-data.service: Succeeded.
+Nov 16 17:58:57 ravinder-adsb systemd[1]: feed-data.service: Service RestartSec=3s expired, scheduling restart.
+Nov 16 17:58:57 ravinder-adsb systemd[1]: feed-data.service: Scheduled restart job, restart counter is at 4330.
+Nov 16 17:58:57 ravinder-adsb systemd[1]: Stopped ADSB forwarder.
+Nov 16 17:58:57 ravinder-adsb systemd[1]: Started ADSB forwarder.
+Nov 16 17:58:57 ravinder-adsb python3[7487]: 103.171.84.166
+Nov 16 17:58:57 ravinder-adsb python3[7487]: 30012
+Nov 16 17:58:58 ravinder-adsb systemd[1]: feed-data.service: Succeeded.
+Nov 16 17:59:01 ravinder-adsb systemd[1]: feed-data.service: Service RestartSec=3s expired, scheduling restart.
+Nov 16 17:59:01 ravinder-adsb systemd[1]: feed-data.service: Scheduled restart job, restart counter is at 4331.
+Nov 16 17:59:01 ravinder-adsb systemd[1]: Stopped ADSB forwarder.
+Nov 16 17:59:01 ravinder-adsb systemd[1]: Started ADSB forwarder.
+Nov 16 17:59:01 ravinder-adsb python3[7489]: 103.171.84.166
+Nov 16 17:59:01 ravinder-adsb python3[7489]: 30012
+Nov 16 17:59:01 ravinder-adsb systemd[1]: feed-data.service: Succeeded.
+Nov 16 17:59:02 ravinder-adsb reconnect-modem.py[467]: PING 103.171.84.166 (103.171.84.166) 0(28) bytes of data.
+Nov 16 17:59:02 ravinder-adsb reconnect-modem.py[467]: --- 103.171.84.166 ping statistics ---
+Nov 16 17:59:02 ravinder-adsb reconnect-modem.py[467]: 10 packets transmitted, 0 received, 100% packet loss, time 378ms
+Nov 16 17:59:05 ravinder-adsb systemd[1]: feed-data.service: Service RestartSec=3s expired, scheduling restart.
+Nov 16 17:59:05 ravinder-adsb systemd[1]: feed-data.service: Scheduled restart job, restart counter is at 4332.
+Nov 16 17:59:05 ravinder-adsb systemd[1]: Stopped ADSB forwarder.
+Nov 16 17:59:05 ravinder-adsb systemd[1]: Started ADSB forwarder.
+Nov 16 17:59:05 ravinder-adsb python3[7490]: 103.171.84.166
+Nov 16 17:59:05 ravinder-adsb python3[7490]: 30012
+Nov 16 17:59:05 ravinder-adsb systemd[1]: feed-data.service: Succeeded.
+Nov 16 17:59:08 ravinder-adsb reconnect-modem.py[467]: PING 8.8.8.8 (8.8.8.8) from 10.61.208.69 wwan0: 0(28) bytes of data.
+Nov 16 17:59:08 ravinder-adsb reconnect-modem.py[467]: 8 bytes from 8.8.8.8: icmp_seq=1 ttl=114
+Nov 16 17:59:08 ravinder-adsb reconnect-modem.py[467]: --- 8.8.8.8 ping statistics ---
+Nov 16 17:59:08 ravinder-adsb reconnect-modem.py[467]: 1 packets transmitted, 1 received, 0% packet loss, time 0ms
+Nov 16 17:59:08 ravinder-adsb systemd[1]: feed-data.service: Service RestartSec=3s expired, scheduling restart.
+Nov 16 17:59:08 ravinder-adsb systemd[1]: feed-data.service: Scheduled restart job, restart counter is at 4333.
+Nov 16 17:59:08 ravinder-adsb systemd[1]: Stopped ADSB forwarder.
+Nov 16 17:59:08 ravinder-adsb systemd[1]: Started ADSB forwarder.
+Nov 16 17:59:09 ravinder-adsb python3[7493]: 103.171.84.166
+Nov 16 17:59:09 ravinder-adsb python3[7493]: 30012
+Nov 16 17:59:09 ravinder-adsb systemd[1]: feed-data.service: Succeeded.
+Nov 16 17:59:12 ravinder-adsb systemd[1]: feed-data.service: Service RestartSec=3s expired, scheduling restart.
+Nov 16 17:59:12 ravinder-adsb systemd[1]: feed-data.service: Scheduled restart job, restart counter is at 4334.
+Nov 16 17:59:12 ravinder-adsb systemd[1]: Stopped ADSB forwarder.
+Nov 16 17:59:12 ravinder-adsb systemd[1]: Started ADSB forwarder.
+Nov 16 17:59:12 ravinder-adsb python3[7494]: 103.171.84.166
+Nov 16 17:59:12 ravinder-adsb python3[7494]: 30012
+Nov 16 17:59:13 ravinder-adsb systemd[1]: feed-data.service: Succeeded.
+Nov 16 17:59:16 ravinder-adsb systemd[1]: feed-data.service: Service RestartSec=3s expired, scheduling restart.
+Nov 16 17:59:16 ravinder-adsb systemd[1]: feed-data.service: Scheduled restart job, restart counter is at 4335.
+Nov 16 17:59:16 ravinder-adsb systemd[1]: Stopped ADSB forwarder.
+Nov 16 17:59:16 ravinder-adsb systemd[1]: Started ADSB forwarder.
+Nov 16 17:59:16 ravinder-adsb python3[7495]: 103.171.84.166
+Nov 16 17:59:16 ravinder-adsb python3[7495]: 30012
+Nov 16 17:59:16 ravinder-adsb systemd[1]: feed-data.service: Succeeded.
+Nov 16 17:59:18 ravinder-adsb reconnect-modem.py[467]: PING 103.171.84.166 (103.171.84.166) 0(28) bytes of data.
+Nov 16 17:59:18 ravinder-adsb reconnect-modem.py[467]: --- 103.171.84.166 ping statistics ---
+Nov 16 17:59:18 ravinder-adsb reconnect-modem.py[467]: 10 packets transmitted, 0 received, 100% packet loss, time 378ms
+Nov 16 17:59:20 ravinder-adsb systemd[1]: feed-data.service: Service RestartSec=3s expired, scheduling restart.
+Nov 16 17:59:20 ravinder-adsb systemd[1]: feed-data.service: Scheduled restart job, restart counter is at 4336.
+Nov 16 17:59:20 ravinder-adsb systemd[1]: Stopped ADSB forwarder.
+Nov 16 17:59:20 ravinder-adsb systemd[1]: Started ADSB forwarder.
+Nov 16 17:59:20 ravinder-adsb python3[7496]: 103.171.84.166
+Nov 16 17:59:20 ravinder-adsb python3[7496]: 30012
+Nov 16 17:59:20 ravinder-adsb systemd[1]: feed-data.service: Succeeded.
+Nov 16 17:59:23 ravinder-adsb reconnect-modem.py[467]: PING 8.8.8.8 (8.8.8.8) from 10.61.208.69 wwan0: 0(28) bytes of data.
+Nov 16 17:59:23 ravinder-adsb reconnect-modem.py[467]: 8 bytes from 8.8.8.8: icmp_seq=1 ttl=114
+Nov 16 17:59:23 ravinder-adsb reconnect-modem.py[467]: --- 8.8.8.8 ping statistics ---

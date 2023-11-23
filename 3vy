@@ -1,0 +1,1000 @@
+Nov 16 10:35:32 ravinder-adsb frpc[670]: 2023/11/16 10:35:32 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 16 10:35:34 ravinder-adsb frpc[670]: 2023/11/16 10:35:34 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 16 10:35:34 ravinder-adsb frpc[670]: 2023/11/16 10:35:34 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 16 10:35:36 ravinder-adsb frpc[670]: 2023/11/16 10:35:36 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 16 10:35:36 ravinder-adsb frpc[670]: 2023/11/16 10:35:36 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 16 10:35:38 ravinder-adsb frpc[670]: 2023/11/16 10:35:38 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 16 10:35:38 ravinder-adsb frpc[670]: 2023/11/16 10:35:38 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 16 10:35:39 ravinder-adsb reconnect-modem.py[471]: PING 8.8.8.8 (8.8.8.8) from 0.0.0.0 wwan0: 0(28) bytes of data.
+Nov 16 10:35:39 ravinder-adsb reconnect-modem.py[471]: --- 8.8.8.8 ping statistics ---
+Nov 16 10:35:39 ravinder-adsb reconnect-modem.py[471]: 10 packets transmitted, 0 received, 100% packet loss, time 364ms
+Nov 16 10:35:39 ravinder-adsb reconnect-modem.py[471]: connect: Network is unreachable
+Nov 16 10:35:40 ravinder-adsb frpc[670]: 2023/11/16 10:35:40 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 16 10:35:40 ravinder-adsb frpc[670]: 2023/11/16 10:35:40 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 16 10:35:42 ravinder-adsb frpc[670]: 2023/11/16 10:35:42 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 16 10:35:42 ravinder-adsb frpc[670]: 2023/11/16 10:35:42 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 16 10:35:44 ravinder-adsb reconnect-modem.py[471]: ping: Warning: source address might be selected on device other than wwan0.
+Nov 16 10:35:44 ravinder-adsb frpc[670]: 2023/11/16 10:35:44 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 16 10:35:44 ravinder-adsb frpc[670]: 2023/11/16 10:35:44 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 16 10:35:46 ravinder-adsb frpc[670]: 2023/11/16 10:35:46 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 16 10:35:46 ravinder-adsb frpc[670]: 2023/11/16 10:35:46 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 16 10:35:48 ravinder-adsb frpc[670]: 2023/11/16 10:35:48 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 16 10:35:48 ravinder-adsb frpc[670]: 2023/11/16 10:35:48 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 16 10:35:50 ravinder-adsb frpc[670]: 2023/11/16 10:35:50 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 16 10:35:50 ravinder-adsb frpc[670]: 2023/11/16 10:35:50 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 16 10:35:52 ravinder-adsb frpc[670]: 2023/11/16 10:35:52 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 16 10:35:52 ravinder-adsb frpc[670]: 2023/11/16 10:35:52 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 16 10:35:54 ravinder-adsb reconnect-modem.py[471]: PING 8.8.8.8 (8.8.8.8) from 0.0.0.0 wwan0: 0(28) bytes of data.
+Nov 16 10:35:54 ravinder-adsb reconnect-modem.py[471]: --- 8.8.8.8 ping statistics ---
+Nov 16 10:35:54 ravinder-adsb reconnect-modem.py[471]: 10 packets transmitted, 0 received, 100% packet loss, time 368ms
+Nov 16 10:35:54 ravinder-adsb reconnect-modem.py[471]: connect: Network is unreachable
+Nov 16 10:35:54 ravinder-adsb frpc[670]: 2023/11/16 10:35:54 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 16 10:35:54 ravinder-adsb frpc[670]: 2023/11/16 10:35:54 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 16 10:35:56 ravinder-adsb frpc[670]: 2023/11/16 10:35:56 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 16 10:35:56 ravinder-adsb frpc[670]: 2023/11/16 10:35:56 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 16 10:35:58 ravinder-adsb frpc[670]: 2023/11/16 10:35:58 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 16 10:35:58 ravinder-adsb frpc[670]: 2023/11/16 10:35:58 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 16 10:35:59 ravinder-adsb reconnect-modem.py[471]: ping: Warning: source address might be selected on device other than wwan0.
+Nov 16 10:36:00 ravinder-adsb frpc[670]: 2023/11/16 10:36:00 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 16 10:36:00 ravinder-adsb frpc[670]: 2023/11/16 10:36:00 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 16 10:36:02 ravinder-adsb frpc[670]: 2023/11/16 10:36:02 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 16 10:36:02 ravinder-adsb frpc[670]: 2023/11/16 10:36:02 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 16 10:36:04 ravinder-adsb frpc[670]: 2023/11/16 10:36:04 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 16 10:36:04 ravinder-adsb frpc[670]: 2023/11/16 10:36:04 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 16 10:36:06 ravinder-adsb frpc[670]: 2023/11/16 10:36:06 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 16 10:36:06 ravinder-adsb frpc[670]: 2023/11/16 10:36:06 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 16 10:36:08 ravinder-adsb frpc[670]: 2023/11/16 10:36:08 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 16 10:36:08 ravinder-adsb frpc[670]: 2023/11/16 10:36:08 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 16 10:36:09 ravinder-adsb reconnect-modem.py[471]: PING 8.8.8.8 (8.8.8.8) from 0.0.0.0 wwan0: 0(28) bytes of data.
+Nov 16 10:36:09 ravinder-adsb reconnect-modem.py[471]: --- 8.8.8.8 ping statistics ---
+Nov 16 10:36:09 ravinder-adsb reconnect-modem.py[471]: 10 packets transmitted, 0 received, 100% packet loss, time 370ms
+Nov 16 10:36:09 ravinder-adsb reconnect-modem.py[471]: connect: Network is unreachable
+Nov 16 10:36:10 ravinder-adsb frpc[670]: 2023/11/16 10:36:10 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 16 10:36:10 ravinder-adsb frpc[670]: 2023/11/16 10:36:10 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 16 10:36:12 ravinder-adsb frpc[670]: 2023/11/16 10:36:12 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 16 10:36:12 ravinder-adsb frpc[670]: 2023/11/16 10:36:12 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 16 10:36:14 ravinder-adsb reconnect-modem.py[471]: ping: Warning: source address might be selected on device other than wwan0.
+Nov 16 10:36:14 ravinder-adsb frpc[670]: 2023/11/16 10:36:14 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 16 10:36:14 ravinder-adsb frpc[670]: 2023/11/16 10:36:14 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 16 10:36:16 ravinder-adsb frpc[670]: 2023/11/16 10:36:16 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 16 10:36:16 ravinder-adsb frpc[670]: 2023/11/16 10:36:16 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 16 10:36:18 ravinder-adsb frpc[670]: 2023/11/16 10:36:18 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 16 10:36:18 ravinder-adsb frpc[670]: 2023/11/16 10:36:18 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 16 10:36:20 ravinder-adsb frpc[670]: 2023/11/16 10:36:20 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 16 10:36:20 ravinder-adsb frpc[670]: 2023/11/16 10:36:20 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 16 10:36:22 ravinder-adsb frpc[670]: 2023/11/16 10:36:22 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 16 10:36:22 ravinder-adsb frpc[670]: 2023/11/16 10:36:22 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: PING 8.8.8.8 (8.8.8.8) from 0.0.0.0 wwan0: 0(28) bytes of data.
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: --- 8.8.8.8 ping statistics ---
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 10 packets transmitted, 0 received, 100% packet loss, time 371ms
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: connect: Network is unreachable
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:24 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb frpc[670]: 2023/11/16 10:36:24 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 16 10:36:25 ravinder-adsb frpc[670]: 2023/11/16 10:36:24 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: 2
+Nov 16 10:36:25 ravinder-adsb reconnect-modem.py[471]: (1, 2)

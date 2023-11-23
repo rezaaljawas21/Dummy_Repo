@@ -1,0 +1,1000 @@
+Nov 15 04:33:39 ravinder-adsb frpc[670]: 2023/11/15 04:33:39 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:33:39 ravinder-adsb frpc[670]: 2023/11/15 04:33:39 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:33:40 ravinder-adsb reconnect-modem.py[471]: ping: Warning: source address might be selected on device other than wwan0.
+Nov 15 04:33:41 ravinder-adsb frpc[670]: 2023/11/15 04:33:41 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:33:41 ravinder-adsb frpc[670]: 2023/11/15 04:33:41 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:33:43 ravinder-adsb frpc[670]: 2023/11/15 04:33:43 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:33:43 ravinder-adsb frpc[670]: 2023/11/15 04:33:43 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:33:45 ravinder-adsb frpc[670]: 2023/11/15 04:33:45 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:33:45 ravinder-adsb frpc[670]: 2023/11/15 04:33:45 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:33:47 ravinder-adsb frpc[670]: 2023/11/15 04:33:47 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:33:47 ravinder-adsb frpc[670]: 2023/11/15 04:33:47 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:33:49 ravinder-adsb frpc[670]: 2023/11/15 04:33:49 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:33:49 ravinder-adsb frpc[670]: 2023/11/15 04:33:49 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:33:50 ravinder-adsb reconnect-modem.py[471]: PING 8.8.8.8 (8.8.8.8) from 0.0.0.0 wwan0: 0(28) bytes of data.
+Nov 15 04:33:50 ravinder-adsb reconnect-modem.py[471]: --- 8.8.8.8 ping statistics ---
+Nov 15 04:33:50 ravinder-adsb reconnect-modem.py[471]: 10 packets transmitted, 0 received, 100% packet loss, time 379ms
+Nov 15 04:33:50 ravinder-adsb reconnect-modem.py[471]: connect: Network is unreachable
+Nov 15 04:33:51 ravinder-adsb frpc[670]: 2023/11/15 04:33:51 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:33:51 ravinder-adsb frpc[670]: 2023/11/15 04:33:51 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:33:53 ravinder-adsb frpc[670]: 2023/11/15 04:33:53 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:33:53 ravinder-adsb frpc[670]: 2023/11/15 04:33:53 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:33:55 ravinder-adsb reconnect-modem.py[471]: ping: Warning: source address might be selected on device other than wwan0.
+Nov 15 04:33:55 ravinder-adsb frpc[670]: 2023/11/15 04:33:55 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:33:55 ravinder-adsb frpc[670]: 2023/11/15 04:33:55 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:33:57 ravinder-adsb frpc[670]: 2023/11/15 04:33:57 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:33:57 ravinder-adsb frpc[670]: 2023/11/15 04:33:57 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:33:59 ravinder-adsb frpc[670]: 2023/11/15 04:33:59 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:33:59 ravinder-adsb frpc[670]: 2023/11/15 04:33:59 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:34:01 ravinder-adsb frpc[670]: 2023/11/15 04:34:01 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:34:01 ravinder-adsb frpc[670]: 2023/11/15 04:34:01 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:34:03 ravinder-adsb frpc[670]: 2023/11/15 04:34:03 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:34:03 ravinder-adsb frpc[670]: 2023/11/15 04:34:03 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:34:05 ravinder-adsb reconnect-modem.py[471]: PING 8.8.8.8 (8.8.8.8) from 0.0.0.0 wwan0: 0(28) bytes of data.
+Nov 15 04:34:05 ravinder-adsb reconnect-modem.py[471]: --- 8.8.8.8 ping statistics ---
+Nov 15 04:34:05 ravinder-adsb reconnect-modem.py[471]: 10 packets transmitted, 0 received, 100% packet loss, time 386ms
+Nov 15 04:34:05 ravinder-adsb reconnect-modem.py[471]: connect: Network is unreachable
+Nov 15 04:34:05 ravinder-adsb frpc[670]: 2023/11/15 04:34:05 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:34:05 ravinder-adsb frpc[670]: 2023/11/15 04:34:05 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:34:07 ravinder-adsb frpc[670]: 2023/11/15 04:34:07 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:34:07 ravinder-adsb frpc[670]: 2023/11/15 04:34:07 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:34:09 ravinder-adsb frpc[670]: 2023/11/15 04:34:09 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:34:09 ravinder-adsb frpc[670]: 2023/11/15 04:34:09 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:34:10 ravinder-adsb reconnect-modem.py[471]: ping: Warning: source address might be selected on device other than wwan0.
+Nov 15 04:34:11 ravinder-adsb frpc[670]: 2023/11/15 04:34:11 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:34:11 ravinder-adsb frpc[670]: 2023/11/15 04:34:11 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:34:13 ravinder-adsb frpc[670]: 2023/11/15 04:34:13 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:34:13 ravinder-adsb frpc[670]: 2023/11/15 04:34:13 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:34:15 ravinder-adsb frpc[670]: 2023/11/15 04:34:15 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:34:15 ravinder-adsb frpc[670]: 2023/11/15 04:34:15 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:34:17 ravinder-adsb frpc[670]: 2023/11/15 04:34:17 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:34:17 ravinder-adsb frpc[670]: 2023/11/15 04:34:17 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:34:19 ravinder-adsb frpc[670]: 2023/11/15 04:34:19 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:34:19 ravinder-adsb frpc[670]: 2023/11/15 04:34:19 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:34:20 ravinder-adsb reconnect-modem.py[471]: PING 8.8.8.8 (8.8.8.8) from 0.0.0.0 wwan0: 0(28) bytes of data.
+Nov 15 04:34:20 ravinder-adsb reconnect-modem.py[471]: --- 8.8.8.8 ping statistics ---
+Nov 15 04:34:20 ravinder-adsb reconnect-modem.py[471]: 10 packets transmitted, 0 received, 100% packet loss, time 387ms
+Nov 15 04:34:20 ravinder-adsb reconnect-modem.py[471]: connect: Network is unreachable
+Nov 15 04:34:21 ravinder-adsb frpc[670]: 2023/11/15 04:34:21 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:34:21 ravinder-adsb frpc[670]: 2023/11/15 04:34:21 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:34:23 ravinder-adsb frpc[670]: 2023/11/15 04:34:23 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:34:23 ravinder-adsb frpc[670]: 2023/11/15 04:34:23 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:34:25 ravinder-adsb reconnect-modem.py[471]: ping: Warning: source address might be selected on device other than wwan0.
+Nov 15 04:34:25 ravinder-adsb frpc[670]: 2023/11/15 04:34:25 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:34:25 ravinder-adsb frpc[670]: 2023/11/15 04:34:25 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:34:27 ravinder-adsb frpc[670]: 2023/11/15 04:34:27 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:34:27 ravinder-adsb frpc[670]: 2023/11/15 04:34:27 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:34:29 ravinder-adsb frpc[670]: 2023/11/15 04:34:29 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:34:29 ravinder-adsb frpc[670]: 2023/11/15 04:34:29 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:34:31 ravinder-adsb frpc[670]: 2023/11/15 04:34:31 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:34:31 ravinder-adsb frpc[670]: 2023/11/15 04:34:31 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:34:33 ravinder-adsb frpc[670]: 2023/11/15 04:34:33 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:34:33 ravinder-adsb frpc[670]: 2023/11/15 04:34:33 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:34:35 ravinder-adsb reconnect-modem.py[471]: PING 8.8.8.8 (8.8.8.8) from 0.0.0.0 wwan0: 0(28) bytes of data.
+Nov 15 04:34:35 ravinder-adsb reconnect-modem.py[471]: --- 8.8.8.8 ping statistics ---
+Nov 15 04:34:35 ravinder-adsb reconnect-modem.py[471]: 10 packets transmitted, 0 received, 100% packet loss, time 387ms
+Nov 15 04:34:35 ravinder-adsb reconnect-modem.py[471]: connect: Network is unreachable
+Nov 15 04:34:35 ravinder-adsb frpc[670]: 2023/11/15 04:34:35 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:34:35 ravinder-adsb frpc[670]: 2023/11/15 04:34:35 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:34:37 ravinder-adsb frpc[670]: 2023/11/15 04:34:37 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:34:37 ravinder-adsb frpc[670]: 2023/11/15 04:34:37 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:34:39 ravinder-adsb frpc[670]: 2023/11/15 04:34:39 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:34:39 ravinder-adsb frpc[670]: 2023/11/15 04:34:39 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:34:40 ravinder-adsb reconnect-modem.py[471]: ping: Warning: source address might be selected on device other than wwan0.
+Nov 15 04:34:41 ravinder-adsb frpc[670]: 2023/11/15 04:34:41 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:34:41 ravinder-adsb frpc[670]: 2023/11/15 04:34:41 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:34:43 ravinder-adsb frpc[670]: 2023/11/15 04:34:43 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:34:43 ravinder-adsb frpc[670]: 2023/11/15 04:34:43 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:34:45 ravinder-adsb frpc[670]: 2023/11/15 04:34:45 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:34:45 ravinder-adsb frpc[670]: 2023/11/15 04:34:45 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:34:47 ravinder-adsb frpc[670]: 2023/11/15 04:34:47 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:34:47 ravinder-adsb frpc[670]: 2023/11/15 04:34:47 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:34:49 ravinder-adsb frpc[670]: 2023/11/15 04:34:49 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:34:49 ravinder-adsb frpc[670]: 2023/11/15 04:34:49 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:34:50 ravinder-adsb reconnect-modem.py[471]: PING 8.8.8.8 (8.8.8.8) from 0.0.0.0 wwan0: 0(28) bytes of data.
+Nov 15 04:34:50 ravinder-adsb reconnect-modem.py[471]: --- 8.8.8.8 ping statistics ---
+Nov 15 04:34:50 ravinder-adsb reconnect-modem.py[471]: 10 packets transmitted, 0 received, 100% packet loss, time 388ms
+Nov 15 04:34:50 ravinder-adsb reconnect-modem.py[471]: connect: Network is unreachable
+Nov 15 04:34:51 ravinder-adsb frpc[670]: 2023/11/15 04:34:51 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:34:51 ravinder-adsb frpc[670]: 2023/11/15 04:34:51 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:34:53 ravinder-adsb frpc[670]: 2023/11/15 04:34:53 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:34:53 ravinder-adsb frpc[670]: 2023/11/15 04:34:53 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:34:55 ravinder-adsb reconnect-modem.py[471]: ping: Warning: source address might be selected on device other than wwan0.
+Nov 15 04:34:55 ravinder-adsb frpc[670]: 2023/11/15 04:34:55 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:34:55 ravinder-adsb frpc[670]: 2023/11/15 04:34:55 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:34:57 ravinder-adsb frpc[670]: 2023/11/15 04:34:57 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:34:57 ravinder-adsb frpc[670]: 2023/11/15 04:34:57 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:34:59 ravinder-adsb frpc[670]: 2023/11/15 04:34:59 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:34:59 ravinder-adsb frpc[670]: 2023/11/15 04:34:59 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:35:01 ravinder-adsb frpc[670]: 2023/11/15 04:35:01 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:35:01 ravinder-adsb frpc[670]: 2023/11/15 04:35:01 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:35:03 ravinder-adsb frpc[670]: 2023/11/15 04:35:03 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:35:03 ravinder-adsb frpc[670]: 2023/11/15 04:35:03 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:35:05 ravinder-adsb reconnect-modem.py[471]: PING 8.8.8.8 (8.8.8.8) from 0.0.0.0 wwan0: 0(28) bytes of data.
+Nov 15 04:35:05 ravinder-adsb reconnect-modem.py[471]: --- 8.8.8.8 ping statistics ---
+Nov 15 04:35:05 ravinder-adsb reconnect-modem.py[471]: 10 packets transmitted, 0 received, 100% packet loss, time 389ms
+Nov 15 04:35:05 ravinder-adsb reconnect-modem.py[471]: connect: Network is unreachable
+Nov 15 04:35:05 ravinder-adsb frpc[670]: 2023/11/15 04:35:05 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:35:05 ravinder-adsb frpc[670]: 2023/11/15 04:35:05 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:35:07 ravinder-adsb frpc[670]: 2023/11/15 04:35:07 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:35:07 ravinder-adsb frpc[670]: 2023/11/15 04:35:07 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:35:09 ravinder-adsb frpc[670]: 2023/11/15 04:35:09 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:35:09 ravinder-adsb frpc[670]: 2023/11/15 04:35:09 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:35:10 ravinder-adsb reconnect-modem.py[471]: ping: Warning: source address might be selected on device other than wwan0.
+Nov 15 04:35:11 ravinder-adsb frpc[670]: 2023/11/15 04:35:11 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:35:11 ravinder-adsb frpc[670]: 2023/11/15 04:35:11 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:35:13 ravinder-adsb frpc[670]: 2023/11/15 04:35:13 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:35:13 ravinder-adsb frpc[670]: 2023/11/15 04:35:13 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:35:15 ravinder-adsb frpc[670]: 2023/11/15 04:35:15 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:35:15 ravinder-adsb frpc[670]: 2023/11/15 04:35:15 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:35:17 ravinder-adsb frpc[670]: 2023/11/15 04:35:17 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:35:17 ravinder-adsb frpc[670]: 2023/11/15 04:35:17 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:35:19 ravinder-adsb frpc[670]: 2023/11/15 04:35:19 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:35:19 ravinder-adsb frpc[670]: 2023/11/15 04:35:19 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:35:20 ravinder-adsb reconnect-modem.py[471]: PING 8.8.8.8 (8.8.8.8) from 0.0.0.0 wwan0: 0(28) bytes of data.
+Nov 15 04:35:20 ravinder-adsb reconnect-modem.py[471]: --- 8.8.8.8 ping statistics ---
+Nov 15 04:35:20 ravinder-adsb reconnect-modem.py[471]: 10 packets transmitted, 0 received, 100% packet loss, time 389ms
+Nov 15 04:35:20 ravinder-adsb reconnect-modem.py[471]: connect: Network is unreachable
+Nov 15 04:35:21 ravinder-adsb frpc[670]: 2023/11/15 04:35:21 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:35:21 ravinder-adsb frpc[670]: 2023/11/15 04:35:21 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:35:23 ravinder-adsb frpc[670]: 2023/11/15 04:35:23 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:35:23 ravinder-adsb frpc[670]: 2023/11/15 04:35:23 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:35:25 ravinder-adsb reconnect-modem.py[471]: ping: Warning: source address might be selected on device other than wwan0.
+Nov 15 04:35:25 ravinder-adsb frpc[670]: 2023/11/15 04:35:25 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:35:25 ravinder-adsb frpc[670]: 2023/11/15 04:35:25 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:35:27 ravinder-adsb frpc[670]: 2023/11/15 04:35:27 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:35:27 ravinder-adsb frpc[670]: 2023/11/15 04:35:27 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:35:29 ravinder-adsb frpc[670]: 2023/11/15 04:35:29 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:35:29 ravinder-adsb frpc[670]: 2023/11/15 04:35:29 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:35:31 ravinder-adsb frpc[670]: 2023/11/15 04:35:31 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:35:31 ravinder-adsb frpc[670]: 2023/11/15 04:35:31 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:35:33 ravinder-adsb frpc[670]: 2023/11/15 04:35:33 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:35:33 ravinder-adsb frpc[670]: 2023/11/15 04:35:33 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:35:35 ravinder-adsb reconnect-modem.py[471]: PING 8.8.8.8 (8.8.8.8) from 0.0.0.0 wwan0: 0(28) bytes of data.
+Nov 15 04:35:35 ravinder-adsb reconnect-modem.py[471]: --- 8.8.8.8 ping statistics ---
+Nov 15 04:35:35 ravinder-adsb reconnect-modem.py[471]: 10 packets transmitted, 0 received, 100% packet loss, time 392ms
+Nov 15 04:35:35 ravinder-adsb reconnect-modem.py[471]: connect: Network is unreachable
+Nov 15 04:35:35 ravinder-adsb frpc[670]: 2023/11/15 04:35:35 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:35:35 ravinder-adsb frpc[670]: 2023/11/15 04:35:35 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:35:37 ravinder-adsb frpc[670]: 2023/11/15 04:35:37 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:35:37 ravinder-adsb frpc[670]: 2023/11/15 04:35:37 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:35:39 ravinder-adsb frpc[670]: 2023/11/15 04:35:39 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:35:39 ravinder-adsb frpc[670]: 2023/11/15 04:35:39 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:35:40 ravinder-adsb reconnect-modem.py[471]: ping: Warning: source address might be selected on device other than wwan0.
+Nov 15 04:35:41 ravinder-adsb frpc[670]: 2023/11/15 04:35:41 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:35:41 ravinder-adsb frpc[670]: 2023/11/15 04:35:41 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:35:43 ravinder-adsb frpc[670]: 2023/11/15 04:35:43 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:35:43 ravinder-adsb frpc[670]: 2023/11/15 04:35:43 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:35:45 ravinder-adsb frpc[670]: 2023/11/15 04:35:45 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:35:45 ravinder-adsb frpc[670]: 2023/11/15 04:35:45 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:35:47 ravinder-adsb frpc[670]: 2023/11/15 04:35:47 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:35:47 ravinder-adsb frpc[670]: 2023/11/15 04:35:47 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:35:49 ravinder-adsb frpc[670]: 2023/11/15 04:35:49 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:35:49 ravinder-adsb frpc[670]: 2023/11/15 04:35:49 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:35:50 ravinder-adsb reconnect-modem.py[471]: PING 8.8.8.8 (8.8.8.8) from 0.0.0.0 wwan0: 0(28) bytes of data.
+Nov 15 04:35:50 ravinder-adsb reconnect-modem.py[471]: --- 8.8.8.8 ping statistics ---
+Nov 15 04:35:50 ravinder-adsb reconnect-modem.py[471]: 10 packets transmitted, 0 received, 100% packet loss, time 396ms
+Nov 15 04:35:50 ravinder-adsb reconnect-modem.py[471]: connect: Network is unreachable
+Nov 15 04:35:51 ravinder-adsb frpc[670]: 2023/11/15 04:35:51 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:35:51 ravinder-adsb frpc[670]: 2023/11/15 04:35:51 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:35:53 ravinder-adsb frpc[670]: 2023/11/15 04:35:53 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:35:53 ravinder-adsb frpc[670]: 2023/11/15 04:35:53 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:35:55 ravinder-adsb reconnect-modem.py[471]: ping: Warning: source address might be selected on device other than wwan0.
+Nov 15 04:35:55 ravinder-adsb frpc[670]: 2023/11/15 04:35:55 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:35:55 ravinder-adsb frpc[670]: 2023/11/15 04:35:55 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:35:57 ravinder-adsb frpc[670]: 2023/11/15 04:35:57 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:35:57 ravinder-adsb frpc[670]: 2023/11/15 04:35:57 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:35:59 ravinder-adsb frpc[670]: 2023/11/15 04:35:59 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:35:59 ravinder-adsb frpc[670]: 2023/11/15 04:35:59 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:36:01 ravinder-adsb frpc[670]: 2023/11/15 04:36:01 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:36:01 ravinder-adsb frpc[670]: 2023/11/15 04:36:01 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:36:03 ravinder-adsb frpc[670]: 2023/11/15 04:36:03 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:36:03 ravinder-adsb frpc[670]: 2023/11/15 04:36:03 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:36:05 ravinder-adsb reconnect-modem.py[471]: PING 8.8.8.8 (8.8.8.8) from 0.0.0.0 wwan0: 0(28) bytes of data.
+Nov 15 04:36:05 ravinder-adsb reconnect-modem.py[471]: --- 8.8.8.8 ping statistics ---
+Nov 15 04:36:05 ravinder-adsb reconnect-modem.py[471]: 10 packets transmitted, 0 received, 100% packet loss, time 397ms
+Nov 15 04:36:05 ravinder-adsb reconnect-modem.py[471]: connect: Network is unreachable
+Nov 15 04:36:05 ravinder-adsb frpc[670]: 2023/11/15 04:36:05 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:36:05 ravinder-adsb frpc[670]: 2023/11/15 04:36:05 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:36:07 ravinder-adsb frpc[670]: 2023/11/15 04:36:07 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:36:07 ravinder-adsb frpc[670]: 2023/11/15 04:36:07 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:36:09 ravinder-adsb frpc[670]: 2023/11/15 04:36:09 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:36:09 ravinder-adsb frpc[670]: 2023/11/15 04:36:09 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:36:10 ravinder-adsb reconnect-modem.py[471]: ping: Warning: source address might be selected on device other than wwan0.
+Nov 15 04:36:11 ravinder-adsb frpc[670]: 2023/11/15 04:36:11 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:36:11 ravinder-adsb frpc[670]: 2023/11/15 04:36:11 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:36:13 ravinder-adsb frpc[670]: 2023/11/15 04:36:13 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:36:13 ravinder-adsb frpc[670]: 2023/11/15 04:36:13 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:36:15 ravinder-adsb frpc[670]: 2023/11/15 04:36:15 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:36:15 ravinder-adsb frpc[670]: 2023/11/15 04:36:15 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:36:17 ravinder-adsb frpc[670]: 2023/11/15 04:36:17 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:36:17 ravinder-adsb frpc[670]: 2023/11/15 04:36:17 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:36:19 ravinder-adsb frpc[670]: 2023/11/15 04:36:19 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:36:19 ravinder-adsb frpc[670]: 2023/11/15 04:36:19 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:36:20 ravinder-adsb reconnect-modem.py[471]: PING 8.8.8.8 (8.8.8.8) from 0.0.0.0 wwan0: 0(28) bytes of data.
+Nov 15 04:36:20 ravinder-adsb reconnect-modem.py[471]: --- 8.8.8.8 ping statistics ---
+Nov 15 04:36:20 ravinder-adsb reconnect-modem.py[471]: 10 packets transmitted, 0 received, 100% packet loss, time 398ms
+Nov 15 04:36:20 ravinder-adsb reconnect-modem.py[471]: connect: Network is unreachable
+Nov 15 04:36:21 ravinder-adsb frpc[670]: 2023/11/15 04:36:21 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:36:21 ravinder-adsb frpc[670]: 2023/11/15 04:36:21 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:36:23 ravinder-adsb frpc[670]: 2023/11/15 04:36:23 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:36:23 ravinder-adsb frpc[670]: 2023/11/15 04:36:23 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:36:25 ravinder-adsb reconnect-modem.py[471]: ping: Warning: source address might be selected on device other than wwan0.
+Nov 15 04:36:25 ravinder-adsb frpc[670]: 2023/11/15 04:36:25 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:36:25 ravinder-adsb frpc[670]: 2023/11/15 04:36:25 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:36:27 ravinder-adsb frpc[670]: 2023/11/15 04:36:27 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:36:27 ravinder-adsb frpc[670]: 2023/11/15 04:36:27 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:36:29 ravinder-adsb frpc[670]: 2023/11/15 04:36:29 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:36:29 ravinder-adsb frpc[670]: 2023/11/15 04:36:29 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:36:31 ravinder-adsb frpc[670]: 2023/11/15 04:36:31 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:36:31 ravinder-adsb frpc[670]: 2023/11/15 04:36:31 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:36:33 ravinder-adsb frpc[670]: 2023/11/15 04:36:33 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:36:33 ravinder-adsb frpc[670]: 2023/11/15 04:36:33 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:36:35 ravinder-adsb reconnect-modem.py[471]: PING 8.8.8.8 (8.8.8.8) from 0.0.0.0 wwan0: 0(28) bytes of data.
+Nov 15 04:36:35 ravinder-adsb reconnect-modem.py[471]: --- 8.8.8.8 ping statistics ---
+Nov 15 04:36:35 ravinder-adsb reconnect-modem.py[471]: 10 packets transmitted, 0 received, 100% packet loss, time 398ms
+Nov 15 04:36:35 ravinder-adsb frpc[670]: 2023/11/15 04:36:35 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:36:35 ravinder-adsb frpc[670]: 2023/11/15 04:36:35 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:36:35 ravinder-adsb reconnect-modem.py[471]: connect: Network is unreachable
+Nov 15 04:36:37 ravinder-adsb frpc[670]: 2023/11/15 04:36:37 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:36:37 ravinder-adsb frpc[670]: 2023/11/15 04:36:37 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:36:39 ravinder-adsb frpc[670]: 2023/11/15 04:36:39 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:36:39 ravinder-adsb frpc[670]: 2023/11/15 04:36:39 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:36:40 ravinder-adsb reconnect-modem.py[471]: ping: Warning: source address might be selected on device other than wwan0.
+Nov 15 04:36:41 ravinder-adsb frpc[670]: 2023/11/15 04:36:41 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:36:41 ravinder-adsb frpc[670]: 2023/11/15 04:36:41 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:36:43 ravinder-adsb frpc[670]: 2023/11/15 04:36:43 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:36:43 ravinder-adsb frpc[670]: 2023/11/15 04:36:43 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:36:45 ravinder-adsb frpc[670]: 2023/11/15 04:36:45 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:36:45 ravinder-adsb frpc[670]: 2023/11/15 04:36:45 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:36:47 ravinder-adsb frpc[670]: 2023/11/15 04:36:47 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:36:47 ravinder-adsb frpc[670]: 2023/11/15 04:36:47 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:36:49 ravinder-adsb frpc[670]: 2023/11/15 04:36:49 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:36:49 ravinder-adsb frpc[670]: 2023/11/15 04:36:49 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:36:50 ravinder-adsb reconnect-modem.py[471]: PING 8.8.8.8 (8.8.8.8) from 0.0.0.0 wwan0: 0(28) bytes of data.
+Nov 15 04:36:50 ravinder-adsb reconnect-modem.py[471]: --- 8.8.8.8 ping statistics ---
+Nov 15 04:36:50 ravinder-adsb reconnect-modem.py[471]: 10 packets transmitted, 0 received, 100% packet loss, time 399ms
+Nov 15 04:36:50 ravinder-adsb reconnect-modem.py[471]: connect: Network is unreachable
+Nov 15 04:36:51 ravinder-adsb frpc[670]: 2023/11/15 04:36:51 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:36:51 ravinder-adsb frpc[670]: 2023/11/15 04:36:51 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:36:53 ravinder-adsb frpc[670]: 2023/11/15 04:36:53 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:36:53 ravinder-adsb frpc[670]: 2023/11/15 04:36:53 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:36:55 ravinder-adsb frpc[670]: 2023/11/15 04:36:55 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:36:55 ravinder-adsb frpc[670]: 2023/11/15 04:36:55 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:36:55 ravinder-adsb reconnect-modem.py[471]: ping: Warning: source address might be selected on device other than wwan0.
+Nov 15 04:36:57 ravinder-adsb frpc[670]: 2023/11/15 04:36:57 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:36:57 ravinder-adsb frpc[670]: 2023/11/15 04:36:57 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:36:59 ravinder-adsb frpc[670]: 2023/11/15 04:36:59 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:36:59 ravinder-adsb frpc[670]: 2023/11/15 04:36:59 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:37:01 ravinder-adsb frpc[670]: 2023/11/15 04:37:01 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:37:01 ravinder-adsb frpc[670]: 2023/11/15 04:37:01 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:37:03 ravinder-adsb frpc[670]: 2023/11/15 04:37:03 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:37:03 ravinder-adsb frpc[670]: 2023/11/15 04:37:03 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:37:05 ravinder-adsb frpc[670]: 2023/11/15 04:37:05 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:37:05 ravinder-adsb frpc[670]: 2023/11/15 04:37:05 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:37:05 ravinder-adsb reconnect-modem.py[471]: PING 8.8.8.8 (8.8.8.8) from 0.0.0.0 wwan0: 0(28) bytes of data.
+Nov 15 04:37:05 ravinder-adsb reconnect-modem.py[471]: --- 8.8.8.8 ping statistics ---
+Nov 15 04:37:05 ravinder-adsb reconnect-modem.py[471]: 10 packets transmitted, 0 received, 100% packet loss, time 401ms
+Nov 15 04:37:05 ravinder-adsb reconnect-modem.py[471]: connect: Network is unreachable
+Nov 15 04:37:07 ravinder-adsb frpc[670]: 2023/11/15 04:37:07 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:37:07 ravinder-adsb frpc[670]: 2023/11/15 04:37:07 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:37:09 ravinder-adsb frpc[670]: 2023/11/15 04:37:09 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:37:09 ravinder-adsb frpc[670]: 2023/11/15 04:37:09 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:37:10 ravinder-adsb reconnect-modem.py[471]: ping: Warning: source address might be selected on device other than wwan0.
+Nov 15 04:37:11 ravinder-adsb frpc[670]: 2023/11/15 04:37:11 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:37:11 ravinder-adsb frpc[670]: 2023/11/15 04:37:11 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:37:13 ravinder-adsb frpc[670]: 2023/11/15 04:37:13 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:37:13 ravinder-adsb frpc[670]: 2023/11/15 04:37:13 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:37:15 ravinder-adsb frpc[670]: 2023/11/15 04:37:15 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:37:15 ravinder-adsb frpc[670]: 2023/11/15 04:37:15 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:37:17 ravinder-adsb frpc[670]: 2023/11/15 04:37:17 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:37:17 ravinder-adsb frpc[670]: 2023/11/15 04:37:17 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:37:19 ravinder-adsb frpc[670]: 2023/11/15 04:37:19 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:37:19 ravinder-adsb frpc[670]: 2023/11/15 04:37:19 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:37:20 ravinder-adsb reconnect-modem.py[471]: PING 8.8.8.8 (8.8.8.8) from 0.0.0.0 wwan0: 0(28) bytes of data.
+Nov 15 04:37:20 ravinder-adsb reconnect-modem.py[471]: --- 8.8.8.8 ping statistics ---
+Nov 15 04:37:20 ravinder-adsb reconnect-modem.py[471]: 10 packets transmitted, 0 received, 100% packet loss, time 413ms
+Nov 15 04:37:20 ravinder-adsb reconnect-modem.py[471]: connect: Network is unreachable
+Nov 15 04:37:21 ravinder-adsb frpc[670]: 2023/11/15 04:37:21 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:37:21 ravinder-adsb frpc[670]: 2023/11/15 04:37:21 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:37:23 ravinder-adsb frpc[670]: 2023/11/15 04:37:23 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:37:23 ravinder-adsb frpc[670]: 2023/11/15 04:37:23 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:37:25 ravinder-adsb frpc[670]: 2023/11/15 04:37:25 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:37:25 ravinder-adsb frpc[670]: 2023/11/15 04:37:25 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:37:25 ravinder-adsb reconnect-modem.py[471]: ping: Warning: source address might be selected on device other than wwan0.
+Nov 15 04:37:27 ravinder-adsb frpc[670]: 2023/11/15 04:37:27 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:37:27 ravinder-adsb frpc[670]: 2023/11/15 04:37:27 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:37:29 ravinder-adsb frpc[670]: 2023/11/15 04:37:29 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:37:29 ravinder-adsb frpc[670]: 2023/11/15 04:37:29 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:37:31 ravinder-adsb frpc[670]: 2023/11/15 04:37:31 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:37:31 ravinder-adsb frpc[670]: 2023/11/15 04:37:31 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:37:33 ravinder-adsb frpc[670]: 2023/11/15 04:37:33 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:37:33 ravinder-adsb frpc[670]: 2023/11/15 04:37:33 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:37:35 ravinder-adsb frpc[670]: 2023/11/15 04:37:35 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:37:35 ravinder-adsb frpc[670]: 2023/11/15 04:37:35 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:37:35 ravinder-adsb reconnect-modem.py[471]: PING 8.8.8.8 (8.8.8.8) from 0.0.0.0 wwan0: 0(28) bytes of data.
+Nov 15 04:37:35 ravinder-adsb reconnect-modem.py[471]: --- 8.8.8.8 ping statistics ---
+Nov 15 04:37:35 ravinder-adsb reconnect-modem.py[471]: 10 packets transmitted, 0 received, 100% packet loss, time 404ms
+Nov 15 04:37:35 ravinder-adsb reconnect-modem.py[471]: connect: Network is unreachable
+Nov 15 04:37:37 ravinder-adsb frpc[670]: 2023/11/15 04:37:37 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:37:37 ravinder-adsb frpc[670]: 2023/11/15 04:37:37 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:37:39 ravinder-adsb frpc[670]: 2023/11/15 04:37:39 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:37:39 ravinder-adsb frpc[670]: 2023/11/15 04:37:39 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:37:40 ravinder-adsb reconnect-modem.py[471]: ping: Warning: source address might be selected on device other than wwan0.
+Nov 15 04:37:41 ravinder-adsb frpc[670]: 2023/11/15 04:37:41 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:37:41 ravinder-adsb frpc[670]: 2023/11/15 04:37:41 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:37:43 ravinder-adsb frpc[670]: 2023/11/15 04:37:43 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:37:43 ravinder-adsb frpc[670]: 2023/11/15 04:37:43 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:37:45 ravinder-adsb frpc[670]: 2023/11/15 04:37:45 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:37:45 ravinder-adsb frpc[670]: 2023/11/15 04:37:45 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:37:47 ravinder-adsb frpc[670]: 2023/11/15 04:37:47 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:37:47 ravinder-adsb frpc[670]: 2023/11/15 04:37:47 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:37:49 ravinder-adsb frpc[670]: 2023/11/15 04:37:49 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:37:49 ravinder-adsb frpc[670]: 2023/11/15 04:37:49 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:37:50 ravinder-adsb reconnect-modem.py[471]: PING 8.8.8.8 (8.8.8.8) from 0.0.0.0 wwan0: 0(28) bytes of data.
+Nov 15 04:37:50 ravinder-adsb reconnect-modem.py[471]: --- 8.8.8.8 ping statistics ---
+Nov 15 04:37:50 ravinder-adsb reconnect-modem.py[471]: 10 packets transmitted, 0 received, 100% packet loss, time 405ms
+Nov 15 04:37:50 ravinder-adsb reconnect-modem.py[471]: connect: Network is unreachable
+Nov 15 04:37:51 ravinder-adsb frpc[670]: 2023/11/15 04:37:51 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:37:51 ravinder-adsb frpc[670]: 2023/11/15 04:37:51 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:37:53 ravinder-adsb frpc[670]: 2023/11/15 04:37:53 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:37:53 ravinder-adsb frpc[670]: 2023/11/15 04:37:53 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:37:55 ravinder-adsb frpc[670]: 2023/11/15 04:37:55 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:37:55 ravinder-adsb frpc[670]: 2023/11/15 04:37:55 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:37:56 ravinder-adsb reconnect-modem.py[471]: ping: Warning: source address might be selected on device other than wwan0.
+Nov 15 04:37:57 ravinder-adsb frpc[670]: 2023/11/15 04:37:57 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:37:57 ravinder-adsb frpc[670]: 2023/11/15 04:37:57 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:37:59 ravinder-adsb frpc[670]: 2023/11/15 04:37:59 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:37:59 ravinder-adsb frpc[670]: 2023/11/15 04:37:59 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:38:01 ravinder-adsb frpc[670]: 2023/11/15 04:38:01 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:38:01 ravinder-adsb frpc[670]: 2023/11/15 04:38:01 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:38:03 ravinder-adsb frpc[670]: 2023/11/15 04:38:03 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:38:03 ravinder-adsb frpc[670]: 2023/11/15 04:38:03 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:38:05 ravinder-adsb frpc[670]: 2023/11/15 04:38:05 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:38:05 ravinder-adsb frpc[670]: 2023/11/15 04:38:05 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:38:06 ravinder-adsb reconnect-modem.py[471]: PING 8.8.8.8 (8.8.8.8) from 0.0.0.0 wwan0: 0(28) bytes of data.
+Nov 15 04:38:06 ravinder-adsb reconnect-modem.py[471]: --- 8.8.8.8 ping statistics ---
+Nov 15 04:38:06 ravinder-adsb reconnect-modem.py[471]: 10 packets transmitted, 0 received, 100% packet loss, time 404ms
+Nov 15 04:38:06 ravinder-adsb reconnect-modem.py[471]: connect: Network is unreachable
+Nov 15 04:38:07 ravinder-adsb frpc[670]: 2023/11/15 04:38:07 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:38:07 ravinder-adsb frpc[670]: 2023/11/15 04:38:07 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:38:09 ravinder-adsb frpc[670]: 2023/11/15 04:38:09 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:38:09 ravinder-adsb frpc[670]: 2023/11/15 04:38:09 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:38:11 ravinder-adsb reconnect-modem.py[471]: ping: Warning: source address might be selected on device other than wwan0.
+Nov 15 04:38:11 ravinder-adsb frpc[670]: 2023/11/15 04:38:11 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:38:11 ravinder-adsb frpc[670]: 2023/11/15 04:38:11 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:38:13 ravinder-adsb frpc[670]: 2023/11/15 04:38:13 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:38:13 ravinder-adsb frpc[670]: 2023/11/15 04:38:13 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:38:15 ravinder-adsb frpc[670]: 2023/11/15 04:38:15 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:38:15 ravinder-adsb frpc[670]: 2023/11/15 04:38:15 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:38:17 ravinder-adsb frpc[670]: 2023/11/15 04:38:17 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:38:17 ravinder-adsb frpc[670]: 2023/11/15 04:38:17 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:38:19 ravinder-adsb frpc[670]: 2023/11/15 04:38:19 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:38:19 ravinder-adsb frpc[670]: 2023/11/15 04:38:19 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:38:21 ravinder-adsb reconnect-modem.py[471]: PING 8.8.8.8 (8.8.8.8) from 0.0.0.0 wwan0: 0(28) bytes of data.
+Nov 15 04:38:21 ravinder-adsb reconnect-modem.py[471]: --- 8.8.8.8 ping statistics ---
+Nov 15 04:38:21 ravinder-adsb reconnect-modem.py[471]: 10 packets transmitted, 0 received, 100% packet loss, time 406ms
+Nov 15 04:38:21 ravinder-adsb reconnect-modem.py[471]: connect: Network is unreachable
+Nov 15 04:38:21 ravinder-adsb frpc[670]: 2023/11/15 04:38:21 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:38:21 ravinder-adsb frpc[670]: 2023/11/15 04:38:21 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:38:23 ravinder-adsb frpc[670]: 2023/11/15 04:38:23 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:38:23 ravinder-adsb frpc[670]: 2023/11/15 04:38:23 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:38:25 ravinder-adsb frpc[670]: 2023/11/15 04:38:25 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:38:25 ravinder-adsb frpc[670]: 2023/11/15 04:38:25 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:38:26 ravinder-adsb reconnect-modem.py[471]: ping: Warning: source address might be selected on device other than wwan0.
+Nov 15 04:38:27 ravinder-adsb frpc[670]: 2023/11/15 04:38:27 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:38:27 ravinder-adsb frpc[670]: 2023/11/15 04:38:27 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:38:29 ravinder-adsb frpc[670]: 2023/11/15 04:38:29 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:38:29 ravinder-adsb frpc[670]: 2023/11/15 04:38:29 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:38:31 ravinder-adsb frpc[670]: 2023/11/15 04:38:31 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:38:31 ravinder-adsb frpc[670]: 2023/11/15 04:38:31 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:38:33 ravinder-adsb frpc[670]: 2023/11/15 04:38:33 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:38:33 ravinder-adsb frpc[670]: 2023/11/15 04:38:33 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:38:35 ravinder-adsb frpc[670]: 2023/11/15 04:38:35 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:38:35 ravinder-adsb frpc[670]: 2023/11/15 04:38:35 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:38:36 ravinder-adsb reconnect-modem.py[471]: PING 8.8.8.8 (8.8.8.8) from 0.0.0.0 wwan0: 0(28) bytes of data.
+Nov 15 04:38:36 ravinder-adsb reconnect-modem.py[471]: --- 8.8.8.8 ping statistics ---
+Nov 15 04:38:36 ravinder-adsb reconnect-modem.py[471]: 10 packets transmitted, 0 received, 100% packet loss, time 403ms
+Nov 15 04:38:36 ravinder-adsb reconnect-modem.py[471]: connect: Network is unreachable
+Nov 15 04:38:37 ravinder-adsb frpc[670]: 2023/11/15 04:38:37 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:38:37 ravinder-adsb frpc[670]: 2023/11/15 04:38:37 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:38:39 ravinder-adsb frpc[670]: 2023/11/15 04:38:39 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:38:39 ravinder-adsb frpc[670]: 2023/11/15 04:38:39 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:38:41 ravinder-adsb reconnect-modem.py[471]: ping: Warning: source address might be selected on device other than wwan0.
+Nov 15 04:38:41 ravinder-adsb frpc[670]: 2023/11/15 04:38:41 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:38:41 ravinder-adsb frpc[670]: 2023/11/15 04:38:41 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:38:43 ravinder-adsb frpc[670]: 2023/11/15 04:38:43 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:38:43 ravinder-adsb frpc[670]: 2023/11/15 04:38:43 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:38:45 ravinder-adsb frpc[670]: 2023/11/15 04:38:45 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:38:45 ravinder-adsb frpc[670]: 2023/11/15 04:38:45 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:38:47 ravinder-adsb frpc[670]: 2023/11/15 04:38:47 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:38:47 ravinder-adsb frpc[670]: 2023/11/15 04:38:47 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:38:49 ravinder-adsb frpc[670]: 2023/11/15 04:38:49 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:38:49 ravinder-adsb frpc[670]: 2023/11/15 04:38:49 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:38:51 ravinder-adsb reconnect-modem.py[471]: PING 8.8.8.8 (8.8.8.8) from 0.0.0.0 wwan0: 0(28) bytes of data.
+Nov 15 04:38:51 ravinder-adsb reconnect-modem.py[471]: --- 8.8.8.8 ping statistics ---
+Nov 15 04:38:51 ravinder-adsb reconnect-modem.py[471]: 10 packets transmitted, 0 received, 100% packet loss, time 406ms
+Nov 15 04:38:51 ravinder-adsb reconnect-modem.py[471]: connect: Network is unreachable
+Nov 15 04:38:51 ravinder-adsb frpc[670]: 2023/11/15 04:38:51 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:38:51 ravinder-adsb frpc[670]: 2023/11/15 04:38:51 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:38:53 ravinder-adsb frpc[670]: 2023/11/15 04:38:53 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:38:53 ravinder-adsb frpc[670]: 2023/11/15 04:38:53 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:38:55 ravinder-adsb frpc[670]: 2023/11/15 04:38:55 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:38:55 ravinder-adsb frpc[670]: 2023/11/15 04:38:55 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:38:56 ravinder-adsb reconnect-modem.py[471]: ping: Warning: source address might be selected on device other than wwan0.
+Nov 15 04:38:57 ravinder-adsb frpc[670]: 2023/11/15 04:38:57 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:38:57 ravinder-adsb frpc[670]: 2023/11/15 04:38:57 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:38:59 ravinder-adsb frpc[670]: 2023/11/15 04:38:59 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:38:59 ravinder-adsb frpc[670]: 2023/11/15 04:38:59 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:39:01 ravinder-adsb frpc[670]: 2023/11/15 04:39:01 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:39:01 ravinder-adsb frpc[670]: 2023/11/15 04:39:01 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:39:03 ravinder-adsb frpc[670]: 2023/11/15 04:39:03 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:39:03 ravinder-adsb frpc[670]: 2023/11/15 04:39:03 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:39:05 ravinder-adsb frpc[670]: 2023/11/15 04:39:05 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:39:05 ravinder-adsb frpc[670]: 2023/11/15 04:39:05 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:39:06 ravinder-adsb reconnect-modem.py[471]: PING 8.8.8.8 (8.8.8.8) from 0.0.0.0 wwan0: 0(28) bytes of data.
+Nov 15 04:39:06 ravinder-adsb reconnect-modem.py[471]: --- 8.8.8.8 ping statistics ---
+Nov 15 04:39:06 ravinder-adsb reconnect-modem.py[471]: 10 packets transmitted, 0 received, 100% packet loss, time 407ms
+Nov 15 04:39:06 ravinder-adsb reconnect-modem.py[471]: connect: Network is unreachable
+Nov 15 04:39:07 ravinder-adsb frpc[670]: 2023/11/15 04:39:07 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:39:07 ravinder-adsb frpc[670]: 2023/11/15 04:39:07 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:39:09 ravinder-adsb frpc[670]: 2023/11/15 04:39:09 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:39:09 ravinder-adsb frpc[670]: 2023/11/15 04:39:09 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:39:11 ravinder-adsb reconnect-modem.py[471]: ping: Warning: source address might be selected on device other than wwan0.
+Nov 15 04:39:11 ravinder-adsb frpc[670]: 2023/11/15 04:39:11 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:39:11 ravinder-adsb frpc[670]: 2023/11/15 04:39:11 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:39:13 ravinder-adsb frpc[670]: 2023/11/15 04:39:13 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:39:13 ravinder-adsb frpc[670]: 2023/11/15 04:39:13 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:39:15 ravinder-adsb frpc[670]: 2023/11/15 04:39:15 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:39:15 ravinder-adsb frpc[670]: 2023/11/15 04:39:15 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:39:17 ravinder-adsb frpc[670]: 2023/11/15 04:39:17 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:39:17 ravinder-adsb frpc[670]: 2023/11/15 04:39:17 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:39:19 ravinder-adsb frpc[670]: 2023/11/15 04:39:19 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:39:19 ravinder-adsb frpc[670]: 2023/11/15 04:39:19 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:39:21 ravinder-adsb reconnect-modem.py[471]: PING 8.8.8.8 (8.8.8.8) from 0.0.0.0 wwan0: 0(28) bytes of data.
+Nov 15 04:39:21 ravinder-adsb reconnect-modem.py[471]: --- 8.8.8.8 ping statistics ---
+Nov 15 04:39:21 ravinder-adsb reconnect-modem.py[471]: 10 packets transmitted, 0 received, 100% packet loss, time 408ms
+Nov 15 04:39:21 ravinder-adsb reconnect-modem.py[471]: connect: Network is unreachable
+Nov 15 04:39:21 ravinder-adsb frpc[670]: 2023/11/15 04:39:21 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:39:21 ravinder-adsb frpc[670]: 2023/11/15 04:39:21 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:39:23 ravinder-adsb frpc[670]: 2023/11/15 04:39:23 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:39:23 ravinder-adsb frpc[670]: 2023/11/15 04:39:23 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:39:25 ravinder-adsb frpc[670]: 2023/11/15 04:39:25 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:39:25 ravinder-adsb frpc[670]: 2023/11/15 04:39:25 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:39:26 ravinder-adsb reconnect-modem.py[471]: ping: Warning: source address might be selected on device other than wwan0.
+Nov 15 04:39:27 ravinder-adsb frpc[670]: 2023/11/15 04:39:27 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:39:27 ravinder-adsb frpc[670]: 2023/11/15 04:39:27 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:39:29 ravinder-adsb frpc[670]: 2023/11/15 04:39:29 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:39:29 ravinder-adsb frpc[670]: 2023/11/15 04:39:29 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:39:31 ravinder-adsb frpc[670]: 2023/11/15 04:39:31 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:39:31 ravinder-adsb frpc[670]: 2023/11/15 04:39:31 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:39:33 ravinder-adsb frpc[670]: 2023/11/15 04:39:33 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:39:33 ravinder-adsb frpc[670]: 2023/11/15 04:39:33 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:39:35 ravinder-adsb frpc[670]: 2023/11/15 04:39:35 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:39:35 ravinder-adsb frpc[670]: 2023/11/15 04:39:35 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:39:36 ravinder-adsb reconnect-modem.py[471]: PING 8.8.8.8 (8.8.8.8) from 0.0.0.0 wwan0: 0(28) bytes of data.
+Nov 15 04:39:36 ravinder-adsb reconnect-modem.py[471]: --- 8.8.8.8 ping statistics ---
+Nov 15 04:39:36 ravinder-adsb reconnect-modem.py[471]: 10 packets transmitted, 0 received, 100% packet loss, time 330ms
+Nov 15 04:39:36 ravinder-adsb reconnect-modem.py[471]: connect: Network is unreachable
+Nov 15 04:39:37 ravinder-adsb frpc[670]: 2023/11/15 04:39:37 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:39:37 ravinder-adsb frpc[670]: 2023/11/15 04:39:37 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:39:39 ravinder-adsb frpc[670]: 2023/11/15 04:39:39 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:39:39 ravinder-adsb frpc[670]: 2023/11/15 04:39:39 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:39:41 ravinder-adsb reconnect-modem.py[471]: ping: Warning: source address might be selected on device other than wwan0.
+Nov 15 04:39:41 ravinder-adsb frpc[670]: 2023/11/15 04:39:41 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:39:41 ravinder-adsb frpc[670]: 2023/11/15 04:39:41 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:39:43 ravinder-adsb frpc[670]: 2023/11/15 04:39:43 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:39:43 ravinder-adsb frpc[670]: 2023/11/15 04:39:43 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:39:45 ravinder-adsb frpc[670]: 2023/11/15 04:39:45 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:39:45 ravinder-adsb frpc[670]: 2023/11/15 04:39:45 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:39:47 ravinder-adsb frpc[670]: 2023/11/15 04:39:47 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:39:47 ravinder-adsb frpc[670]: 2023/11/15 04:39:47 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:39:49 ravinder-adsb frpc[670]: 2023/11/15 04:39:49 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:39:49 ravinder-adsb frpc[670]: 2023/11/15 04:39:49 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:39:51 ravinder-adsb reconnect-modem.py[471]: PING 8.8.8.8 (8.8.8.8) from 0.0.0.0 wwan0: 0(28) bytes of data.
+Nov 15 04:39:51 ravinder-adsb reconnect-modem.py[471]: --- 8.8.8.8 ping statistics ---
+Nov 15 04:39:51 ravinder-adsb reconnect-modem.py[471]: 10 packets transmitted, 0 received, 100% packet loss, time 330ms
+Nov 15 04:39:51 ravinder-adsb reconnect-modem.py[471]: connect: Network is unreachable
+Nov 15 04:39:51 ravinder-adsb frpc[670]: 2023/11/15 04:39:51 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:39:51 ravinder-adsb frpc[670]: 2023/11/15 04:39:51 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:39:53 ravinder-adsb frpc[670]: 2023/11/15 04:39:53 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:39:53 ravinder-adsb frpc[670]: 2023/11/15 04:39:53 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:39:55 ravinder-adsb frpc[670]: 2023/11/15 04:39:55 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:39:55 ravinder-adsb frpc[670]: 2023/11/15 04:39:55 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:39:56 ravinder-adsb reconnect-modem.py[471]: ping: Warning: source address might be selected on device other than wwan0.
+Nov 15 04:39:57 ravinder-adsb frpc[670]: 2023/11/15 04:39:57 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:39:57 ravinder-adsb frpc[670]: 2023/11/15 04:39:57 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:39:59 ravinder-adsb frpc[670]: 2023/11/15 04:39:59 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:39:59 ravinder-adsb frpc[670]: 2023/11/15 04:39:59 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:40:01 ravinder-adsb frpc[670]: 2023/11/15 04:40:01 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:40:01 ravinder-adsb frpc[670]: 2023/11/15 04:40:01 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:40:03 ravinder-adsb frpc[670]: 2023/11/15 04:40:03 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:40:03 ravinder-adsb frpc[670]: 2023/11/15 04:40:03 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:40:05 ravinder-adsb frpc[670]: 2023/11/15 04:40:05 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:40:05 ravinder-adsb frpc[670]: 2023/11/15 04:40:05 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:40:06 ravinder-adsb reconnect-modem.py[471]: PING 8.8.8.8 (8.8.8.8) from 0.0.0.0 wwan0: 0(28) bytes of data.
+Nov 15 04:40:06 ravinder-adsb reconnect-modem.py[471]: --- 8.8.8.8 ping statistics ---
+Nov 15 04:40:06 ravinder-adsb reconnect-modem.py[471]: 10 packets transmitted, 0 received, 100% packet loss, time 335ms
+Nov 15 04:40:06 ravinder-adsb reconnect-modem.py[471]: connect: Network is unreachable
+Nov 15 04:40:07 ravinder-adsb frpc[670]: 2023/11/15 04:40:07 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:40:07 ravinder-adsb frpc[670]: 2023/11/15 04:40:07 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:40:09 ravinder-adsb frpc[670]: 2023/11/15 04:40:09 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:40:09 ravinder-adsb frpc[670]: 2023/11/15 04:40:09 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:40:11 ravinder-adsb reconnect-modem.py[471]: ping: Warning: source address might be selected on device other than wwan0.
+Nov 15 04:40:11 ravinder-adsb frpc[670]: 2023/11/15 04:40:11 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:40:11 ravinder-adsb frpc[670]: 2023/11/15 04:40:11 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:40:13 ravinder-adsb frpc[670]: 2023/11/15 04:40:13 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:40:13 ravinder-adsb frpc[670]: 2023/11/15 04:40:13 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:40:15 ravinder-adsb frpc[670]: 2023/11/15 04:40:15 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:40:15 ravinder-adsb frpc[670]: 2023/11/15 04:40:15 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:40:17 ravinder-adsb frpc[670]: 2023/11/15 04:40:17 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:40:17 ravinder-adsb frpc[670]: 2023/11/15 04:40:17 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:40:19 ravinder-adsb frpc[670]: 2023/11/15 04:40:19 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:40:19 ravinder-adsb frpc[670]: 2023/11/15 04:40:19 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:40:21 ravinder-adsb reconnect-modem.py[471]: PING 8.8.8.8 (8.8.8.8) from 0.0.0.0 wwan0: 0(28) bytes of data.
+Nov 15 04:40:21 ravinder-adsb reconnect-modem.py[471]: --- 8.8.8.8 ping statistics ---
+Nov 15 04:40:21 ravinder-adsb reconnect-modem.py[471]: 10 packets transmitted, 0 received, 100% packet loss, time 336ms
+Nov 15 04:40:21 ravinder-adsb reconnect-modem.py[471]: connect: Network is unreachable
+Nov 15 04:40:21 ravinder-adsb frpc[670]: 2023/11/15 04:40:21 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:40:21 ravinder-adsb frpc[670]: 2023/11/15 04:40:21 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:40:23 ravinder-adsb frpc[670]: 2023/11/15 04:40:23 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:40:23 ravinder-adsb frpc[670]: 2023/11/15 04:40:23 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:40:25 ravinder-adsb frpc[670]: 2023/11/15 04:40:25 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:40:25 ravinder-adsb frpc[670]: 2023/11/15 04:40:25 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:40:26 ravinder-adsb reconnect-modem.py[471]: ping: Warning: source address might be selected on device other than wwan0.
+Nov 15 04:40:27 ravinder-adsb frpc[670]: 2023/11/15 04:40:27 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:40:27 ravinder-adsb frpc[670]: 2023/11/15 04:40:27 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:40:29 ravinder-adsb frpc[670]: 2023/11/15 04:40:29 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:40:29 ravinder-adsb frpc[670]: 2023/11/15 04:40:29 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:40:31 ravinder-adsb frpc[670]: 2023/11/15 04:40:31 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:40:31 ravinder-adsb frpc[670]: 2023/11/15 04:40:31 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:40:33 ravinder-adsb frpc[670]: 2023/11/15 04:40:33 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:40:33 ravinder-adsb frpc[670]: 2023/11/15 04:40:33 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:40:35 ravinder-adsb frpc[670]: 2023/11/15 04:40:35 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:40:35 ravinder-adsb frpc[670]: 2023/11/15 04:40:35 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:40:36 ravinder-adsb reconnect-modem.py[471]: PING 8.8.8.8 (8.8.8.8) from 0.0.0.0 wwan0: 0(28) bytes of data.
+Nov 15 04:40:36 ravinder-adsb reconnect-modem.py[471]: --- 8.8.8.8 ping statistics ---
+Nov 15 04:40:36 ravinder-adsb reconnect-modem.py[471]: 10 packets transmitted, 0 received, 100% packet loss, time 339ms
+Nov 15 04:40:36 ravinder-adsb reconnect-modem.py[471]: connect: Network is unreachable
+Nov 15 04:40:37 ravinder-adsb frpc[670]: 2023/11/15 04:40:37 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:40:37 ravinder-adsb frpc[670]: 2023/11/15 04:40:37 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:40:39 ravinder-adsb frpc[670]: 2023/11/15 04:40:39 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:40:39 ravinder-adsb frpc[670]: 2023/11/15 04:40:39 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:40:41 ravinder-adsb reconnect-modem.py[471]: ping: Warning: source address might be selected on device other than wwan0.
+Nov 15 04:40:41 ravinder-adsb frpc[670]: 2023/11/15 04:40:41 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:40:41 ravinder-adsb frpc[670]: 2023/11/15 04:40:41 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:40:43 ravinder-adsb frpc[670]: 2023/11/15 04:40:43 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:40:43 ravinder-adsb frpc[670]: 2023/11/15 04:40:43 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:40:45 ravinder-adsb frpc[670]: 2023/11/15 04:40:45 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:40:45 ravinder-adsb frpc[670]: 2023/11/15 04:40:45 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:40:47 ravinder-adsb frpc[670]: 2023/11/15 04:40:47 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:40:47 ravinder-adsb frpc[670]: 2023/11/15 04:40:47 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:40:49 ravinder-adsb frpc[670]: 2023/11/15 04:40:49 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:40:49 ravinder-adsb frpc[670]: 2023/11/15 04:40:49 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:40:51 ravinder-adsb reconnect-modem.py[471]: PING 8.8.8.8 (8.8.8.8) from 0.0.0.0 wwan0: 0(28) bytes of data.
+Nov 15 04:40:51 ravinder-adsb reconnect-modem.py[471]: --- 8.8.8.8 ping statistics ---
+Nov 15 04:40:51 ravinder-adsb reconnect-modem.py[471]: 10 packets transmitted, 0 received, 100% packet loss, time 341ms
+Nov 15 04:40:51 ravinder-adsb reconnect-modem.py[471]: connect: Network is unreachable
+Nov 15 04:40:51 ravinder-adsb frpc[670]: 2023/11/15 04:40:51 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:40:51 ravinder-adsb frpc[670]: 2023/11/15 04:40:51 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:40:53 ravinder-adsb frpc[670]: 2023/11/15 04:40:53 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:40:53 ravinder-adsb frpc[670]: 2023/11/15 04:40:53 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:40:55 ravinder-adsb frpc[670]: 2023/11/15 04:40:55 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:40:55 ravinder-adsb frpc[670]: 2023/11/15 04:40:55 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:40:56 ravinder-adsb reconnect-modem.py[471]: ping: Warning: source address might be selected on device other than wwan0.
+Nov 15 04:40:57 ravinder-adsb frpc[670]: 2023/11/15 04:40:57 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:40:57 ravinder-adsb frpc[670]: 2023/11/15 04:40:57 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:40:59 ravinder-adsb frpc[670]: 2023/11/15 04:40:59 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:40:59 ravinder-adsb frpc[670]: 2023/11/15 04:40:59 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:41:01 ravinder-adsb frpc[670]: 2023/11/15 04:41:01 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:41:01 ravinder-adsb frpc[670]: 2023/11/15 04:41:01 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:41:03 ravinder-adsb frpc[670]: 2023/11/15 04:41:03 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:41:03 ravinder-adsb frpc[670]: 2023/11/15 04:41:03 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:41:05 ravinder-adsb frpc[670]: 2023/11/15 04:41:05 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:41:05 ravinder-adsb frpc[670]: 2023/11/15 04:41:05 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:41:06 ravinder-adsb reconnect-modem.py[471]: PING 8.8.8.8 (8.8.8.8) from 0.0.0.0 wwan0: 0(28) bytes of data.
+Nov 15 04:41:06 ravinder-adsb reconnect-modem.py[471]: --- 8.8.8.8 ping statistics ---
+Nov 15 04:41:06 ravinder-adsb reconnect-modem.py[471]: 10 packets transmitted, 0 received, 100% packet loss, time 341ms
+Nov 15 04:41:06 ravinder-adsb reconnect-modem.py[471]: connect: Network is unreachable
+Nov 15 04:41:07 ravinder-adsb frpc[670]: 2023/11/15 04:41:07 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:41:07 ravinder-adsb frpc[670]: 2023/11/15 04:41:07 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:41:09 ravinder-adsb frpc[670]: 2023/11/15 04:41:09 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:41:09 ravinder-adsb frpc[670]: 2023/11/15 04:41:09 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:41:11 ravinder-adsb reconnect-modem.py[471]: ping: Warning: source address might be selected on device other than wwan0.
+Nov 15 04:41:11 ravinder-adsb frpc[670]: 2023/11/15 04:41:11 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:41:11 ravinder-adsb frpc[670]: 2023/11/15 04:41:11 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:41:13 ravinder-adsb frpc[670]: 2023/11/15 04:41:13 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:41:13 ravinder-adsb frpc[670]: 2023/11/15 04:41:13 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:41:15 ravinder-adsb frpc[670]: 2023/11/15 04:41:15 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:41:15 ravinder-adsb frpc[670]: 2023/11/15 04:41:15 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:41:17 ravinder-adsb frpc[670]: 2023/11/15 04:41:17 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:41:17 ravinder-adsb frpc[670]: 2023/11/15 04:41:17 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:41:19 ravinder-adsb frpc[670]: 2023/11/15 04:41:19 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:41:19 ravinder-adsb frpc[670]: 2023/11/15 04:41:19 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:41:21 ravinder-adsb reconnect-modem.py[471]: PING 8.8.8.8 (8.8.8.8) from 0.0.0.0 wwan0: 0(28) bytes of data.
+Nov 15 04:41:21 ravinder-adsb reconnect-modem.py[471]: --- 8.8.8.8 ping statistics ---
+Nov 15 04:41:21 ravinder-adsb reconnect-modem.py[471]: 10 packets transmitted, 0 received, 100% packet loss, time 341ms
+Nov 15 04:41:21 ravinder-adsb reconnect-modem.py[471]: connect: Network is unreachable
+Nov 15 04:41:21 ravinder-adsb frpc[670]: 2023/11/15 04:41:21 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:41:21 ravinder-adsb frpc[670]: 2023/11/15 04:41:21 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:41:23 ravinder-adsb frpc[670]: 2023/11/15 04:41:23 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:41:23 ravinder-adsb frpc[670]: 2023/11/15 04:41:23 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:41:25 ravinder-adsb frpc[670]: 2023/11/15 04:41:25 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:41:25 ravinder-adsb frpc[670]: 2023/11/15 04:41:25 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:41:26 ravinder-adsb reconnect-modem.py[471]: ping: Warning: source address might be selected on device other than wwan0.
+Nov 15 04:41:27 ravinder-adsb frpc[670]: 2023/11/15 04:41:27 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:41:27 ravinder-adsb frpc[670]: 2023/11/15 04:41:27 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:41:29 ravinder-adsb frpc[670]: 2023/11/15 04:41:29 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:41:29 ravinder-adsb frpc[670]: 2023/11/15 04:41:29 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:41:31 ravinder-adsb frpc[670]: 2023/11/15 04:41:31 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:41:31 ravinder-adsb frpc[670]: 2023/11/15 04:41:31 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:41:33 ravinder-adsb frpc[670]: 2023/11/15 04:41:33 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:41:33 ravinder-adsb frpc[670]: 2023/11/15 04:41:33 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:41:36 ravinder-adsb frpc[670]: 2023/11/15 04:41:35 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:41:36 ravinder-adsb frpc[670]: 2023/11/15 04:41:36 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:41:36 ravinder-adsb reconnect-modem.py[471]: PING 8.8.8.8 (8.8.8.8) from 0.0.0.0 wwan0: 0(28) bytes of data.
+Nov 15 04:41:36 ravinder-adsb reconnect-modem.py[471]: --- 8.8.8.8 ping statistics ---
+Nov 15 04:41:36 ravinder-adsb reconnect-modem.py[471]: 10 packets transmitted, 0 received, 100% packet loss, time 334ms
+Nov 15 04:41:36 ravinder-adsb reconnect-modem.py[471]: connect: Network is unreachable
+Nov 15 04:41:38 ravinder-adsb frpc[670]: 2023/11/15 04:41:38 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:41:38 ravinder-adsb frpc[670]: 2023/11/15 04:41:38 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:41:40 ravinder-adsb frpc[670]: 2023/11/15 04:41:40 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:41:40 ravinder-adsb frpc[670]: 2023/11/15 04:41:40 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:41:41 ravinder-adsb reconnect-modem.py[471]: ping: Warning: source address might be selected on device other than wwan0.
+Nov 15 04:41:42 ravinder-adsb frpc[670]: 2023/11/15 04:41:42 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:41:42 ravinder-adsb frpc[670]: 2023/11/15 04:41:42 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:41:44 ravinder-adsb frpc[670]: 2023/11/15 04:41:44 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:41:44 ravinder-adsb frpc[670]: 2023/11/15 04:41:44 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:41:46 ravinder-adsb frpc[670]: 2023/11/15 04:41:46 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:41:46 ravinder-adsb frpc[670]: 2023/11/15 04:41:46 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:41:48 ravinder-adsb frpc[670]: 2023/11/15 04:41:48 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:41:48 ravinder-adsb frpc[670]: 2023/11/15 04:41:48 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:41:50 ravinder-adsb frpc[670]: 2023/11/15 04:41:50 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:41:50 ravinder-adsb frpc[670]: 2023/11/15 04:41:50 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:41:51 ravinder-adsb reconnect-modem.py[471]: PING 8.8.8.8 (8.8.8.8) from 0.0.0.0 wwan0: 0(28) bytes of data.
+Nov 15 04:41:51 ravinder-adsb reconnect-modem.py[471]: --- 8.8.8.8 ping statistics ---
+Nov 15 04:41:51 ravinder-adsb reconnect-modem.py[471]: 10 packets transmitted, 0 received, 100% packet loss, time 336ms
+Nov 15 04:41:51 ravinder-adsb reconnect-modem.py[471]: connect: Network is unreachable
+Nov 15 04:41:52 ravinder-adsb frpc[670]: 2023/11/15 04:41:52 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:41:52 ravinder-adsb frpc[670]: 2023/11/15 04:41:52 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:41:54 ravinder-adsb frpc[670]: 2023/11/15 04:41:54 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:41:54 ravinder-adsb frpc[670]: 2023/11/15 04:41:54 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:41:56 ravinder-adsb frpc[670]: 2023/11/15 04:41:56 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:41:56 ravinder-adsb frpc[670]: 2023/11/15 04:41:56 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:41:56 ravinder-adsb reconnect-modem.py[471]: ping: Warning: source address might be selected on device other than wwan0.
+Nov 15 04:41:58 ravinder-adsb frpc[670]: 2023/11/15 04:41:58 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:41:58 ravinder-adsb frpc[670]: 2023/11/15 04:41:58 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:42:00 ravinder-adsb frpc[670]: 2023/11/15 04:42:00 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:42:00 ravinder-adsb frpc[670]: 2023/11/15 04:42:00 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:42:02 ravinder-adsb frpc[670]: 2023/11/15 04:42:02 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:42:02 ravinder-adsb frpc[670]: 2023/11/15 04:42:02 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:42:04 ravinder-adsb frpc[670]: 2023/11/15 04:42:04 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:42:04 ravinder-adsb frpc[670]: 2023/11/15 04:42:04 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:42:06 ravinder-adsb frpc[670]: 2023/11/15 04:42:06 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:42:06 ravinder-adsb frpc[670]: 2023/11/15 04:42:06 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:42:06 ravinder-adsb reconnect-modem.py[471]: PING 8.8.8.8 (8.8.8.8) from 0.0.0.0 wwan0: 0(28) bytes of data.
+Nov 15 04:42:06 ravinder-adsb reconnect-modem.py[471]: --- 8.8.8.8 ping statistics ---
+Nov 15 04:42:06 ravinder-adsb reconnect-modem.py[471]: 10 packets transmitted, 0 received, 100% packet loss, time 334ms
+Nov 15 04:42:06 ravinder-adsb reconnect-modem.py[471]: connect: Network is unreachable
+Nov 15 04:42:08 ravinder-adsb frpc[670]: 2023/11/15 04:42:08 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:42:08 ravinder-adsb frpc[670]: 2023/11/15 04:42:08 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:42:10 ravinder-adsb frpc[670]: 2023/11/15 04:42:10 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:42:10 ravinder-adsb frpc[670]: 2023/11/15 04:42:10 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:42:11 ravinder-adsb reconnect-modem.py[471]: ping: Warning: source address might be selected on device other than wwan0.
+Nov 15 04:42:12 ravinder-adsb frpc[670]: 2023/11/15 04:42:12 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:42:12 ravinder-adsb frpc[670]: 2023/11/15 04:42:12 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:42:14 ravinder-adsb frpc[670]: 2023/11/15 04:42:14 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:42:14 ravinder-adsb frpc[670]: 2023/11/15 04:42:14 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:42:16 ravinder-adsb frpc[670]: 2023/11/15 04:42:16 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:42:16 ravinder-adsb frpc[670]: 2023/11/15 04:42:16 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:42:18 ravinder-adsb frpc[670]: 2023/11/15 04:42:18 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:42:18 ravinder-adsb frpc[670]: 2023/11/15 04:42:18 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:42:20 ravinder-adsb frpc[670]: 2023/11/15 04:42:20 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:42:20 ravinder-adsb frpc[670]: 2023/11/15 04:42:20 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:42:21 ravinder-adsb reconnect-modem.py[471]: PING 8.8.8.8 (8.8.8.8) from 0.0.0.0 wwan0: 0(28) bytes of data.
+Nov 15 04:42:21 ravinder-adsb reconnect-modem.py[471]: --- 8.8.8.8 ping statistics ---
+Nov 15 04:42:21 ravinder-adsb reconnect-modem.py[471]: 10 packets transmitted, 0 received, 100% packet loss, time 336ms
+Nov 15 04:42:21 ravinder-adsb reconnect-modem.py[471]: connect: Network is unreachable
+Nov 15 04:42:22 ravinder-adsb frpc[670]: 2023/11/15 04:42:22 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:42:22 ravinder-adsb frpc[670]: 2023/11/15 04:42:22 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:42:24 ravinder-adsb frpc[670]: 2023/11/15 04:42:24 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:42:24 ravinder-adsb frpc[670]: 2023/11/15 04:42:24 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:42:26 ravinder-adsb frpc[670]: 2023/11/15 04:42:26 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:42:26 ravinder-adsb frpc[670]: 2023/11/15 04:42:26 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:42:26 ravinder-adsb reconnect-modem.py[471]: ping: Warning: source address might be selected on device other than wwan0.
+Nov 15 04:42:28 ravinder-adsb frpc[670]: 2023/11/15 04:42:28 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:42:28 ravinder-adsb frpc[670]: 2023/11/15 04:42:28 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:42:30 ravinder-adsb frpc[670]: 2023/11/15 04:42:30 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:42:30 ravinder-adsb frpc[670]: 2023/11/15 04:42:30 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:42:32 ravinder-adsb frpc[670]: 2023/11/15 04:42:32 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:42:32 ravinder-adsb frpc[670]: 2023/11/15 04:42:32 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:42:34 ravinder-adsb frpc[670]: 2023/11/15 04:42:34 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:42:34 ravinder-adsb frpc[670]: 2023/11/15 04:42:34 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:42:36 ravinder-adsb frpc[670]: 2023/11/15 04:42:36 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:42:36 ravinder-adsb frpc[670]: 2023/11/15 04:42:36 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:42:36 ravinder-adsb reconnect-modem.py[471]: PING 8.8.8.8 (8.8.8.8) from 0.0.0.0 wwan0: 0(28) bytes of data.
+Nov 15 04:42:36 ravinder-adsb reconnect-modem.py[471]: --- 8.8.8.8 ping statistics ---
+Nov 15 04:42:36 ravinder-adsb reconnect-modem.py[471]: 10 packets transmitted, 0 received, 100% packet loss, time 336ms
+Nov 15 04:42:36 ravinder-adsb reconnect-modem.py[471]: connect: Network is unreachable
+Nov 15 04:42:38 ravinder-adsb frpc[670]: 2023/11/15 04:42:38 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:42:38 ravinder-adsb frpc[670]: 2023/11/15 04:42:38 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:42:40 ravinder-adsb frpc[670]: 2023/11/15 04:42:40 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:42:40 ravinder-adsb frpc[670]: 2023/11/15 04:42:40 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:42:41 ravinder-adsb reconnect-modem.py[471]: ping: Warning: source address might be selected on device other than wwan0.
+Nov 15 04:42:42 ravinder-adsb frpc[670]: 2023/11/15 04:42:42 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:42:42 ravinder-adsb frpc[670]: 2023/11/15 04:42:42 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:42:44 ravinder-adsb frpc[670]: 2023/11/15 04:42:44 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:42:44 ravinder-adsb frpc[670]: 2023/11/15 04:42:44 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:42:46 ravinder-adsb frpc[670]: 2023/11/15 04:42:46 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:42:46 ravinder-adsb frpc[670]: 2023/11/15 04:42:46 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:42:48 ravinder-adsb frpc[670]: 2023/11/15 04:42:48 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:42:48 ravinder-adsb frpc[670]: 2023/11/15 04:42:48 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:42:50 ravinder-adsb frpc[670]: 2023/11/15 04:42:50 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:42:50 ravinder-adsb frpc[670]: 2023/11/15 04:42:50 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:42:51 ravinder-adsb reconnect-modem.py[471]: PING 8.8.8.8 (8.8.8.8) from 0.0.0.0 wwan0: 0(28) bytes of data.
+Nov 15 04:42:51 ravinder-adsb reconnect-modem.py[471]: --- 8.8.8.8 ping statistics ---
+Nov 15 04:42:51 ravinder-adsb reconnect-modem.py[471]: 10 packets transmitted, 0 received, 100% packet loss, time 335ms
+Nov 15 04:42:51 ravinder-adsb reconnect-modem.py[471]: connect: Network is unreachable
+Nov 15 04:42:52 ravinder-adsb frpc[670]: 2023/11/15 04:42:52 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:42:52 ravinder-adsb frpc[670]: 2023/11/15 04:42:52 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:42:54 ravinder-adsb frpc[670]: 2023/11/15 04:42:54 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:42:54 ravinder-adsb frpc[670]: 2023/11/15 04:42:54 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:42:56 ravinder-adsb frpc[670]: 2023/11/15 04:42:56 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:42:56 ravinder-adsb frpc[670]: 2023/11/15 04:42:56 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:42:56 ravinder-adsb reconnect-modem.py[471]: ping: Warning: source address might be selected on device other than wwan0.
+Nov 15 04:42:58 ravinder-adsb frpc[670]: 2023/11/15 04:42:58 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:42:58 ravinder-adsb frpc[670]: 2023/11/15 04:42:58 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:43:00 ravinder-adsb frpc[670]: 2023/11/15 04:43:00 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:43:00 ravinder-adsb frpc[670]: 2023/11/15 04:43:00 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:43:02 ravinder-adsb frpc[670]: 2023/11/15 04:43:02 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:43:02 ravinder-adsb frpc[670]: 2023/11/15 04:43:02 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:43:04 ravinder-adsb frpc[670]: 2023/11/15 04:43:04 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:43:04 ravinder-adsb frpc[670]: 2023/11/15 04:43:04 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:43:06 ravinder-adsb frpc[670]: 2023/11/15 04:43:06 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:43:06 ravinder-adsb frpc[670]: 2023/11/15 04:43:06 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:43:06 ravinder-adsb reconnect-modem.py[471]: PING 8.8.8.8 (8.8.8.8) from 0.0.0.0 wwan0: 0(28) bytes of data.
+Nov 15 04:43:06 ravinder-adsb reconnect-modem.py[471]: --- 8.8.8.8 ping statistics ---
+Nov 15 04:43:06 ravinder-adsb reconnect-modem.py[471]: 10 packets transmitted, 0 received, 100% packet loss, time 337ms
+Nov 15 04:43:06 ravinder-adsb reconnect-modem.py[471]: connect: Network is unreachable
+Nov 15 04:43:08 ravinder-adsb frpc[670]: 2023/11/15 04:43:08 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:43:08 ravinder-adsb frpc[670]: 2023/11/15 04:43:08 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:43:10 ravinder-adsb frpc[670]: 2023/11/15 04:43:10 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:43:10 ravinder-adsb frpc[670]: 2023/11/15 04:43:10 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:43:12 ravinder-adsb frpc[670]: 2023/11/15 04:43:12 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:43:12 ravinder-adsb frpc[670]: 2023/11/15 04:43:12 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:43:12 ravinder-adsb reconnect-modem.py[471]: ping: Warning: source address might be selected on device other than wwan0.
+Nov 15 04:43:14 ravinder-adsb frpc[670]: 2023/11/15 04:43:14 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:43:14 ravinder-adsb frpc[670]: 2023/11/15 04:43:14 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:43:16 ravinder-adsb frpc[670]: 2023/11/15 04:43:16 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:43:16 ravinder-adsb frpc[670]: 2023/11/15 04:43:16 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:43:18 ravinder-adsb frpc[670]: 2023/11/15 04:43:18 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:43:18 ravinder-adsb frpc[670]: 2023/11/15 04:43:18 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:43:20 ravinder-adsb frpc[670]: 2023/11/15 04:43:20 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:43:20 ravinder-adsb frpc[670]: 2023/11/15 04:43:20 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:43:22 ravinder-adsb frpc[670]: 2023/11/15 04:43:22 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:43:22 ravinder-adsb frpc[670]: 2023/11/15 04:43:22 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:43:22 ravinder-adsb reconnect-modem.py[471]: PING 8.8.8.8 (8.8.8.8) from 0.0.0.0 wwan0: 0(28) bytes of data.
+Nov 15 04:43:22 ravinder-adsb reconnect-modem.py[471]: --- 8.8.8.8 ping statistics ---
+Nov 15 04:43:22 ravinder-adsb reconnect-modem.py[471]: 10 packets transmitted, 0 received, 100% packet loss, time 376ms
+Nov 15 04:43:22 ravinder-adsb reconnect-modem.py[471]: connect: Network is unreachable
+Nov 15 04:43:24 ravinder-adsb frpc[670]: 2023/11/15 04:43:24 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:43:24 ravinder-adsb frpc[670]: 2023/11/15 04:43:24 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:43:26 ravinder-adsb frpc[670]: 2023/11/15 04:43:26 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:43:26 ravinder-adsb frpc[670]: 2023/11/15 04:43:26 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:43:27 ravinder-adsb reconnect-modem.py[471]: ping: Warning: source address might be selected on device other than wwan0.
+Nov 15 04:43:28 ravinder-adsb frpc[670]: 2023/11/15 04:43:28 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:43:28 ravinder-adsb frpc[670]: 2023/11/15 04:43:28 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:43:30 ravinder-adsb frpc[670]: 2023/11/15 04:43:30 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:43:30 ravinder-adsb frpc[670]: 2023/11/15 04:43:30 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:43:32 ravinder-adsb frpc[670]: 2023/11/15 04:43:32 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:43:32 ravinder-adsb frpc[670]: 2023/11/15 04:43:32 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:43:34 ravinder-adsb frpc[670]: 2023/11/15 04:43:34 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:43:34 ravinder-adsb frpc[670]: 2023/11/15 04:43:34 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:43:36 ravinder-adsb frpc[670]: 2023/11/15 04:43:36 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:43:36 ravinder-adsb frpc[670]: 2023/11/15 04:43:36 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:43:37 ravinder-adsb reconnect-modem.py[471]: PING 8.8.8.8 (8.8.8.8) from 0.0.0.0 wwan0: 0(28) bytes of data.
+Nov 15 04:43:37 ravinder-adsb reconnect-modem.py[471]: --- 8.8.8.8 ping statistics ---
+Nov 15 04:43:37 ravinder-adsb reconnect-modem.py[471]: 10 packets transmitted, 0 received, 100% packet loss, time 378ms
+Nov 15 04:43:37 ravinder-adsb reconnect-modem.py[471]: connect: Network is unreachable
+Nov 15 04:43:38 ravinder-adsb frpc[670]: 2023/11/15 04:43:38 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:43:38 ravinder-adsb frpc[670]: 2023/11/15 04:43:38 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:43:40 ravinder-adsb frpc[670]: 2023/11/15 04:43:40 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:43:40 ravinder-adsb frpc[670]: 2023/11/15 04:43:40 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:43:42 ravinder-adsb frpc[670]: 2023/11/15 04:43:42 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:43:42 ravinder-adsb frpc[670]: 2023/11/15 04:43:42 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:43:42 ravinder-adsb reconnect-modem.py[471]: ping: Warning: source address might be selected on device other than wwan0.
+Nov 15 04:43:44 ravinder-adsb frpc[670]: 2023/11/15 04:43:44 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:43:44 ravinder-adsb frpc[670]: 2023/11/15 04:43:44 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:43:46 ravinder-adsb frpc[670]: 2023/11/15 04:43:46 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:43:46 ravinder-adsb frpc[670]: 2023/11/15 04:43:46 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:43:48 ravinder-adsb frpc[670]: 2023/11/15 04:43:48 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:43:48 ravinder-adsb frpc[670]: 2023/11/15 04:43:48 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:43:50 ravinder-adsb frpc[670]: 2023/11/15 04:43:50 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:43:50 ravinder-adsb frpc[670]: 2023/11/15 04:43:50 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:43:52 ravinder-adsb frpc[670]: 2023/11/15 04:43:52 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:43:52 ravinder-adsb frpc[670]: 2023/11/15 04:43:52 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:43:52 ravinder-adsb reconnect-modem.py[471]: PING 8.8.8.8 (8.8.8.8) from 0.0.0.0 wwan0: 0(28) bytes of data.
+Nov 15 04:43:52 ravinder-adsb reconnect-modem.py[471]: --- 8.8.8.8 ping statistics ---
+Nov 15 04:43:52 ravinder-adsb reconnect-modem.py[471]: 10 packets transmitted, 0 received, 100% packet loss, time 381ms
+Nov 15 04:43:52 ravinder-adsb reconnect-modem.py[471]: connect: Network is unreachable
+Nov 15 04:43:54 ravinder-adsb frpc[670]: 2023/11/15 04:43:54 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:43:54 ravinder-adsb frpc[670]: 2023/11/15 04:43:54 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:43:56 ravinder-adsb frpc[670]: 2023/11/15 04:43:56 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:43:56 ravinder-adsb frpc[670]: 2023/11/15 04:43:56 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:43:57 ravinder-adsb reconnect-modem.py[471]: ping: Warning: source address might be selected on device other than wwan0.
+Nov 15 04:43:58 ravinder-adsb frpc[670]: 2023/11/15 04:43:58 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:43:58 ravinder-adsb frpc[670]: 2023/11/15 04:43:58 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:44:00 ravinder-adsb frpc[670]: 2023/11/15 04:44:00 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:44:00 ravinder-adsb frpc[670]: 2023/11/15 04:44:00 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:44:02 ravinder-adsb frpc[670]: 2023/11/15 04:44:02 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:44:02 ravinder-adsb frpc[670]: 2023/11/15 04:44:02 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:44:04 ravinder-adsb frpc[670]: 2023/11/15 04:44:04 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:44:04 ravinder-adsb frpc[670]: 2023/11/15 04:44:04 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:44:06 ravinder-adsb frpc[670]: 2023/11/15 04:44:06 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:44:06 ravinder-adsb frpc[670]: 2023/11/15 04:44:06 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:44:07 ravinder-adsb reconnect-modem.py[471]: PING 8.8.8.8 (8.8.8.8) from 0.0.0.0 wwan0: 0(28) bytes of data.
+Nov 15 04:44:07 ravinder-adsb reconnect-modem.py[471]: --- 8.8.8.8 ping statistics ---
+Nov 15 04:44:07 ravinder-adsb reconnect-modem.py[471]: 10 packets transmitted, 0 received, 100% packet loss, time 379ms
+Nov 15 04:44:07 ravinder-adsb reconnect-modem.py[471]: connect: Network is unreachable
+Nov 15 04:44:08 ravinder-adsb frpc[670]: 2023/11/15 04:44:08 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:44:08 ravinder-adsb frpc[670]: 2023/11/15 04:44:08 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:44:10 ravinder-adsb frpc[670]: 2023/11/15 04:44:10 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:44:10 ravinder-adsb frpc[670]: 2023/11/15 04:44:10 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:44:12 ravinder-adsb frpc[670]: 2023/11/15 04:44:12 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:44:12 ravinder-adsb frpc[670]: 2023/11/15 04:44:12 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:44:12 ravinder-adsb reconnect-modem.py[471]: ping: Warning: source address might be selected on device other than wwan0.
+Nov 15 04:44:14 ravinder-adsb frpc[670]: 2023/11/15 04:44:14 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:44:14 ravinder-adsb frpc[670]: 2023/11/15 04:44:14 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:44:16 ravinder-adsb frpc[670]: 2023/11/15 04:44:16 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:44:16 ravinder-adsb frpc[670]: 2023/11/15 04:44:16 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:44:18 ravinder-adsb frpc[670]: 2023/11/15 04:44:18 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:44:18 ravinder-adsb frpc[670]: 2023/11/15 04:44:18 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:44:20 ravinder-adsb frpc[670]: 2023/11/15 04:44:20 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:44:20 ravinder-adsb frpc[670]: 2023/11/15 04:44:20 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:44:22 ravinder-adsb frpc[670]: 2023/11/15 04:44:22 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:44:22 ravinder-adsb frpc[670]: 2023/11/15 04:44:22 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:44:22 ravinder-adsb reconnect-modem.py[471]: PING 8.8.8.8 (8.8.8.8) from 0.0.0.0 wwan0: 0(28) bytes of data.
+Nov 15 04:44:22 ravinder-adsb reconnect-modem.py[471]: --- 8.8.8.8 ping statistics ---
+Nov 15 04:44:22 ravinder-adsb reconnect-modem.py[471]: 10 packets transmitted, 0 received, 100% packet loss, time 380ms
+Nov 15 04:44:22 ravinder-adsb reconnect-modem.py[471]: connect: Network is unreachable
+Nov 15 04:44:24 ravinder-adsb frpc[670]: 2023/11/15 04:44:24 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:44:24 ravinder-adsb frpc[670]: 2023/11/15 04:44:24 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:44:26 ravinder-adsb frpc[670]: 2023/11/15 04:44:26 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:44:26 ravinder-adsb frpc[670]: 2023/11/15 04:44:26 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:44:27 ravinder-adsb reconnect-modem.py[471]: ping: Warning: source address might be selected on device other than wwan0.
+Nov 15 04:44:28 ravinder-adsb frpc[670]: 2023/11/15 04:44:28 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:44:28 ravinder-adsb frpc[670]: 2023/11/15 04:44:28 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:44:30 ravinder-adsb frpc[670]: 2023/11/15 04:44:30 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:44:30 ravinder-adsb frpc[670]: 2023/11/15 04:44:30 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:44:32 ravinder-adsb frpc[670]: 2023/11/15 04:44:32 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:44:32 ravinder-adsb frpc[670]: 2023/11/15 04:44:32 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:44:34 ravinder-adsb frpc[670]: 2023/11/15 04:44:34 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:44:34 ravinder-adsb frpc[670]: 2023/11/15 04:44:34 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:44:36 ravinder-adsb frpc[670]: 2023/11/15 04:44:36 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:44:36 ravinder-adsb frpc[670]: 2023/11/15 04:44:36 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:44:37 ravinder-adsb reconnect-modem.py[471]: PING 8.8.8.8 (8.8.8.8) from 0.0.0.0 wwan0: 0(28) bytes of data.
+Nov 15 04:44:37 ravinder-adsb reconnect-modem.py[471]: --- 8.8.8.8 ping statistics ---
+Nov 15 04:44:37 ravinder-adsb reconnect-modem.py[471]: 10 packets transmitted, 0 received, 100% packet loss, time 379ms
+Nov 15 04:44:37 ravinder-adsb reconnect-modem.py[471]: connect: Network is unreachable
+Nov 15 04:44:38 ravinder-adsb frpc[670]: 2023/11/15 04:44:38 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:44:38 ravinder-adsb frpc[670]: 2023/11/15 04:44:38 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:44:40 ravinder-adsb frpc[670]: 2023/11/15 04:44:40 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:44:40 ravinder-adsb frpc[670]: 2023/11/15 04:44:40 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:44:42 ravinder-adsb frpc[670]: 2023/11/15 04:44:42 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:44:42 ravinder-adsb frpc[670]: 2023/11/15 04:44:42 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:44:42 ravinder-adsb reconnect-modem.py[471]: ping: Warning: source address might be selected on device other than wwan0.
+Nov 15 04:44:44 ravinder-adsb frpc[670]: 2023/11/15 04:44:44 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:44:44 ravinder-adsb frpc[670]: 2023/11/15 04:44:44 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:44:46 ravinder-adsb frpc[670]: 2023/11/15 04:44:46 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:44:46 ravinder-adsb frpc[670]: 2023/11/15 04:44:46 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:44:48 ravinder-adsb frpc[670]: 2023/11/15 04:44:48 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:44:48 ravinder-adsb frpc[670]: 2023/11/15 04:44:48 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:44:50 ravinder-adsb frpc[670]: 2023/11/15 04:44:50 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:44:50 ravinder-adsb frpc[670]: 2023/11/15 04:44:50 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:44:52 ravinder-adsb frpc[670]: 2023/11/15 04:44:52 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:44:52 ravinder-adsb frpc[670]: 2023/11/15 04:44:52 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:44:52 ravinder-adsb reconnect-modem.py[471]: PING 8.8.8.8 (8.8.8.8) from 0.0.0.0 wwan0: 0(28) bytes of data.
+Nov 15 04:44:52 ravinder-adsb reconnect-modem.py[471]: --- 8.8.8.8 ping statistics ---
+Nov 15 04:44:52 ravinder-adsb reconnect-modem.py[471]: 10 packets transmitted, 0 received, 100% packet loss, time 380ms
+Nov 15 04:44:52 ravinder-adsb reconnect-modem.py[471]: connect: Network is unreachable
+Nov 15 04:44:54 ravinder-adsb frpc[670]: 2023/11/15 04:44:54 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:44:54 ravinder-adsb frpc[670]: 2023/11/15 04:44:54 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:44:56 ravinder-adsb frpc[670]: 2023/11/15 04:44:56 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:44:56 ravinder-adsb frpc[670]: 2023/11/15 04:44:56 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:44:57 ravinder-adsb reconnect-modem.py[471]: ping: Warning: source address might be selected on device other than wwan0.
+Nov 15 04:44:58 ravinder-adsb frpc[670]: 2023/11/15 04:44:58 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:44:58 ravinder-adsb frpc[670]: 2023/11/15 04:44:58 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:45:00 ravinder-adsb frpc[670]: 2023/11/15 04:45:00 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:45:00 ravinder-adsb frpc[670]: 2023/11/15 04:45:00 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:45:02 ravinder-adsb frpc[670]: 2023/11/15 04:45:02 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:45:02 ravinder-adsb frpc[670]: 2023/11/15 04:45:02 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:45:04 ravinder-adsb frpc[670]: 2023/11/15 04:45:04 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:45:04 ravinder-adsb frpc[670]: 2023/11/15 04:45:04 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:45:06 ravinder-adsb frpc[670]: 2023/11/15 04:45:06 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:45:06 ravinder-adsb frpc[670]: 2023/11/15 04:45:06 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:45:07 ravinder-adsb reconnect-modem.py[471]: PING 8.8.8.8 (8.8.8.8) from 0.0.0.0 wwan0: 0(28) bytes of data.
+Nov 15 04:45:07 ravinder-adsb reconnect-modem.py[471]: --- 8.8.8.8 ping statistics ---
+Nov 15 04:45:07 ravinder-adsb reconnect-modem.py[471]: 10 packets transmitted, 0 received, 100% packet loss, time 382ms
+Nov 15 04:45:07 ravinder-adsb reconnect-modem.py[471]: connect: Network is unreachable
+Nov 15 04:45:08 ravinder-adsb frpc[670]: 2023/11/15 04:45:08 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:45:08 ravinder-adsb frpc[670]: 2023/11/15 04:45:08 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:45:10 ravinder-adsb frpc[670]: 2023/11/15 04:45:10 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:45:10 ravinder-adsb frpc[670]: 2023/11/15 04:45:10 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:45:12 ravinder-adsb frpc[670]: 2023/11/15 04:45:12 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:45:12 ravinder-adsb frpc[670]: 2023/11/15 04:45:12 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:45:12 ravinder-adsb reconnect-modem.py[471]: ping: Warning: source address might be selected on device other than wwan0.
+Nov 15 04:45:14 ravinder-adsb frpc[670]: 2023/11/15 04:45:14 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:45:14 ravinder-adsb frpc[670]: 2023/11/15 04:45:14 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:45:16 ravinder-adsb frpc[670]: 2023/11/15 04:45:16 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:45:16 ravinder-adsb frpc[670]: 2023/11/15 04:45:16 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:45:18 ravinder-adsb frpc[670]: 2023/11/15 04:45:18 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:45:18 ravinder-adsb frpc[670]: 2023/11/15 04:45:18 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:45:20 ravinder-adsb frpc[670]: 2023/11/15 04:45:20 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:45:20 ravinder-adsb frpc[670]: 2023/11/15 04:45:20 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:45:22 ravinder-adsb frpc[670]: 2023/11/15 04:45:22 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:45:22 ravinder-adsb frpc[670]: 2023/11/15 04:45:22 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:45:22 ravinder-adsb reconnect-modem.py[471]: PING 8.8.8.8 (8.8.8.8) from 0.0.0.0 wwan0: 0(28) bytes of data.
+Nov 15 04:45:22 ravinder-adsb reconnect-modem.py[471]: --- 8.8.8.8 ping statistics ---
+Nov 15 04:45:22 ravinder-adsb reconnect-modem.py[471]: 10 packets transmitted, 0 received, 100% packet loss, time 386ms
+Nov 15 04:45:22 ravinder-adsb reconnect-modem.py[471]: connect: Network is unreachable
+Nov 15 04:45:24 ravinder-adsb frpc[670]: 2023/11/15 04:45:24 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:45:24 ravinder-adsb frpc[670]: 2023/11/15 04:45:24 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:45:26 ravinder-adsb frpc[670]: 2023/11/15 04:45:26 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:45:26 ravinder-adsb frpc[670]: 2023/11/15 04:45:26 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:45:27 ravinder-adsb reconnect-modem.py[471]: ping: Warning: source address might be selected on device other than wwan0.
+Nov 15 04:45:28 ravinder-adsb frpc[670]: 2023/11/15 04:45:28 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:45:28 ravinder-adsb frpc[670]: 2023/11/15 04:45:28 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:45:30 ravinder-adsb frpc[670]: 2023/11/15 04:45:30 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:45:30 ravinder-adsb frpc[670]: 2023/11/15 04:45:30 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:45:32 ravinder-adsb frpc[670]: 2023/11/15 04:45:32 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:45:32 ravinder-adsb frpc[670]: 2023/11/15 04:45:32 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:45:34 ravinder-adsb frpc[670]: 2023/11/15 04:45:34 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:45:34 ravinder-adsb frpc[670]: 2023/11/15 04:45:34 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:45:36 ravinder-adsb frpc[670]: 2023/11/15 04:45:36 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:45:36 ravinder-adsb frpc[670]: 2023/11/15 04:45:36 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:45:37 ravinder-adsb reconnect-modem.py[471]: PING 8.8.8.8 (8.8.8.8) from 0.0.0.0 wwan0: 0(28) bytes of data.
+Nov 15 04:45:37 ravinder-adsb reconnect-modem.py[471]: --- 8.8.8.8 ping statistics ---
+Nov 15 04:45:37 ravinder-adsb reconnect-modem.py[471]: 10 packets transmitted, 0 received, 100% packet loss, time 387ms
+Nov 15 04:45:37 ravinder-adsb reconnect-modem.py[471]: connect: Network is unreachable
+Nov 15 04:45:38 ravinder-adsb frpc[670]: 2023/11/15 04:45:38 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:45:38 ravinder-adsb frpc[670]: 2023/11/15 04:45:38 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:45:40 ravinder-adsb frpc[670]: 2023/11/15 04:45:40 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:45:40 ravinder-adsb frpc[670]: 2023/11/15 04:45:40 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:45:42 ravinder-adsb frpc[670]: 2023/11/15 04:45:42 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:45:42 ravinder-adsb frpc[670]: 2023/11/15 04:45:42 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:45:42 ravinder-adsb reconnect-modem.py[471]: ping: Warning: source address might be selected on device other than wwan0.
+Nov 15 04:45:44 ravinder-adsb frpc[670]: 2023/11/15 04:45:44 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:45:44 ravinder-adsb frpc[670]: 2023/11/15 04:45:44 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:45:46 ravinder-adsb frpc[670]: 2023/11/15 04:45:46 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:45:46 ravinder-adsb frpc[670]: 2023/11/15 04:45:46 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:45:48 ravinder-adsb frpc[670]: 2023/11/15 04:45:48 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:45:48 ravinder-adsb frpc[670]: 2023/11/15 04:45:48 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:45:50 ravinder-adsb frpc[670]: 2023/11/15 04:45:50 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:45:50 ravinder-adsb frpc[670]: 2023/11/15 04:45:50 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:45:52 ravinder-adsb frpc[670]: 2023/11/15 04:45:52 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:45:52 ravinder-adsb frpc[670]: 2023/11/15 04:45:52 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:45:52 ravinder-adsb reconnect-modem.py[471]: PING 8.8.8.8 (8.8.8.8) from 0.0.0.0 wwan0: 0(28) bytes of data.
+Nov 15 04:45:52 ravinder-adsb reconnect-modem.py[471]: --- 8.8.8.8 ping statistics ---
+Nov 15 04:45:52 ravinder-adsb reconnect-modem.py[471]: 10 packets transmitted, 0 received, 100% packet loss, time 389ms
+Nov 15 04:45:52 ravinder-adsb reconnect-modem.py[471]: connect: Network is unreachable
+Nov 15 04:45:54 ravinder-adsb frpc[670]: 2023/11/15 04:45:54 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:45:54 ravinder-adsb frpc[670]: 2023/11/15 04:45:54 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:45:56 ravinder-adsb frpc[670]: 2023/11/15 04:45:56 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:45:56 ravinder-adsb frpc[670]: 2023/11/15 04:45:56 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:45:57 ravinder-adsb reconnect-modem.py[471]: ping: Warning: source address might be selected on device other than wwan0.
+Nov 15 04:45:58 ravinder-adsb frpc[670]: 2023/11/15 04:45:58 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:45:58 ravinder-adsb frpc[670]: 2023/11/15 04:45:58 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:46:00 ravinder-adsb frpc[670]: 2023/11/15 04:46:00 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:46:00 ravinder-adsb frpc[670]: 2023/11/15 04:46:00 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:46:02 ravinder-adsb frpc[670]: 2023/11/15 04:46:02 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:46:02 ravinder-adsb frpc[670]: 2023/11/15 04:46:02 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:46:04 ravinder-adsb frpc[670]: 2023/11/15 04:46:04 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:46:04 ravinder-adsb frpc[670]: 2023/11/15 04:46:04 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:46:06 ravinder-adsb frpc[670]: 2023/11/15 04:46:06 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:46:06 ravinder-adsb frpc[670]: 2023/11/15 04:46:06 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 15 04:46:07 ravinder-adsb reconnect-modem.py[471]: PING 8.8.8.8 (8.8.8.8) from 0.0.0.0 wwan0: 0(28) bytes of data.
+Nov 15 04:46:07 ravinder-adsb reconnect-modem.py[471]: --- 8.8.8.8 ping statistics ---
+Nov 15 04:46:07 ravinder-adsb reconnect-modem.py[471]: 10 packets transmitted, 0 received, 100% packet loss, time 359ms
+Nov 15 04:46:07 ravinder-adsb reconnect-modem.py[471]: connect: Network is unreachable
+Nov 15 04:46:08 ravinder-adsb frpc[670]: 2023/11/15 04:46:08 #033[1;34m[I] [service.go:177] [4fead55a7f82f4bc] try to reconnect to server...#033[0m
+Nov 15 04:46:08 ravinder-adsb frpc[670]: 2023/11/15 04:46:08 #033[1;33m[W] [service.go:180] [4fead55a7f82f4bc] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m

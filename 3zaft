@@ -1,0 +1,1000 @@
+Nov 17 13:29:14 ravinder-adsb systemd[1]: feed-data.service: Service RestartSec=3s expired, scheduling restart.
+Nov 17 13:29:14 ravinder-adsb systemd[1]: feed-data.service: Scheduled restart job, restart counter is at 24056.
+Nov 17 13:29:14 ravinder-adsb systemd[1]: Stopped ADSB forwarder.
+Nov 17 13:29:14 ravinder-adsb systemd[1]: Started ADSB forwarder.
+Nov 17 13:29:14 ravinder-adsb python3[6148]: 103.171.84.166
+Nov 17 13:29:14 ravinder-adsb python3[6148]: 30012
+Nov 17 13:29:15 ravinder-adsb systemd[1]: feed-data.service: Succeeded.
+Nov 17 13:29:18 ravinder-adsb systemd[1]: feed-data.service: Service RestartSec=3s expired, scheduling restart.
+Nov 17 13:29:18 ravinder-adsb systemd[1]: feed-data.service: Scheduled restart job, restart counter is at 24057.
+Nov 17 13:29:18 ravinder-adsb systemd[1]: Stopped ADSB forwarder.
+Nov 17 13:29:18 ravinder-adsb systemd[1]: Started ADSB forwarder.
+Nov 17 13:29:18 ravinder-adsb python3[6149]: 103.171.84.166
+Nov 17 13:29:18 ravinder-adsb python3[6149]: 30012
+Nov 17 13:29:18 ravinder-adsb systemd[1]: feed-data.service: Succeeded.
+Nov 17 13:29:21 ravinder-adsb reconnect-modem.py[467]: PING 103.171.84.166 (103.171.84.166) 0(28) bytes of data.
+Nov 17 13:29:21 ravinder-adsb reconnect-modem.py[467]: --- 103.171.84.166 ping statistics ---
+Nov 17 13:29:21 ravinder-adsb reconnect-modem.py[467]: 10 packets transmitted, 0 received, 100% packet loss, time 387ms
+Nov 17 13:29:22 ravinder-adsb systemd[1]: feed-data.service: Service RestartSec=3s expired, scheduling restart.
+Nov 17 13:29:22 ravinder-adsb systemd[1]: feed-data.service: Scheduled restart job, restart counter is at 24058.
+Nov 17 13:29:22 ravinder-adsb systemd[1]: Stopped ADSB forwarder.
+Nov 17 13:29:22 ravinder-adsb systemd[1]: Started ADSB forwarder.
+Nov 17 13:29:22 ravinder-adsb python3[6150]: 103.171.84.166
+Nov 17 13:29:22 ravinder-adsb python3[6150]: 30012
+Nov 17 13:29:22 ravinder-adsb systemd[1]: feed-data.service: Succeeded.
+Nov 17 13:29:25 ravinder-adsb systemd[1]: feed-data.service: Service RestartSec=3s expired, scheduling restart.
+Nov 17 13:29:25 ravinder-adsb systemd[1]: feed-data.service: Scheduled restart job, restart counter is at 24059.
+Nov 17 13:29:25 ravinder-adsb systemd[1]: Stopped ADSB forwarder.
+Nov 17 13:29:25 ravinder-adsb systemd[1]: Started ADSB forwarder.
+Nov 17 13:29:26 ravinder-adsb python3[6151]: 103.171.84.166
+Nov 17 13:29:26 ravinder-adsb python3[6151]: 30012
+Nov 17 13:29:26 ravinder-adsb systemd[1]: feed-data.service: Succeeded.
+Nov 17 13:29:26 ravinder-adsb reconnect-modem.py[467]: PING 8.8.8.8 (8.8.8.8) from 10.61.208.69 wwan0: 0(28) bytes of data.
+Nov 17 13:29:26 ravinder-adsb reconnect-modem.py[467]: 8 bytes from 8.8.8.8: icmp_seq=1 ttl=114
+Nov 17 13:29:26 ravinder-adsb reconnect-modem.py[467]: --- 8.8.8.8 ping statistics ---
+Nov 17 13:29:26 ravinder-adsb reconnect-modem.py[467]: 1 packets transmitted, 1 received, 0% packet loss, time 0ms
+Nov 17 13:29:29 ravinder-adsb systemd[1]: feed-data.service: Service RestartSec=3s expired, scheduling restart.
+Nov 17 13:29:29 ravinder-adsb systemd[1]: feed-data.service: Scheduled restart job, restart counter is at 24060.
+Nov 17 13:29:29 ravinder-adsb systemd[1]: Stopped ADSB forwarder.
+Nov 17 13:29:29 ravinder-adsb systemd[1]: Started ADSB forwarder.
+Nov 17 13:29:29 ravinder-adsb python3[6154]: 103.171.84.166
+Nov 17 13:29:29 ravinder-adsb python3[6154]: 30012
+Nov 17 13:29:30 ravinder-adsb systemd[1]: feed-data.service: Succeeded.
+Nov 17 13:29:33 ravinder-adsb systemd[1]: feed-data.service: Service RestartSec=3s expired, scheduling restart.
+Nov 17 13:29:33 ravinder-adsb systemd[1]: feed-data.service: Scheduled restart job, restart counter is at 24061.
+Nov 17 13:29:33 ravinder-adsb systemd[1]: Stopped ADSB forwarder.
+Nov 17 13:29:33 ravinder-adsb systemd[1]: Started ADSB forwarder.
+Nov 17 13:29:33 ravinder-adsb python3[6155]: 103.171.84.166
+Nov 17 13:29:33 ravinder-adsb python3[6155]: 30012
+Nov 17 13:29:33 ravinder-adsb systemd[1]: feed-data.service: Succeeded.
+Nov 17 13:29:36 ravinder-adsb reconnect-modem.py[467]: PING 103.171.84.166 (103.171.84.166) 0(28) bytes of data.
+Nov 17 13:29:36 ravinder-adsb reconnect-modem.py[467]: --- 103.171.84.166 ping statistics ---
+Nov 17 13:29:36 ravinder-adsb reconnect-modem.py[467]: 10 packets transmitted, 0 received, 100% packet loss, time 407ms
+Nov 17 13:29:37 ravinder-adsb systemd[1]: feed-data.service: Service RestartSec=3s expired, scheduling restart.
+Nov 17 13:29:37 ravinder-adsb systemd[1]: feed-data.service: Scheduled restart job, restart counter is at 24062.
+Nov 17 13:29:37 ravinder-adsb systemd[1]: Stopped ADSB forwarder.
+Nov 17 13:29:37 ravinder-adsb systemd[1]: Started ADSB forwarder.
+Nov 17 13:29:37 ravinder-adsb python3[6156]: 103.171.84.166
+Nov 17 13:29:37 ravinder-adsb python3[6156]: 30012
+Nov 17 13:29:37 ravinder-adsb systemd[1]: feed-data.service: Succeeded.
+Nov 17 13:29:40 ravinder-adsb systemd[1]: feed-data.service: Service RestartSec=3s expired, scheduling restart.
+Nov 17 13:29:40 ravinder-adsb systemd[1]: feed-data.service: Scheduled restart job, restart counter is at 24063.
+Nov 17 13:29:40 ravinder-adsb systemd[1]: Stopped ADSB forwarder.
+Nov 17 13:29:40 ravinder-adsb systemd[1]: Started ADSB forwarder.
+Nov 17 13:29:41 ravinder-adsb python3[6157]: 103.171.84.166
+Nov 17 13:29:41 ravinder-adsb python3[6157]: 30012
+Nov 17 13:29:41 ravinder-adsb systemd[1]: feed-data.service: Succeeded.
+Nov 17 13:29:41 ravinder-adsb reconnect-modem.py[467]: PING 8.8.8.8 (8.8.8.8) from 10.61.208.69 wwan0: 0(28) bytes of data.
+Nov 17 13:29:41 ravinder-adsb reconnect-modem.py[467]: 8 bytes from 8.8.8.8: icmp_seq=1 ttl=114
+Nov 17 13:29:41 ravinder-adsb reconnect-modem.py[467]: --- 8.8.8.8 ping statistics ---
+Nov 17 13:29:41 ravinder-adsb reconnect-modem.py[467]: 1 packets transmitted, 1 received, 0% packet loss, time 0ms
+Nov 17 13:29:44 ravinder-adsb systemd[1]: feed-data.service: Service RestartSec=3s expired, scheduling restart.
+Nov 17 13:29:44 ravinder-adsb systemd[1]: feed-data.service: Scheduled restart job, restart counter is at 24064.
+Nov 17 13:29:44 ravinder-adsb systemd[1]: Stopped ADSB forwarder.
+Nov 17 13:29:44 ravinder-adsb systemd[1]: Started ADSB forwarder.
+Nov 17 13:29:44 ravinder-adsb python3[6160]: 103.171.84.166
+Nov 17 13:29:44 ravinder-adsb python3[6160]: 30012
+Nov 17 13:29:45 ravinder-adsb systemd[1]: feed-data.service: Succeeded.
+Nov 17 13:29:48 ravinder-adsb systemd[1]: feed-data.service: Service RestartSec=3s expired, scheduling restart.
+Nov 17 13:29:48 ravinder-adsb systemd[1]: feed-data.service: Scheduled restart job, restart counter is at 24065.
+Nov 17 13:29:48 ravinder-adsb systemd[1]: Stopped ADSB forwarder.
+Nov 17 13:29:48 ravinder-adsb systemd[1]: Started ADSB forwarder.
+Nov 17 13:29:48 ravinder-adsb python3[6161]: 103.171.84.166
+Nov 17 13:29:48 ravinder-adsb python3[6161]: 30012
+Nov 17 13:29:48 ravinder-adsb systemd[1]: feed-data.service: Succeeded.
+Nov 17 13:29:51 ravinder-adsb reconnect-modem.py[467]: PING 103.171.84.166 (103.171.84.166) 0(28) bytes of data.
+Nov 17 13:29:51 ravinder-adsb reconnect-modem.py[467]: --- 103.171.84.166 ping statistics ---
+Nov 17 13:29:51 ravinder-adsb reconnect-modem.py[467]: 10 packets transmitted, 0 received, 100% packet loss, time 349ms
+Nov 17 13:29:52 ravinder-adsb systemd[1]: feed-data.service: Service RestartSec=3s expired, scheduling restart.
+Nov 17 13:29:52 ravinder-adsb systemd[1]: feed-data.service: Scheduled restart job, restart counter is at 24066.
+Nov 17 13:29:52 ravinder-adsb systemd[1]: Stopped ADSB forwarder.
+Nov 17 13:29:52 ravinder-adsb systemd[1]: Started ADSB forwarder.
+Nov 17 13:29:52 ravinder-adsb python3[6162]: 103.171.84.166
+Nov 17 13:29:52 ravinder-adsb python3[6162]: 30012
+Nov 17 13:29:52 ravinder-adsb systemd[1]: feed-data.service: Succeeded.
+Nov 17 13:29:55 ravinder-adsb systemd[1]: feed-data.service: Service RestartSec=3s expired, scheduling restart.
+Nov 17 13:29:55 ravinder-adsb systemd[1]: feed-data.service: Scheduled restart job, restart counter is at 24067.
+Nov 17 13:29:55 ravinder-adsb systemd[1]: Stopped ADSB forwarder.
+Nov 17 13:29:55 ravinder-adsb systemd[1]: Started ADSB forwarder.
+Nov 17 13:29:56 ravinder-adsb python3[6163]: 103.171.84.166
+Nov 17 13:29:56 ravinder-adsb python3[6163]: 30012
+Nov 17 13:29:56 ravinder-adsb systemd[1]: feed-data.service: Succeeded.
+Nov 17 13:29:56 ravinder-adsb reconnect-modem.py[467]: PING 8.8.8.8 (8.8.8.8) from 10.61.208.69 wwan0: 0(28) bytes of data.
+Nov 17 13:29:56 ravinder-adsb reconnect-modem.py[467]: 8 bytes from 8.8.8.8: icmp_seq=1 ttl=114
+Nov 17 13:29:56 ravinder-adsb reconnect-modem.py[467]: --- 8.8.8.8 ping statistics ---
+Nov 17 13:29:56 ravinder-adsb reconnect-modem.py[467]: 1 packets transmitted, 1 received, 0% packet loss, time 0ms
+Nov 17 13:29:59 ravinder-adsb systemd[1]: feed-data.service: Service RestartSec=3s expired, scheduling restart.
+Nov 17 13:29:59 ravinder-adsb systemd[1]: feed-data.service: Scheduled restart job, restart counter is at 24068.
+Nov 17 13:29:59 ravinder-adsb systemd[1]: Stopped ADSB forwarder.
+Nov 17 13:29:59 ravinder-adsb systemd[1]: Started ADSB forwarder.
+Nov 17 13:29:59 ravinder-adsb python3[6166]: 103.171.84.166
+Nov 17 13:29:59 ravinder-adsb python3[6166]: 30012
+Nov 17 13:30:00 ravinder-adsb systemd[1]: feed-data.service: Succeeded.
+Nov 17 13:30:03 ravinder-adsb systemd[1]: feed-data.service: Service RestartSec=3s expired, scheduling restart.
+Nov 17 13:30:03 ravinder-adsb systemd[1]: feed-data.service: Scheduled restart job, restart counter is at 24069.
+Nov 17 13:30:03 ravinder-adsb systemd[1]: Stopped ADSB forwarder.
+Nov 17 13:30:03 ravinder-adsb systemd[1]: Started ADSB forwarder.
+Nov 17 13:30:03 ravinder-adsb python3[6167]: 103.171.84.166
+Nov 17 13:30:03 ravinder-adsb python3[6167]: 30012
+Nov 17 13:30:03 ravinder-adsb systemd[1]: feed-data.service: Succeeded.
+Nov 17 13:30:06 ravinder-adsb systemd[1]: feed-data.service: Service RestartSec=3s expired, scheduling restart.
+Nov 17 13:30:06 ravinder-adsb systemd[1]: feed-data.service: Scheduled restart job, restart counter is at 24070.
+Nov 17 13:30:06 ravinder-adsb systemd[1]: Stopped ADSB forwarder.
+Nov 17 13:30:06 ravinder-adsb systemd[1]: Started ADSB forwarder.
+Nov 17 13:30:06 ravinder-adsb reconnect-modem.py[467]: PING 103.171.84.166 (103.171.84.166) 0(28) bytes of data.
+Nov 17 13:30:06 ravinder-adsb reconnect-modem.py[467]: --- 103.171.84.166 ping statistics ---
+Nov 17 13:30:06 ravinder-adsb reconnect-modem.py[467]: 10 packets transmitted, 0 received, 100% packet loss, time 358ms
+Nov 17 13:30:07 ravinder-adsb python3[6168]: 103.171.84.166
+Nov 17 13:30:07 ravinder-adsb python3[6168]: 30012
+Nov 17 13:30:07 ravinder-adsb systemd[1]: feed-data.service: Succeeded.
+Nov 17 13:30:10 ravinder-adsb systemd[1]: feed-data.service: Service RestartSec=3s expired, scheduling restart.
+Nov 17 13:30:10 ravinder-adsb systemd[1]: feed-data.service: Scheduled restart job, restart counter is at 24071.
+Nov 17 13:30:10 ravinder-adsb systemd[1]: Stopped ADSB forwarder.
+Nov 17 13:30:10 ravinder-adsb systemd[1]: Started ADSB forwarder.
+Nov 17 13:30:10 ravinder-adsb python3[6170]: 103.171.84.166
+Nov 17 13:30:10 ravinder-adsb python3[6170]: 30012
+Nov 17 13:30:11 ravinder-adsb systemd[1]: feed-data.service: Succeeded.
+Nov 17 13:30:12 ravinder-adsb reconnect-modem.py[467]: PING 8.8.8.8 (8.8.8.8) from 10.61.208.69 wwan0: 0(28) bytes of data.
+Nov 17 13:30:12 ravinder-adsb reconnect-modem.py[467]: 8 bytes from 8.8.8.8: icmp_seq=1 ttl=114
+Nov 17 13:30:12 ravinder-adsb reconnect-modem.py[467]: --- 8.8.8.8 ping statistics ---
+Nov 17 13:30:12 ravinder-adsb reconnect-modem.py[467]: 1 packets transmitted, 1 received, 0% packet loss, time 0ms
+Nov 17 13:30:14 ravinder-adsb systemd[1]: feed-data.service: Service RestartSec=3s expired, scheduling restart.
+Nov 17 13:30:14 ravinder-adsb systemd[1]: feed-data.service: Scheduled restart job, restart counter is at 24072.
+Nov 17 13:30:14 ravinder-adsb systemd[1]: Stopped ADSB forwarder.
+Nov 17 13:30:14 ravinder-adsb systemd[1]: Started ADSB forwarder.
+Nov 17 13:30:14 ravinder-adsb python3[6173]: 103.171.84.166
+Nov 17 13:30:14 ravinder-adsb python3[6173]: 30012
+Nov 17 13:30:14 ravinder-adsb systemd[1]: feed-data.service: Succeeded.
+Nov 17 13:30:17 ravinder-adsb systemd[1]: feed-data.service: Service RestartSec=3s expired, scheduling restart.
+Nov 17 13:30:17 ravinder-adsb systemd[1]: feed-data.service: Scheduled restart job, restart counter is at 24073.
+Nov 17 13:30:17 ravinder-adsb systemd[1]: Stopped ADSB forwarder.
+Nov 17 13:30:17 ravinder-adsb systemd[1]: Started ADSB forwarder.
+Nov 17 13:30:18 ravinder-adsb python3[6174]: 103.171.84.166
+Nov 17 13:30:18 ravinder-adsb python3[6174]: 30012
+Nov 17 13:30:18 ravinder-adsb systemd[1]: feed-data.service: Succeeded.
+Nov 17 13:30:21 ravinder-adsb systemd[1]: feed-data.service: Service RestartSec=3s expired, scheduling restart.
+Nov 17 13:30:21 ravinder-adsb systemd[1]: feed-data.service: Scheduled restart job, restart counter is at 24074.
+Nov 17 13:30:21 ravinder-adsb systemd[1]: Stopped ADSB forwarder.
+Nov 17 13:30:21 ravinder-adsb systemd[1]: Started ADSB forwarder.
+Nov 17 13:30:21 ravinder-adsb python3[6175]: 103.171.84.166
+Nov 17 13:30:21 ravinder-adsb python3[6175]: 30012
+Nov 17 13:30:21 ravinder-adsb systemd[1]: feed-data.service: Succeeded.
+Nov 17 13:30:22 ravinder-adsb reconnect-modem.py[467]: PING 103.171.84.166 (103.171.84.166) 0(28) bytes of data.
+Nov 17 13:30:22 ravinder-adsb reconnect-modem.py[467]: --- 103.171.84.166 ping statistics ---
+Nov 17 13:30:22 ravinder-adsb reconnect-modem.py[467]: 10 packets transmitted, 0 received, 100% packet loss, time 378ms
+Nov 17 13:30:25 ravinder-adsb systemd[1]: feed-data.service: Service RestartSec=3s expired, scheduling restart.
+Nov 17 13:30:25 ravinder-adsb systemd[1]: feed-data.service: Scheduled restart job, restart counter is at 24075.
+Nov 17 13:30:25 ravinder-adsb systemd[1]: Stopped ADSB forwarder.
+Nov 17 13:30:25 ravinder-adsb systemd[1]: Started ADSB forwarder.
+Nov 17 13:30:25 ravinder-adsb python3[6176]: 103.171.84.166
+Nov 17 13:30:25 ravinder-adsb python3[6176]: 30012
+Nov 17 13:30:25 ravinder-adsb systemd[1]: feed-data.service: Succeeded.
+Nov 17 13:30:27 ravinder-adsb reconnect-modem.py[467]: PING 8.8.8.8 (8.8.8.8) from 10.61.208.69 wwan0: 0(28) bytes of data.
+Nov 17 13:30:27 ravinder-adsb reconnect-modem.py[467]: 8 bytes from 8.8.8.8: icmp_seq=1 ttl=114
+Nov 17 13:30:27 ravinder-adsb reconnect-modem.py[467]: --- 8.8.8.8 ping statistics ---
+Nov 17 13:30:27 ravinder-adsb reconnect-modem.py[467]: 1 packets transmitted, 1 received, 0% packet loss, time 0ms
+Nov 17 13:30:28 ravinder-adsb systemd[1]: feed-data.service: Service RestartSec=3s expired, scheduling restart.
+Nov 17 13:30:28 ravinder-adsb systemd[1]: feed-data.service: Scheduled restart job, restart counter is at 24076.
+Nov 17 13:30:28 ravinder-adsb systemd[1]: Stopped ADSB forwarder.
+Nov 17 13:30:28 ravinder-adsb systemd[1]: Started ADSB forwarder.
+Nov 17 13:30:29 ravinder-adsb python3[6179]: 103.171.84.166
+Nov 17 13:30:29 ravinder-adsb python3[6179]: 30012
+Nov 17 13:30:29 ravinder-adsb systemd[1]: feed-data.service: Succeeded.
+Nov 17 13:30:32 ravinder-adsb systemd[1]: feed-data.service: Service RestartSec=3s expired, scheduling restart.
+Nov 17 13:30:32 ravinder-adsb systemd[1]: feed-data.service: Scheduled restart job, restart counter is at 24077.
+Nov 17 13:30:32 ravinder-adsb systemd[1]: Stopped ADSB forwarder.
+Nov 17 13:30:32 ravinder-adsb systemd[1]: Started ADSB forwarder.
+Nov 17 13:30:32 ravinder-adsb python3[6180]: 103.171.84.166
+Nov 17 13:30:32 ravinder-adsb python3[6180]: 30012
+Nov 17 13:30:33 ravinder-adsb systemd[1]: feed-data.service: Succeeded.
+Nov 17 13:30:36 ravinder-adsb systemd[1]: feed-data.service: Service RestartSec=3s expired, scheduling restart.
+Nov 17 13:30:36 ravinder-adsb systemd[1]: feed-data.service: Scheduled restart job, restart counter is at 24078.
+Nov 17 13:30:36 ravinder-adsb systemd[1]: Stopped ADSB forwarder.
+Nov 17 13:30:36 ravinder-adsb systemd[1]: Started ADSB forwarder.
+Nov 17 13:30:36 ravinder-adsb python3[6181]: 103.171.84.166
+Nov 17 13:30:36 ravinder-adsb python3[6181]: 30012
+Nov 17 13:30:36 ravinder-adsb systemd[1]: feed-data.service: Succeeded.
+Nov 17 13:30:37 ravinder-adsb reconnect-modem.py[467]: PING 103.171.84.166 (103.171.84.166) 0(28) bytes of data.
+Nov 17 13:30:37 ravinder-adsb reconnect-modem.py[467]: --- 103.171.84.166 ping statistics ---
+Nov 17 13:30:37 ravinder-adsb reconnect-modem.py[467]: 10 packets transmitted, 0 received, 100% packet loss, time 405ms
+Nov 17 13:30:39 ravinder-adsb rngd[388]: stats: bits received from HRNG source: 780064
+Nov 17 13:30:39 ravinder-adsb rngd[388]: stats: bits sent to kernel pool: 723072
+Nov 17 13:30:39 ravinder-adsb rngd[388]: stats: entropy added to kernel pool: 723072
+Nov 17 13:30:39 ravinder-adsb rngd[388]: stats: FIPS 140-2 successes: 39
+Nov 17 13:30:39 ravinder-adsb rngd[388]: stats: FIPS 140-2 failures: 0
+Nov 17 13:30:39 ravinder-adsb rngd[388]: stats: FIPS 140-2(2001-10-10) Monobit: 0
+Nov 17 13:30:39 ravinder-adsb rngd[388]: stats: FIPS 140-2(2001-10-10) Poker: 0
+Nov 17 13:30:39 ravinder-adsb rngd[388]: stats: FIPS 140-2(2001-10-10) Runs: 0
+Nov 17 13:30:39 ravinder-adsb rngd[388]: stats: FIPS 140-2(2001-10-10) Long run: 0
+Nov 17 13:30:39 ravinder-adsb rngd[388]: stats: FIPS 140-2(2001-10-10) Continuous run: 0
+Nov 17 13:30:39 ravinder-adsb rngd[388]: stats: HRNG source speed: (min=699.769; avg=981.185; max=1128.191)Kibits/s
+Nov 17 13:30:39 ravinder-adsb rngd[388]: stats: FIPS tests speed: (min=2.062; avg=9.580; max=16.571)Mibits/s
+Nov 17 13:30:39 ravinder-adsb rngd[388]: stats: Lowest ready-buffers level: 2
+Nov 17 13:30:39 ravinder-adsb rngd[388]: stats: Entropy starvations: 0
+Nov 17 13:30:39 ravinder-adsb rngd[388]: stats: Time spent starving for entropy: (min=0; avg=0.000; max=0)us
+Nov 17 13:30:40 ravinder-adsb systemd[1]: feed-data.service: Service RestartSec=3s expired, scheduling restart.
+Nov 17 13:30:40 ravinder-adsb systemd[1]: feed-data.service: Scheduled restart job, restart counter is at 24079.
+Nov 17 13:30:40 ravinder-adsb systemd[1]: Stopped ADSB forwarder.
+Nov 17 13:30:40 ravinder-adsb systemd[1]: Started ADSB forwarder.
+Nov 17 13:30:40 ravinder-adsb python3[6182]: 103.171.84.166
+Nov 17 13:30:40 ravinder-adsb python3[6182]: 30012
+Nov 17 13:30:40 ravinder-adsb systemd[1]: feed-data.service: Succeeded.
+Nov 17 13:30:42 ravinder-adsb reconnect-modem.py[467]: PING 8.8.8.8 (8.8.8.8) from 10.61.208.69 wwan0: 0(28) bytes of data.
+Nov 17 13:30:42 ravinder-adsb reconnect-modem.py[467]: 8 bytes from 8.8.8.8: icmp_seq=1 ttl=114
+Nov 17 13:30:42 ravinder-adsb reconnect-modem.py[467]: --- 8.8.8.8 ping statistics ---
+Nov 17 13:30:42 ravinder-adsb reconnect-modem.py[467]: 1 packets transmitted, 1 received, 0% packet loss, time 0ms
+Nov 17 13:30:43 ravinder-adsb systemd[1]: feed-data.service: Service RestartSec=3s expired, scheduling restart.
+Nov 17 13:30:43 ravinder-adsb systemd[1]: feed-data.service: Scheduled restart job, restart counter is at 24080.
+Nov 17 13:30:43 ravinder-adsb systemd[1]: Stopped ADSB forwarder.
+Nov 17 13:30:43 ravinder-adsb systemd[1]: Started ADSB forwarder.
+Nov 17 13:30:44 ravinder-adsb python3[6189]: 103.171.84.166
+Nov 17 13:30:44 ravinder-adsb python3[6189]: 30012
+Nov 17 13:30:44 ravinder-adsb systemd[1]: feed-data.service: Succeeded.
+Nov 17 13:30:47 ravinder-adsb systemd[1]: feed-data.service: Service RestartSec=3s expired, scheduling restart.
+Nov 17 13:30:47 ravinder-adsb systemd[1]: feed-data.service: Scheduled restart job, restart counter is at 24081.
+Nov 17 13:30:47 ravinder-adsb systemd[1]: Stopped ADSB forwarder.
+Nov 17 13:30:47 ravinder-adsb systemd[1]: Started ADSB forwarder.
+Nov 17 13:30:47 ravinder-adsb python3[6190]: 103.171.84.166
+Nov 17 13:30:47 ravinder-adsb python3[6190]: 30012
+Nov 17 13:30:48 ravinder-adsb systemd[1]: feed-data.service: Succeeded.
+Nov 17 13:30:51 ravinder-adsb systemd[1]: feed-data.service: Service RestartSec=3s expired, scheduling restart.
+Nov 17 13:30:51 ravinder-adsb systemd[1]: feed-data.service: Scheduled restart job, restart counter is at 24082.
+Nov 17 13:30:51 ravinder-adsb systemd[1]: Stopped ADSB forwarder.
+Nov 17 13:30:51 ravinder-adsb systemd[1]: Started ADSB forwarder.
+Nov 17 13:30:51 ravinder-adsb python3[6191]: 103.171.84.166
+Nov 17 13:30:51 ravinder-adsb python3[6191]: 30012
+Nov 17 13:30:51 ravinder-adsb systemd[1]: feed-data.service: Succeeded.
+Nov 17 13:30:52 ravinder-adsb reconnect-modem.py[467]: PING 103.171.84.166 (103.171.84.166) 0(28) bytes of data.
+Nov 17 13:30:52 ravinder-adsb reconnect-modem.py[467]: --- 103.171.84.166 ping statistics ---
+Nov 17 13:30:52 ravinder-adsb reconnect-modem.py[467]: 10 packets transmitted, 0 received, 100% packet loss, time 396ms
+Nov 17 13:30:55 ravinder-adsb systemd[1]: feed-data.service: Service RestartSec=3s expired, scheduling restart.
+Nov 17 13:30:55 ravinder-adsb systemd[1]: feed-data.service: Scheduled restart job, restart counter is at 24083.
+Nov 17 13:30:55 ravinder-adsb systemd[1]: Stopped ADSB forwarder.
+Nov 17 13:30:55 ravinder-adsb systemd[1]: Started ADSB forwarder.
+Nov 17 13:30:55 ravinder-adsb python3[6192]: 103.171.84.166
+Nov 17 13:30:55 ravinder-adsb python3[6192]: 30012
+Nov 17 13:30:55 ravinder-adsb systemd[1]: feed-data.service: Succeeded.
+Nov 17 13:30:58 ravinder-adsb systemd[1]: feed-data.service: Service RestartSec=3s expired, scheduling restart.
+Nov 17 13:30:58 ravinder-adsb systemd[1]: feed-data.service: Scheduled restart job, restart counter is at 24084.
+Nov 17 13:30:58 ravinder-adsb systemd[1]: Stopped ADSB forwarder.
+Nov 17 13:30:58 ravinder-adsb systemd[1]: Started ADSB forwarder.
+Nov 17 13:30:59 ravinder-adsb python3[6194]: 103.171.84.166
+Nov 17 13:30:59 ravinder-adsb python3[6194]: 30012
+Nov 17 13:30:59 ravinder-adsb systemd[1]: feed-data.service: Succeeded.
+Nov 17 13:31:02 ravinder-adsb systemd[1]: feed-data.service: Service RestartSec=3s expired, scheduling restart.
+Nov 17 13:31:02 ravinder-adsb systemd[1]: feed-data.service: Scheduled restart job, restart counter is at 24085.
+Nov 17 13:31:02 ravinder-adsb systemd[1]: Stopped ADSB forwarder.
+Nov 17 13:31:02 ravinder-adsb systemd[1]: Started ADSB forwarder.
+Nov 17 13:31:02 ravinder-adsb python3[6195]: 103.171.84.166
+Nov 17 13:31:02 ravinder-adsb python3[6195]: 30012
+Nov 17 13:31:03 ravinder-adsb systemd[1]: feed-data.service: Succeeded.
+Nov 17 13:31:06 ravinder-adsb systemd[1]: feed-data.service: Service RestartSec=3s expired, scheduling restart.
+Nov 17 13:31:06 ravinder-adsb systemd[1]: feed-data.service: Scheduled restart job, restart counter is at 24086.
+Nov 17 13:31:06 ravinder-adsb systemd[1]: Stopped ADSB forwarder.
+Nov 17 13:31:06 ravinder-adsb systemd[1]: Started ADSB forwarder.
+Nov 17 13:31:06 ravinder-adsb python3[6196]: 103.171.84.166
+Nov 17 13:31:06 ravinder-adsb python3[6196]: 30012
+Nov 17 13:31:06 ravinder-adsb systemd[1]: feed-data.service: Succeeded.
+Nov 17 13:31:07 ravinder-adsb reconnect-modem.py[467]: PING 8.8.8.8 (8.8.8.8) from 10.61.208.69 wwan0: 0(28) bytes of data.
+Nov 17 13:31:07 ravinder-adsb reconnect-modem.py[467]: --- 8.8.8.8 ping statistics ---
+Nov 17 13:31:07 ravinder-adsb reconnect-modem.py[467]: 10 packets transmitted, 0 received, 100% packet loss, time 335ms
+Nov 17 13:31:09 ravinder-adsb systemd[1]: feed-data.service: Service RestartSec=3s expired, scheduling restart.
+Nov 17 13:31:09 ravinder-adsb systemd[1]: feed-data.service: Scheduled restart job, restart counter is at 24087.
+Nov 17 13:31:09 ravinder-adsb systemd[1]: Stopped ADSB forwarder.
+Nov 17 13:31:09 ravinder-adsb systemd[1]: Started ADSB forwarder.
+Nov 17 13:31:10 ravinder-adsb python3[6198]: 103.171.84.166
+Nov 17 13:31:10 ravinder-adsb python3[6198]: 30012
+Nov 17 13:31:10 ravinder-adsb systemd[1]: feed-data.service: Succeeded.
+Nov 17 13:31:12 ravinder-adsb frpc[674]: 2023/11/17 13:31:12 #033[1;31m[E] [control.go:158] [17b25925a03dc09a] work connection closed before response StartWorkConn message: EOF#033[0m
+Nov 17 13:31:12 ravinder-adsb frpc[674]: 2023/11/17 13:31:12 #033[1;34m[I] [control.go:282] [17b25925a03dc09a] control writer is closing#033[0m
+Nov 17 13:31:12 ravinder-adsb frpc[674]: 2023/11/17 13:31:12 #033[1;34m[I] [service.go:177] [17b25925a03dc09a] try to reconnect to server...#033[0m
+Nov 17 13:31:12 ravinder-adsb frpc[674]: 2023/11/17 13:31:12 #033[1;34m[I] [visitor_manager.go:60] [17b25925a03dc09a] gracefully shutdown visitor manager#033[0m
+Nov 17 13:31:13 ravinder-adsb systemd[1]: feed-data.service: Service RestartSec=3s expired, scheduling restart.
+Nov 17 13:31:13 ravinder-adsb systemd[1]: feed-data.service: Scheduled restart job, restart counter is at 24088.
+Nov 17 13:31:13 ravinder-adsb systemd[1]: Stopped ADSB forwarder.
+Nov 17 13:31:13 ravinder-adsb systemd[1]: Started ADSB forwarder.
+Nov 17 13:31:13 ravinder-adsb python3[6199]: 103.171.84.166
+Nov 17 13:31:13 ravinder-adsb python3[6199]: 30012
+Nov 17 13:31:14 ravinder-adsb systemd[1]: feed-data.service: Succeeded.
+Nov 17 13:31:17 ravinder-adsb systemd[1]: feed-data.service: Service RestartSec=3s expired, scheduling restart.
+Nov 17 13:31:17 ravinder-adsb systemd[1]: feed-data.service: Scheduled restart job, restart counter is at 24089.
+Nov 17 13:31:17 ravinder-adsb systemd[1]: Stopped ADSB forwarder.
+Nov 17 13:31:17 ravinder-adsb systemd[1]: Started ADSB forwarder.
+Nov 17 13:31:17 ravinder-adsb reconnect-modem.py[467]: PING 103.171.84.166 (103.171.84.166) 0(28) bytes of data.
+Nov 17 13:31:17 ravinder-adsb reconnect-modem.py[467]: --- 103.171.84.166 ping statistics ---
+Nov 17 13:31:17 ravinder-adsb reconnect-modem.py[467]: 10 packets transmitted, 0 received, 100% packet loss, time 405ms
+Nov 17 13:31:17 ravinder-adsb dhcpcd[462]: wwan0: carrier lost
+Nov 17 13:31:17 ravinder-adsb python3[6200]: 103.171.84.166
+Nov 17 13:31:17 ravinder-adsb python3[6200]: 30012
+Nov 17 13:31:17 ravinder-adsb systemd[1]: feed-data.service: Succeeded.
+Nov 17 13:31:21 ravinder-adsb systemd[1]: feed-data.service: Service RestartSec=3s expired, scheduling restart.
+Nov 17 13:31:21 ravinder-adsb systemd[1]: feed-data.service: Scheduled restart job, restart counter is at 24090.
+Nov 17 13:31:21 ravinder-adsb systemd[1]: Stopped ADSB forwarder.
+Nov 17 13:31:21 ravinder-adsb systemd[1]: Started ADSB forwarder.
+Nov 17 13:31:21 ravinder-adsb python3[6219]: 103.171.84.166
+Nov 17 13:31:21 ravinder-adsb python3[6219]: 30012
+Nov 17 13:31:21 ravinder-adsb systemd[1]: feed-data.service: Succeeded.
+Nov 17 13:31:21 ravinder-adsb dhcpcd[462]: wwan0: carrier acquired
+Nov 17 13:31:21 ravinder-adsb dhcpcd[462]: wwan0: IAID 90:6d:60:f1
+Nov 17 13:31:21 ravinder-adsb dhcpcd[462]: wwan0: using static address 10.61.208.69/30
+Nov 17 13:31:21 ravinder-adsb dhcpcd[462]: wwan0: adding route to 10.61.208.68/30
+Nov 17 13:31:21 ravinder-adsb dhcpcd[462]: wwan0: pid 462 deleted route to 10.61.208.68/30
+Nov 17 13:31:22 ravinder-adsb dhcpcd[462]: wwan0: soliciting an IPv6 router
+Nov 17 13:31:22 ravinder-adsb dhcpcd[462]: wwan0: pid 6251 deleted IP address 10.61.208.69/30
+Nov 17 13:31:22 ravinder-adsb udhcpc[6248]: wwan0: deconfigured
+Nov 17 13:31:23 ravinder-adsb udhcpc[6248]: wwan0: bound: IP=10.61.254.52/255.255.255.248 router=10.61.254.53 domain="" dns="114.127.208.84 114.127.243.113" lease=7200
+Nov 17 13:31:23 ravinder-adsb dhcpcd[462]: wwan0: waiting for 3rd party to configure IP address
+Nov 17 13:31:24 ravinder-adsb systemd[1]: feed-data.service: Service RestartSec=3s expired, scheduling restart.
+Nov 17 13:31:24 ravinder-adsb systemd[1]: feed-data.service: Scheduled restart job, restart counter is at 24091.
+Nov 17 13:31:24 ravinder-adsb systemd[1]: Stopped ADSB forwarder.
+Nov 17 13:31:24 ravinder-adsb systemd[1]: Started ADSB forwarder.
+Nov 17 13:31:24 ravinder-adsb python3[6384]: 103.171.84.166
+Nov 17 13:31:24 ravinder-adsb python3[6384]: 30012
+Nov 17 13:31:25 ravinder-adsb systemd[1]: feed-data.service: Succeeded.
+Nov 17 13:31:28 ravinder-adsb systemd[1]: feed-data.service: Service RestartSec=3s expired, scheduling restart.
+Nov 17 13:31:28 ravinder-adsb systemd[1]: feed-data.service: Scheduled restart job, restart counter is at 24092.
+Nov 17 13:31:28 ravinder-adsb systemd[1]: Stopped ADSB forwarder.
+Nov 17 13:31:28 ravinder-adsb systemd[1]: Started ADSB forwarder.
+Nov 17 13:31:28 ravinder-adsb python3[6385]: 103.171.84.166
+Nov 17 13:31:28 ravinder-adsb python3[6385]: 30012
+Nov 17 13:31:28 ravinder-adsb systemd[1]: feed-data.service: Succeeded.
+Nov 17 13:31:31 ravinder-adsb systemd[1]: feed-data.service: Service RestartSec=3s expired, scheduling restart.
+Nov 17 13:31:31 ravinder-adsb systemd[1]: feed-data.service: Scheduled restart job, restart counter is at 24093.
+Nov 17 13:31:31 ravinder-adsb systemd[1]: Stopped ADSB forwarder.
+Nov 17 13:31:31 ravinder-adsb systemd[1]: Started ADSB forwarder.
+Nov 17 13:31:32 ravinder-adsb python3[6386]: 103.171.84.166
+Nov 17 13:31:32 ravinder-adsb python3[6386]: 30012
+Nov 17 13:31:32 ravinder-adsb systemd[1]: feed-data.service: Succeeded.
+Nov 17 13:31:33 ravinder-adsb reconnect-modem.py[467]: PING 8.8.8.8 (8.8.8.8) from 10.61.254.52 wwan0: 0(28) bytes of data.
+Nov 17 13:31:33 ravinder-adsb reconnect-modem.py[467]: 8 bytes from 8.8.8.8: icmp_seq=1 ttl=114
+Nov 17 13:31:33 ravinder-adsb reconnect-modem.py[467]: --- 8.8.8.8 ping statistics ---
+Nov 17 13:31:33 ravinder-adsb reconnect-modem.py[467]: 1 packets transmitted, 1 received, 0% packet loss, time 0ms
+Nov 17 13:31:33 ravinder-adsb reconnect-modem.py[467]: PING 103.171.84.166 (103.171.84.166) 0(28) bytes of data.
+Nov 17 13:31:33 ravinder-adsb reconnect-modem.py[467]: 8 bytes from 103.171.84.166: icmp_seq=1 ttl=52
+Nov 17 13:31:33 ravinder-adsb reconnect-modem.py[467]: --- 103.171.84.166 ping statistics ---
+Nov 17 13:31:33 ravinder-adsb reconnect-modem.py[467]: 1 packets transmitted, 1 received, 0% packet loss, time 0ms
+Nov 17 13:31:35 ravinder-adsb systemd[1]: feed-data.service: Service RestartSec=3s expired, scheduling restart.
+Nov 17 13:31:35 ravinder-adsb systemd[1]: feed-data.service: Scheduled restart job, restart counter is at 24094.
+Nov 17 13:31:35 ravinder-adsb systemd[1]: Stopped ADSB forwarder.
+Nov 17 13:31:35 ravinder-adsb systemd[1]: Started ADSB forwarder.
+Nov 17 13:31:35 ravinder-adsb python3[6389]: 103.171.84.166
+Nov 17 13:31:35 ravinder-adsb python3[6389]: 30012
+Nov 17 13:31:38 ravinder-adsb reconnect-modem.py[467]: PING 8.8.8.8 (8.8.8.8) from 10.61.254.52 wwan0: 0(28) bytes of data.
+Nov 17 13:31:38 ravinder-adsb reconnect-modem.py[467]: 8 bytes from 8.8.8.8: icmp_seq=1 ttl=114
+Nov 17 13:31:38 ravinder-adsb reconnect-modem.py[467]: --- 8.8.8.8 ping statistics ---
+Nov 17 13:31:38 ravinder-adsb reconnect-modem.py[467]: 1 packets transmitted, 1 received, 0% packet loss, time 0ms
+Nov 17 13:31:38 ravinder-adsb reconnect-modem.py[467]: PING 103.171.84.166 (103.171.84.166) 0(28) bytes of data.
+Nov 17 13:31:38 ravinder-adsb reconnect-modem.py[467]: 8 bytes from 103.171.84.166: icmp_seq=1 ttl=52
+Nov 17 13:31:38 ravinder-adsb reconnect-modem.py[467]: --- 103.171.84.166 ping statistics ---
+Nov 17 13:31:38 ravinder-adsb reconnect-modem.py[467]: 1 packets transmitted, 1 received, 0% packet loss, time 0ms
+Nov 17 13:31:43 ravinder-adsb reconnect-modem.py[467]: PING 8.8.8.8 (8.8.8.8) from 10.61.254.52 wwan0: 0(28) bytes of data.
+Nov 17 13:31:43 ravinder-adsb reconnect-modem.py[467]: 8 bytes from 8.8.8.8: icmp_seq=1 ttl=114
+Nov 17 13:31:43 ravinder-adsb reconnect-modem.py[467]: --- 8.8.8.8 ping statistics ---
+Nov 17 13:31:43 ravinder-adsb reconnect-modem.py[467]: 1 packets transmitted, 1 received, 0% packet loss, time 0ms
+Nov 17 13:31:43 ravinder-adsb reconnect-modem.py[467]: PING 103.171.84.166 (103.171.84.166) 0(28) bytes of data.
+Nov 17 13:31:43 ravinder-adsb reconnect-modem.py[467]: 8 bytes from 103.171.84.166: icmp_seq=1 ttl=52
+Nov 17 13:31:43 ravinder-adsb reconnect-modem.py[467]: --- 103.171.84.166 ping statistics ---
+Nov 17 13:31:43 ravinder-adsb reconnect-modem.py[467]: 1 packets transmitted, 1 received, 0% packet loss, time 0ms
+Nov 17 13:31:48 ravinder-adsb reconnect-modem.py[467]: PING 8.8.8.8 (8.8.8.8) from 10.61.254.52 wwan0: 0(28) bytes of data.
+Nov 17 13:31:48 ravinder-adsb reconnect-modem.py[467]: 8 bytes from 8.8.8.8: icmp_seq=1 ttl=114
+Nov 17 13:31:48 ravinder-adsb reconnect-modem.py[467]: --- 8.8.8.8 ping statistics ---
+Nov 17 13:31:48 ravinder-adsb reconnect-modem.py[467]: 1 packets transmitted, 1 received, 0% packet loss, time 0ms
+Nov 17 13:31:48 ravinder-adsb reconnect-modem.py[467]: PING 103.171.84.166 (103.171.84.166) 0(28) bytes of data.
+Nov 17 13:31:48 ravinder-adsb reconnect-modem.py[467]: 8 bytes from 103.171.84.166: icmp_seq=1 ttl=52
+Nov 17 13:31:48 ravinder-adsb reconnect-modem.py[467]: --- 103.171.84.166 ping statistics ---
+Nov 17 13:31:48 ravinder-adsb reconnect-modem.py[467]: 1 packets transmitted, 1 received, 0% packet loss, time 0ms
+Nov 17 13:31:53 ravinder-adsb reconnect-modem.py[467]: PING 8.8.8.8 (8.8.8.8) from 10.61.254.52 wwan0: 0(28) bytes of data.
+Nov 17 13:31:53 ravinder-adsb reconnect-modem.py[467]: 8 bytes from 8.8.8.8: icmp_seq=1 ttl=114
+Nov 17 13:31:53 ravinder-adsb reconnect-modem.py[467]: --- 8.8.8.8 ping statistics ---
+Nov 17 13:31:53 ravinder-adsb reconnect-modem.py[467]: 1 packets transmitted, 1 received, 0% packet loss, time 0ms
+Nov 17 13:31:53 ravinder-adsb reconnect-modem.py[467]: PING 103.171.84.166 (103.171.84.166) 0(28) bytes of data.
+Nov 17 13:31:53 ravinder-adsb reconnect-modem.py[467]: 8 bytes from 103.171.84.166: icmp_seq=1 ttl=52
+Nov 17 13:31:53 ravinder-adsb reconnect-modem.py[467]: --- 103.171.84.166 ping statistics ---
+Nov 17 13:31:53 ravinder-adsb reconnect-modem.py[467]: 1 packets transmitted, 1 received, 0% packet loss, time 0ms
+Nov 17 13:31:58 ravinder-adsb reconnect-modem.py[467]: PING 8.8.8.8 (8.8.8.8) from 10.61.254.52 wwan0: 0(28) bytes of data.
+Nov 17 13:31:58 ravinder-adsb reconnect-modem.py[467]: 8 bytes from 8.8.8.8: icmp_seq=1 ttl=114
+Nov 17 13:31:58 ravinder-adsb reconnect-modem.py[467]: --- 8.8.8.8 ping statistics ---
+Nov 17 13:31:58 ravinder-adsb reconnect-modem.py[467]: 1 packets transmitted, 1 received, 0% packet loss, time 0ms
+Nov 17 13:31:58 ravinder-adsb reconnect-modem.py[467]: PING 103.171.84.166 (103.171.84.166) 0(28) bytes of data.
+Nov 17 13:31:58 ravinder-adsb reconnect-modem.py[467]: 8 bytes from 103.171.84.166: icmp_seq=1 ttl=52
+Nov 17 13:31:58 ravinder-adsb reconnect-modem.py[467]: --- 103.171.84.166 ping statistics ---
+Nov 17 13:31:58 ravinder-adsb reconnect-modem.py[467]: 1 packets transmitted, 1 received, 0% packet loss, time 0ms
+Nov 17 13:32:03 ravinder-adsb reconnect-modem.py[467]: PING 8.8.8.8 (8.8.8.8) from 10.61.254.52 wwan0: 0(28) bytes of data.
+Nov 17 13:32:03 ravinder-adsb reconnect-modem.py[467]: 8 bytes from 8.8.8.8: icmp_seq=1 ttl=114
+Nov 17 13:32:03 ravinder-adsb reconnect-modem.py[467]: --- 8.8.8.8 ping statistics ---
+Nov 17 13:32:03 ravinder-adsb reconnect-modem.py[467]: 1 packets transmitted, 1 received, 0% packet loss, time 0ms
+Nov 17 13:32:04 ravinder-adsb reconnect-modem.py[467]: PING 103.171.84.166 (103.171.84.166) 0(28) bytes of data.
+Nov 17 13:32:04 ravinder-adsb reconnect-modem.py[467]: 8 bytes from 103.171.84.166: icmp_seq=1 ttl=52
+Nov 17 13:32:04 ravinder-adsb reconnect-modem.py[467]: --- 103.171.84.166 ping statistics ---
+Nov 17 13:32:04 ravinder-adsb reconnect-modem.py[467]: 1 packets transmitted, 1 received, 0% packet loss, time 0ms
+Nov 17 13:32:09 ravinder-adsb reconnect-modem.py[467]: PING 8.8.8.8 (8.8.8.8) from 10.61.254.52 wwan0: 0(28) bytes of data.
+Nov 17 13:32:09 ravinder-adsb reconnect-modem.py[467]: 8 bytes from 8.8.8.8: icmp_seq=1 ttl=114
+Nov 17 13:32:09 ravinder-adsb reconnect-modem.py[467]: --- 8.8.8.8 ping statistics ---
+Nov 17 13:32:09 ravinder-adsb reconnect-modem.py[467]: 1 packets transmitted, 1 received, 0% packet loss, time 0ms
+Nov 17 13:32:09 ravinder-adsb reconnect-modem.py[467]: PING 103.171.84.166 (103.171.84.166) 0(28) bytes of data.
+Nov 17 13:32:09 ravinder-adsb reconnect-modem.py[467]: 8 bytes from 103.171.84.166: icmp_seq=1 ttl=52
+Nov 17 13:32:09 ravinder-adsb reconnect-modem.py[467]: --- 103.171.84.166 ping statistics ---
+Nov 17 13:32:09 ravinder-adsb reconnect-modem.py[467]: 1 packets transmitted, 1 received, 0% packet loss, time 0ms
+Nov 17 13:32:14 ravinder-adsb reconnect-modem.py[467]: PING 8.8.8.8 (8.8.8.8) from 10.61.254.52 wwan0: 0(28) bytes of data.
+Nov 17 13:32:14 ravinder-adsb reconnect-modem.py[467]: 8 bytes from 8.8.8.8: icmp_seq=1 ttl=114
+Nov 17 13:32:14 ravinder-adsb reconnect-modem.py[467]: --- 8.8.8.8 ping statistics ---
+Nov 17 13:32:14 ravinder-adsb reconnect-modem.py[467]: 1 packets transmitted, 1 received, 0% packet loss, time 0ms
+Nov 17 13:32:14 ravinder-adsb reconnect-modem.py[467]: PING 103.171.84.166 (103.171.84.166) 0(28) bytes of data.
+Nov 17 13:32:14 ravinder-adsb reconnect-modem.py[467]: 8 bytes from 103.171.84.166: icmp_seq=1 ttl=52
+Nov 17 13:32:14 ravinder-adsb reconnect-modem.py[467]: --- 103.171.84.166 ping statistics ---
+Nov 17 13:32:14 ravinder-adsb reconnect-modem.py[467]: 1 packets transmitted, 1 received, 0% packet loss, time 0ms
+Nov 17 13:32:19 ravinder-adsb reconnect-modem.py[467]: PING 8.8.8.8 (8.8.8.8) from 10.61.254.52 wwan0: 0(28) bytes of data.
+Nov 17 13:32:19 ravinder-adsb reconnect-modem.py[467]: 8 bytes from 8.8.8.8: icmp_seq=1 ttl=114
+Nov 17 13:32:19 ravinder-adsb reconnect-modem.py[467]: --- 8.8.8.8 ping statistics ---
+Nov 17 13:32:19 ravinder-adsb reconnect-modem.py[467]: 1 packets transmitted, 1 received, 0% packet loss, time 0ms
+Nov 17 13:32:19 ravinder-adsb reconnect-modem.py[467]: PING 103.171.84.166 (103.171.84.166) 0(28) bytes of data.
+Nov 17 13:32:19 ravinder-adsb reconnect-modem.py[467]: 8 bytes from 103.171.84.166: icmp_seq=1 ttl=52
+Nov 17 13:32:19 ravinder-adsb reconnect-modem.py[467]: --- 103.171.84.166 ping statistics ---
+Nov 17 13:32:19 ravinder-adsb reconnect-modem.py[467]: 1 packets transmitted, 1 received, 0% packet loss, time 0ms
+Nov 17 13:32:24 ravinder-adsb reconnect-modem.py[467]: PING 8.8.8.8 (8.8.8.8) from 10.61.254.52 wwan0: 0(28) bytes of data.
+Nov 17 13:32:24 ravinder-adsb reconnect-modem.py[467]: 8 bytes from 8.8.8.8: icmp_seq=1 ttl=114
+Nov 17 13:32:24 ravinder-adsb reconnect-modem.py[467]: --- 8.8.8.8 ping statistics ---
+Nov 17 13:32:24 ravinder-adsb reconnect-modem.py[467]: 1 packets transmitted, 1 received, 0% packet loss, time 0ms
+Nov 17 13:32:24 ravinder-adsb reconnect-modem.py[467]: PING 103.171.84.166 (103.171.84.166) 0(28) bytes of data.
+Nov 17 13:32:24 ravinder-adsb reconnect-modem.py[467]: 8 bytes from 103.171.84.166: icmp_seq=1 ttl=52
+Nov 17 13:32:24 ravinder-adsb reconnect-modem.py[467]: --- 103.171.84.166 ping statistics ---
+Nov 17 13:32:24 ravinder-adsb reconnect-modem.py[467]: 1 packets transmitted, 1 received, 0% packet loss, time 0ms
+Nov 17 13:32:29 ravinder-adsb reconnect-modem.py[467]: PING 8.8.8.8 (8.8.8.8) from 10.61.254.52 wwan0: 0(28) bytes of data.
+Nov 17 13:32:29 ravinder-adsb reconnect-modem.py[467]: 8 bytes from 8.8.8.8: icmp_seq=1 ttl=114
+Nov 17 13:32:29 ravinder-adsb reconnect-modem.py[467]: --- 8.8.8.8 ping statistics ---
+Nov 17 13:32:29 ravinder-adsb reconnect-modem.py[467]: 1 packets transmitted, 1 received, 0% packet loss, time 0ms
+Nov 17 13:32:29 ravinder-adsb reconnect-modem.py[467]: PING 103.171.84.166 (103.171.84.166) 0(28) bytes of data.
+Nov 17 13:32:29 ravinder-adsb reconnect-modem.py[467]: 8 bytes from 103.171.84.166: icmp_seq=1 ttl=52
+Nov 17 13:32:29 ravinder-adsb reconnect-modem.py[467]: --- 103.171.84.166 ping statistics ---
+Nov 17 13:32:29 ravinder-adsb reconnect-modem.py[467]: 1 packets transmitted, 1 received, 0% packet loss, time 0ms
+Nov 17 13:32:34 ravinder-adsb reconnect-modem.py[467]: PING 8.8.8.8 (8.8.8.8) from 10.61.254.52 wwan0: 0(28) bytes of data.
+Nov 17 13:32:34 ravinder-adsb reconnect-modem.py[467]: 8 bytes from 8.8.8.8: icmp_seq=1 ttl=114
+Nov 17 13:32:34 ravinder-adsb reconnect-modem.py[467]: --- 8.8.8.8 ping statistics ---
+Nov 17 13:32:34 ravinder-adsb reconnect-modem.py[467]: 1 packets transmitted, 1 received, 0% packet loss, time 0ms
+Nov 17 13:32:34 ravinder-adsb reconnect-modem.py[467]: PING 103.171.84.166 (103.171.84.166) 0(28) bytes of data.
+Nov 17 13:32:34 ravinder-adsb reconnect-modem.py[467]: 8 bytes from 103.171.84.166: icmp_seq=1 ttl=52
+Nov 17 13:32:34 ravinder-adsb reconnect-modem.py[467]: --- 103.171.84.166 ping statistics ---
+Nov 17 13:32:34 ravinder-adsb reconnect-modem.py[467]: 1 packets transmitted, 1 received, 0% packet loss, time 0ms
+Nov 17 13:32:39 ravinder-adsb reconnect-modem.py[467]: PING 8.8.8.8 (8.8.8.8) from 10.61.254.52 wwan0: 0(28) bytes of data.
+Nov 17 13:32:39 ravinder-adsb reconnect-modem.py[467]: 8 bytes from 8.8.8.8: icmp_seq=1 ttl=114
+Nov 17 13:32:39 ravinder-adsb reconnect-modem.py[467]: --- 8.8.8.8 ping statistics ---
+Nov 17 13:32:39 ravinder-adsb reconnect-modem.py[467]: 1 packets transmitted, 1 received, 0% packet loss, time 0ms
+Nov 17 13:32:39 ravinder-adsb reconnect-modem.py[467]: PING 103.171.84.166 (103.171.84.166) 0(28) bytes of data.
+Nov 17 13:32:39 ravinder-adsb reconnect-modem.py[467]: 8 bytes from 103.171.84.166: icmp_seq=1 ttl=52
+Nov 17 13:32:39 ravinder-adsb reconnect-modem.py[467]: --- 103.171.84.166 ping statistics ---
+Nov 17 13:32:39 ravinder-adsb reconnect-modem.py[467]: 1 packets transmitted, 1 received, 0% packet loss, time 0ms
+Nov 17 13:32:44 ravinder-adsb reconnect-modem.py[467]: PING 8.8.8.8 (8.8.8.8) from 10.61.254.52 wwan0: 0(28) bytes of data.
+Nov 17 13:32:44 ravinder-adsb reconnect-modem.py[467]: 8 bytes from 8.8.8.8: icmp_seq=1 ttl=114
+Nov 17 13:32:44 ravinder-adsb reconnect-modem.py[467]: --- 8.8.8.8 ping statistics ---
+Nov 17 13:32:44 ravinder-adsb reconnect-modem.py[467]: 1 packets transmitted, 1 received, 0% packet loss, time 0ms
+Nov 17 13:32:44 ravinder-adsb reconnect-modem.py[467]: PING 103.171.84.166 (103.171.84.166) 0(28) bytes of data.
+Nov 17 13:32:44 ravinder-adsb reconnect-modem.py[467]: 8 bytes from 103.171.84.166: icmp_seq=1 ttl=52
+Nov 17 13:32:44 ravinder-adsb reconnect-modem.py[467]: --- 103.171.84.166 ping statistics ---
+Nov 17 13:32:44 ravinder-adsb reconnect-modem.py[467]: 1 packets transmitted, 1 received, 0% packet loss, time 0ms
+Nov 17 13:32:49 ravinder-adsb reconnect-modem.py[467]: PING 8.8.8.8 (8.8.8.8) from 10.61.254.52 wwan0: 0(28) bytes of data.
+Nov 17 13:32:49 ravinder-adsb reconnect-modem.py[467]: 8 bytes from 8.8.8.8: icmp_seq=1 ttl=114
+Nov 17 13:32:49 ravinder-adsb reconnect-modem.py[467]: --- 8.8.8.8 ping statistics ---
+Nov 17 13:32:49 ravinder-adsb reconnect-modem.py[467]: 1 packets transmitted, 1 received, 0% packet loss, time 0ms
+Nov 17 13:32:49 ravinder-adsb reconnect-modem.py[467]: PING 103.171.84.166 (103.171.84.166) 0(28) bytes of data.
+Nov 17 13:32:49 ravinder-adsb reconnect-modem.py[467]: 8 bytes from 103.171.84.166: icmp_seq=1 ttl=52
+Nov 17 13:32:49 ravinder-adsb reconnect-modem.py[467]: --- 103.171.84.166 ping statistics ---
+Nov 17 13:32:49 ravinder-adsb reconnect-modem.py[467]: 1 packets transmitted, 1 received, 0% packet loss, time 0ms
+Nov 17 13:32:55 ravinder-adsb reconnect-modem.py[467]: PING 8.8.8.8 (8.8.8.8) from 10.61.254.52 wwan0: 0(28) bytes of data.
+Nov 17 13:32:55 ravinder-adsb reconnect-modem.py[467]: 8 bytes from 8.8.8.8: icmp_seq=1 ttl=114
+Nov 17 13:32:55 ravinder-adsb reconnect-modem.py[467]: --- 8.8.8.8 ping statistics ---
+Nov 17 13:32:55 ravinder-adsb reconnect-modem.py[467]: 1 packets transmitted, 1 received, 0% packet loss, time 0ms
+Nov 17 13:32:55 ravinder-adsb reconnect-modem.py[467]: PING 103.171.84.166 (103.171.84.166) 0(28) bytes of data.
+Nov 17 13:32:55 ravinder-adsb reconnect-modem.py[467]: 8 bytes from 103.171.84.166: icmp_seq=1 ttl=52
+Nov 17 13:32:55 ravinder-adsb reconnect-modem.py[467]: --- 103.171.84.166 ping statistics ---
+Nov 17 13:32:55 ravinder-adsb reconnect-modem.py[467]: 1 packets transmitted, 1 received, 0% packet loss, time 0ms
+Nov 17 13:33:00 ravinder-adsb reconnect-modem.py[467]: PING 8.8.8.8 (8.8.8.8) from 10.61.254.52 wwan0: 0(28) bytes of data.
+Nov 17 13:33:00 ravinder-adsb reconnect-modem.py[467]: 8 bytes from 8.8.8.8: icmp_seq=1 ttl=114
+Nov 17 13:33:00 ravinder-adsb reconnect-modem.py[467]: --- 8.8.8.8 ping statistics ---
+Nov 17 13:33:00 ravinder-adsb reconnect-modem.py[467]: 1 packets transmitted, 1 received, 0% packet loss, time 0ms
+Nov 17 13:33:00 ravinder-adsb reconnect-modem.py[467]: PING 103.171.84.166 (103.171.84.166) 0(28) bytes of data.
+Nov 17 13:33:00 ravinder-adsb reconnect-modem.py[467]: 8 bytes from 103.171.84.166: icmp_seq=1 ttl=52
+Nov 17 13:33:00 ravinder-adsb reconnect-modem.py[467]: --- 103.171.84.166 ping statistics ---
+Nov 17 13:33:00 ravinder-adsb reconnect-modem.py[467]: 1 packets transmitted, 1 received, 0% packet loss, time 0ms
+Nov 17 13:33:05 ravinder-adsb reconnect-modem.py[467]: PING 8.8.8.8 (8.8.8.8) from 10.61.254.52 wwan0: 0(28) bytes of data.
+Nov 17 13:33:05 ravinder-adsb reconnect-modem.py[467]: 8 bytes from 8.8.8.8: icmp_seq=1 ttl=114
+Nov 17 13:33:05 ravinder-adsb reconnect-modem.py[467]: --- 8.8.8.8 ping statistics ---
+Nov 17 13:33:05 ravinder-adsb reconnect-modem.py[467]: 1 packets transmitted, 1 received, 0% packet loss, time 0ms
+Nov 17 13:33:05 ravinder-adsb reconnect-modem.py[467]: PING 103.171.84.166 (103.171.84.166) 0(28) bytes of data.
+Nov 17 13:33:05 ravinder-adsb reconnect-modem.py[467]: 8 bytes from 103.171.84.166: icmp_seq=1 ttl=52
+Nov 17 13:33:05 ravinder-adsb reconnect-modem.py[467]: --- 103.171.84.166 ping statistics ---
+Nov 17 13:33:05 ravinder-adsb reconnect-modem.py[467]: 1 packets transmitted, 1 received, 0% packet loss, time 0ms
+Nov 17 13:33:10 ravinder-adsb reconnect-modem.py[467]: PING 8.8.8.8 (8.8.8.8) from 10.61.254.52 wwan0: 0(28) bytes of data.
+Nov 17 13:33:10 ravinder-adsb reconnect-modem.py[467]: 8 bytes from 8.8.8.8: icmp_seq=1 ttl=114
+Nov 17 13:33:10 ravinder-adsb reconnect-modem.py[467]: --- 8.8.8.8 ping statistics ---
+Nov 17 13:33:10 ravinder-adsb reconnect-modem.py[467]: 1 packets transmitted, 1 received, 0% packet loss, time 0ms
+Nov 17 13:33:10 ravinder-adsb reconnect-modem.py[467]: PING 103.171.84.166 (103.171.84.166) 0(28) bytes of data.
+Nov 17 13:33:10 ravinder-adsb reconnect-modem.py[467]: 8 bytes from 103.171.84.166: icmp_seq=1 ttl=52
+Nov 17 13:33:10 ravinder-adsb reconnect-modem.py[467]: --- 103.171.84.166 ping statistics ---
+Nov 17 13:33:10 ravinder-adsb reconnect-modem.py[467]: 1 packets transmitted, 1 received, 0% packet loss, time 0ms
+Nov 17 13:33:15 ravinder-adsb reconnect-modem.py[467]: PING 8.8.8.8 (8.8.8.8) from 10.61.254.52 wwan0: 0(28) bytes of data.
+Nov 17 13:33:15 ravinder-adsb reconnect-modem.py[467]: 8 bytes from 8.8.8.8: icmp_seq=1 ttl=114
+Nov 17 13:33:15 ravinder-adsb reconnect-modem.py[467]: --- 8.8.8.8 ping statistics ---
+Nov 17 13:33:15 ravinder-adsb reconnect-modem.py[467]: 1 packets transmitted, 1 received, 0% packet loss, time 0ms
+Nov 17 13:33:15 ravinder-adsb reconnect-modem.py[467]: PING 103.171.84.166 (103.171.84.166) 0(28) bytes of data.
+Nov 17 13:33:15 ravinder-adsb reconnect-modem.py[467]: 8 bytes from 103.171.84.166: icmp_seq=1 ttl=52
+Nov 17 13:33:15 ravinder-adsb reconnect-modem.py[467]: --- 103.171.84.166 ping statistics ---
+Nov 17 13:33:15 ravinder-adsb reconnect-modem.py[467]: 1 packets transmitted, 1 received, 0% packet loss, time 0ms
+Nov 17 13:33:20 ravinder-adsb reconnect-modem.py[467]: PING 8.8.8.8 (8.8.8.8) from 10.61.254.52 wwan0: 0(28) bytes of data.
+Nov 17 13:33:20 ravinder-adsb reconnect-modem.py[467]: 8 bytes from 8.8.8.8: icmp_seq=1 ttl=114
+Nov 17 13:33:20 ravinder-adsb reconnect-modem.py[467]: --- 8.8.8.8 ping statistics ---
+Nov 17 13:33:20 ravinder-adsb reconnect-modem.py[467]: 1 packets transmitted, 1 received, 0% packet loss, time 0ms
+Nov 17 13:33:20 ravinder-adsb reconnect-modem.py[467]: PING 103.171.84.166 (103.171.84.166) 0(28) bytes of data.
+Nov 17 13:33:20 ravinder-adsb reconnect-modem.py[467]: 8 bytes from 103.171.84.166: icmp_seq=1 ttl=52
+Nov 17 13:33:20 ravinder-adsb reconnect-modem.py[467]: --- 103.171.84.166 ping statistics ---
+Nov 17 13:33:20 ravinder-adsb reconnect-modem.py[467]: 1 packets transmitted, 1 received, 0% packet loss, time 0ms
+Nov 17 13:33:24 ravinder-adsb frpc[674]: 2023/11/17 13:33:24 #033[1;33m[W] [service.go:180] [17b25925a03dc09a] reconnect to server error: dial tcp 103.153.2.125:7000: connect: network is unreachable#033[0m
+Nov 17 13:33:25 ravinder-adsb frpc[674]: 2023/11/17 13:33:25 #033[1;34m[I] [service.go:177] [17b25925a03dc09a] try to reconnect to server...#033[0m
+Nov 17 13:33:25 ravinder-adsb frpc[674]: 2023/11/17 13:33:25 #033[1;34m[I] [service.go:304] [17b25925a03dc09a] login to server success, get run id [17b25925a03dc09a], server udp port [0]#033[0m
+Nov 17 13:33:25 ravinder-adsb frpc[674]: 2023/11/17 13:33:25 #033[1;34m[I] [proxy_manager.go:144] [17b25925a03dc09a] proxy added: [rav00-pusat-config.web rav00-pusat-maps.web]#033[0m
+Nov 17 13:33:25 ravinder-adsb frpc[674]: 2023/11/17 13:33:25 #033[1;34m[I] [control.go:180] [17b25925a03dc09a] [rav00-pusat-config.web] start proxy success#033[0m
+Nov 17 13:33:25 ravinder-adsb frpc[674]: 2023/11/17 13:33:25 #033[1;34m[I] [control.go:180] [17b25925a03dc09a] [rav00-pusat-maps.web] start proxy success#033[0m
+Nov 17 13:33:25 ravinder-adsb reconnect-modem.py[467]: PING 8.8.8.8 (8.8.8.8) from 10.61.254.52 wwan0: 0(28) bytes of data.
+Nov 17 13:33:25 ravinder-adsb reconnect-modem.py[467]: 8 bytes from 8.8.8.8: icmp_seq=1 ttl=114
+Nov 17 13:33:25 ravinder-adsb reconnect-modem.py[467]: --- 8.8.8.8 ping statistics ---
+Nov 17 13:33:25 ravinder-adsb reconnect-modem.py[467]: 1 packets transmitted, 1 received, 0% packet loss, time 0ms
+Nov 17 13:33:25 ravinder-adsb reconnect-modem.py[467]: PING 103.171.84.166 (103.171.84.166) 0(28) bytes of data.
+Nov 17 13:33:25 ravinder-adsb reconnect-modem.py[467]: 8 bytes from 103.171.84.166: icmp_seq=1 ttl=52
+Nov 17 13:33:25 ravinder-adsb reconnect-modem.py[467]: --- 103.171.84.166 ping statistics ---
+Nov 17 13:33:25 ravinder-adsb reconnect-modem.py[467]: 1 packets transmitted, 1 received, 0% packet loss, time 0ms
+Nov 17 13:33:30 ravinder-adsb reconnect-modem.py[467]: PING 8.8.8.8 (8.8.8.8) from 10.61.254.52 wwan0: 0(28) bytes of data.
+Nov 17 13:33:30 ravinder-adsb reconnect-modem.py[467]: 8 bytes from 8.8.8.8: icmp_seq=1 ttl=114
+Nov 17 13:33:30 ravinder-adsb reconnect-modem.py[467]: --- 8.8.8.8 ping statistics ---
+Nov 17 13:33:30 ravinder-adsb reconnect-modem.py[467]: 1 packets transmitted, 1 received, 0% packet loss, time 0ms
+Nov 17 13:33:30 ravinder-adsb reconnect-modem.py[467]: PING 103.171.84.166 (103.171.84.166) 0(28) bytes of data.
+Nov 17 13:33:30 ravinder-adsb reconnect-modem.py[467]: 8 bytes from 103.171.84.166: icmp_seq=1 ttl=52
+Nov 17 13:33:30 ravinder-adsb reconnect-modem.py[467]: --- 103.171.84.166 ping statistics ---
+Nov 17 13:33:30 ravinder-adsb reconnect-modem.py[467]: 1 packets transmitted, 1 received, 0% packet loss, time 0ms
+Nov 17 13:33:36 ravinder-adsb reconnect-modem.py[467]: PING 8.8.8.8 (8.8.8.8) from 10.61.254.52 wwan0: 0(28) bytes of data.
+Nov 17 13:33:36 ravinder-adsb reconnect-modem.py[467]: 8 bytes from 8.8.8.8: icmp_seq=1 ttl=114
+Nov 17 13:33:36 ravinder-adsb reconnect-modem.py[467]: --- 8.8.8.8 ping statistics ---
+Nov 17 13:33:36 ravinder-adsb reconnect-modem.py[467]: 1 packets transmitted, 1 received, 0% packet loss, time 0ms
+Nov 17 13:33:36 ravinder-adsb reconnect-modem.py[467]: PING 103.171.84.166 (103.171.84.166) 0(28) bytes of data.
+Nov 17 13:33:36 ravinder-adsb reconnect-modem.py[467]: 8 bytes from 103.171.84.166: icmp_seq=1 ttl=52
+Nov 17 13:33:36 ravinder-adsb reconnect-modem.py[467]: --- 103.171.84.166 ping statistics ---
+Nov 17 13:33:36 ravinder-adsb reconnect-modem.py[467]: 1 packets transmitted, 1 received, 0% packet loss, time 0ms
+Nov 17 13:33:41 ravinder-adsb reconnect-modem.py[467]: PING 8.8.8.8 (8.8.8.8) from 10.61.254.52 wwan0: 0(28) bytes of data.
+Nov 17 13:33:41 ravinder-adsb reconnect-modem.py[467]: 8 bytes from 8.8.8.8: icmp_seq=1 ttl=114
+Nov 17 13:33:41 ravinder-adsb reconnect-modem.py[467]: --- 8.8.8.8 ping statistics ---
+Nov 17 13:33:41 ravinder-adsb reconnect-modem.py[467]: 1 packets transmitted, 1 received, 0% packet loss, time 0ms
+Nov 17 13:33:41 ravinder-adsb reconnect-modem.py[467]: PING 103.171.84.166 (103.171.84.166) 0(28) bytes of data.
+Nov 17 13:33:41 ravinder-adsb reconnect-modem.py[467]: 8 bytes from 103.171.84.166: icmp_seq=1 ttl=52
+Nov 17 13:33:41 ravinder-adsb reconnect-modem.py[467]: --- 103.171.84.166 ping statistics ---
+Nov 17 13:33:41 ravinder-adsb reconnect-modem.py[467]: 1 packets transmitted, 1 received, 0% packet loss, time 0ms
+Nov 17 13:33:46 ravinder-adsb reconnect-modem.py[467]: PING 8.8.8.8 (8.8.8.8) from 10.61.254.52 wwan0: 0(28) bytes of data.
+Nov 17 13:33:46 ravinder-adsb reconnect-modem.py[467]: 8 bytes from 8.8.8.8: icmp_seq=1 ttl=114
+Nov 17 13:33:46 ravinder-adsb reconnect-modem.py[467]: --- 8.8.8.8 ping statistics ---
+Nov 17 13:33:46 ravinder-adsb reconnect-modem.py[467]: 1 packets transmitted, 1 received, 0% packet loss, time 0ms
+Nov 17 13:33:46 ravinder-adsb reconnect-modem.py[467]: PING 103.171.84.166 (103.171.84.166) 0(28) bytes of data.
+Nov 17 13:33:46 ravinder-adsb reconnect-modem.py[467]: 8 bytes from 103.171.84.166: icmp_seq=1 ttl=52
+Nov 17 13:33:46 ravinder-adsb reconnect-modem.py[467]: --- 103.171.84.166 ping statistics ---
+Nov 17 13:33:46 ravinder-adsb reconnect-modem.py[467]: 1 packets transmitted, 1 received, 0% packet loss, time 0ms
+Nov 17 13:33:51 ravinder-adsb reconnect-modem.py[467]: PING 8.8.8.8 (8.8.8.8) from 10.61.254.52 wwan0: 0(28) bytes of data.
+Nov 17 13:33:51 ravinder-adsb reconnect-modem.py[467]: 8 bytes from 8.8.8.8: icmp_seq=1 ttl=114
+Nov 17 13:33:51 ravinder-adsb reconnect-modem.py[467]: --- 8.8.8.8 ping statistics ---
+Nov 17 13:33:51 ravinder-adsb reconnect-modem.py[467]: 1 packets transmitted, 1 received, 0% packet loss, time 0ms
+Nov 17 13:33:51 ravinder-adsb reconnect-modem.py[467]: PING 103.171.84.166 (103.171.84.166) 0(28) bytes of data.
+Nov 17 13:33:51 ravinder-adsb reconnect-modem.py[467]: 8 bytes from 103.171.84.166: icmp_seq=1 ttl=52
+Nov 17 13:33:51 ravinder-adsb reconnect-modem.py[467]: --- 103.171.84.166 ping statistics ---
+Nov 17 13:33:51 ravinder-adsb reconnect-modem.py[467]: 1 packets transmitted, 1 received, 0% packet loss, time 0ms
+Nov 17 13:33:56 ravinder-adsb reconnect-modem.py[467]: PING 8.8.8.8 (8.8.8.8) from 10.61.254.52 wwan0: 0(28) bytes of data.
+Nov 17 13:33:56 ravinder-adsb reconnect-modem.py[467]: 8 bytes from 8.8.8.8: icmp_seq=1 ttl=114
+Nov 17 13:33:56 ravinder-adsb reconnect-modem.py[467]: --- 8.8.8.8 ping statistics ---
+Nov 17 13:33:56 ravinder-adsb reconnect-modem.py[467]: 1 packets transmitted, 1 received, 0% packet loss, time 0ms
+Nov 17 13:33:56 ravinder-adsb reconnect-modem.py[467]: PING 103.171.84.166 (103.171.84.166) 0(28) bytes of data.
+Nov 17 13:33:56 ravinder-adsb reconnect-modem.py[467]: 8 bytes from 103.171.84.166: icmp_seq=1 ttl=52
+Nov 17 13:33:56 ravinder-adsb reconnect-modem.py[467]: --- 103.171.84.166 ping statistics ---
+Nov 17 13:33:56 ravinder-adsb reconnect-modem.py[467]: 1 packets transmitted, 1 received, 0% packet loss, time 0ms
+Nov 17 13:34:01 ravinder-adsb reconnect-modem.py[467]: PING 8.8.8.8 (8.8.8.8) from 10.61.254.52 wwan0: 0(28) bytes of data.
+Nov 17 13:34:01 ravinder-adsb reconnect-modem.py[467]: 8 bytes from 8.8.8.8: icmp_seq=1 ttl=114
+Nov 17 13:34:01 ravinder-adsb reconnect-modem.py[467]: --- 8.8.8.8 ping statistics ---
+Nov 17 13:34:01 ravinder-adsb reconnect-modem.py[467]: 1 packets transmitted, 1 received, 0% packet loss, time 0ms
+Nov 17 13:34:01 ravinder-adsb reconnect-modem.py[467]: PING 103.171.84.166 (103.171.84.166) 0(28) bytes of data.
+Nov 17 13:34:01 ravinder-adsb reconnect-modem.py[467]: 8 bytes from 103.171.84.166: icmp_seq=1 ttl=52
+Nov 17 13:34:01 ravinder-adsb reconnect-modem.py[467]: --- 103.171.84.166 ping statistics ---
+Nov 17 13:34:01 ravinder-adsb reconnect-modem.py[467]: 1 packets transmitted, 1 received, 0% packet loss, time 0ms
+Nov 17 13:34:06 ravinder-adsb reconnect-modem.py[467]: PING 8.8.8.8 (8.8.8.8) from 10.61.254.52 wwan0: 0(28) bytes of data.
+Nov 17 13:34:06 ravinder-adsb reconnect-modem.py[467]: 8 bytes from 8.8.8.8: icmp_seq=1 ttl=114
+Nov 17 13:34:06 ravinder-adsb reconnect-modem.py[467]: --- 8.8.8.8 ping statistics ---
+Nov 17 13:34:06 ravinder-adsb reconnect-modem.py[467]: 1 packets transmitted, 1 received, 0% packet loss, time 0ms
+Nov 17 13:34:06 ravinder-adsb reconnect-modem.py[467]: PING 103.171.84.166 (103.171.84.166) 0(28) bytes of data.
+Nov 17 13:34:06 ravinder-adsb reconnect-modem.py[467]: 8 bytes from 103.171.84.166: icmp_seq=1 ttl=52
+Nov 17 13:34:06 ravinder-adsb reconnect-modem.py[467]: --- 103.171.84.166 ping statistics ---
+Nov 17 13:34:06 ravinder-adsb reconnect-modem.py[467]: 1 packets transmitted, 1 received, 0% packet loss, time 0ms
+Nov 17 13:34:11 ravinder-adsb reconnect-modem.py[467]: PING 8.8.8.8 (8.8.8.8) from 10.61.254.52 wwan0: 0(28) bytes of data.
+Nov 17 13:34:11 ravinder-adsb reconnect-modem.py[467]: 8 bytes from 8.8.8.8: icmp_seq=1 ttl=114
+Nov 17 13:34:11 ravinder-adsb reconnect-modem.py[467]: --- 8.8.8.8 ping statistics ---
+Nov 17 13:34:11 ravinder-adsb reconnect-modem.py[467]: 1 packets transmitted, 1 received, 0% packet loss, time 0ms
+Nov 17 13:34:11 ravinder-adsb reconnect-modem.py[467]: PING 103.171.84.166 (103.171.84.166) 0(28) bytes of data.
+Nov 17 13:34:11 ravinder-adsb reconnect-modem.py[467]: 8 bytes from 103.171.84.166: icmp_seq=1 ttl=52
+Nov 17 13:34:11 ravinder-adsb reconnect-modem.py[467]: --- 103.171.84.166 ping statistics ---
+Nov 17 13:34:11 ravinder-adsb reconnect-modem.py[467]: 1 packets transmitted, 1 received, 0% packet loss, time 0ms
+Nov 17 13:34:16 ravinder-adsb reconnect-modem.py[467]: PING 8.8.8.8 (8.8.8.8) from 10.61.254.52 wwan0: 0(28) bytes of data.
+Nov 17 13:34:16 ravinder-adsb reconnect-modem.py[467]: 8 bytes from 8.8.8.8: icmp_seq=1 ttl=114
+Nov 17 13:34:16 ravinder-adsb reconnect-modem.py[467]: --- 8.8.8.8 ping statistics ---
+Nov 17 13:34:16 ravinder-adsb reconnect-modem.py[467]: 1 packets transmitted, 1 received, 0% packet loss, time 0ms
+Nov 17 13:34:17 ravinder-adsb reconnect-modem.py[467]: PING 103.171.84.166 (103.171.84.166) 0(28) bytes of data.
+Nov 17 13:34:17 ravinder-adsb reconnect-modem.py[467]: 8 bytes from 103.171.84.166: icmp_seq=1 ttl=52
+Nov 17 13:34:17 ravinder-adsb reconnect-modem.py[467]: --- 103.171.84.166 ping statistics ---
+Nov 17 13:34:17 ravinder-adsb reconnect-modem.py[467]: 1 packets transmitted, 1 received, 0% packet loss, time 0ms
+Nov 17 13:34:22 ravinder-adsb reconnect-modem.py[467]: PING 8.8.8.8 (8.8.8.8) from 10.61.254.52 wwan0: 0(28) bytes of data.
+Nov 17 13:34:22 ravinder-adsb reconnect-modem.py[467]: 8 bytes from 8.8.8.8: icmp_seq=1 ttl=114
+Nov 17 13:34:22 ravinder-adsb reconnect-modem.py[467]: --- 8.8.8.8 ping statistics ---
+Nov 17 13:34:22 ravinder-adsb reconnect-modem.py[467]: 1 packets transmitted, 1 received, 0% packet loss, time 0ms
+Nov 17 13:34:22 ravinder-adsb reconnect-modem.py[467]: PING 103.171.84.166 (103.171.84.166) 0(28) bytes of data.
+Nov 17 13:34:22 ravinder-adsb reconnect-modem.py[467]: 8 bytes from 103.171.84.166: icmp_seq=1 ttl=52
+Nov 17 13:34:22 ravinder-adsb reconnect-modem.py[467]: --- 103.171.84.166 ping statistics ---
+Nov 17 13:34:22 ravinder-adsb reconnect-modem.py[467]: 1 packets transmitted, 1 received, 0% packet loss, time 0ms
+Nov 17 13:34:27 ravinder-adsb reconnect-modem.py[467]: PING 8.8.8.8 (8.8.8.8) from 10.61.254.52 wwan0: 0(28) bytes of data.
+Nov 17 13:34:27 ravinder-adsb reconnect-modem.py[467]: 8 bytes from 8.8.8.8: icmp_seq=1 ttl=114
+Nov 17 13:34:27 ravinder-adsb reconnect-modem.py[467]: --- 8.8.8.8 ping statistics ---
+Nov 17 13:34:27 ravinder-adsb reconnect-modem.py[467]: 1 packets transmitted, 1 received, 0% packet loss, time 0ms
+Nov 17 13:34:27 ravinder-adsb reconnect-modem.py[467]: PING 103.171.84.166 (103.171.84.166) 0(28) bytes of data.
+Nov 17 13:34:27 ravinder-adsb reconnect-modem.py[467]: 8 bytes from 103.171.84.166: icmp_seq=1 ttl=52
+Nov 17 13:34:27 ravinder-adsb reconnect-modem.py[467]: --- 103.171.84.166 ping statistics ---
+Nov 17 13:34:27 ravinder-adsb reconnect-modem.py[467]: 1 packets transmitted, 1 received, 0% packet loss, time 0ms
+Nov 17 13:34:32 ravinder-adsb reconnect-modem.py[467]: PING 8.8.8.8 (8.8.8.8) from 10.61.254.52 wwan0: 0(28) bytes of data.
+Nov 17 13:34:32 ravinder-adsb reconnect-modem.py[467]: 8 bytes from 8.8.8.8: icmp_seq=1 ttl=114
+Nov 17 13:34:32 ravinder-adsb reconnect-modem.py[467]: --- 8.8.8.8 ping statistics ---
+Nov 17 13:34:32 ravinder-adsb reconnect-modem.py[467]: 1 packets transmitted, 1 received, 0% packet loss, time 0ms
+Nov 17 13:34:32 ravinder-adsb reconnect-modem.py[467]: PING 103.171.84.166 (103.171.84.166) 0(28) bytes of data.
+Nov 17 13:34:32 ravinder-adsb reconnect-modem.py[467]: 8 bytes from 103.171.84.166: icmp_seq=1 ttl=52
+Nov 17 13:34:32 ravinder-adsb reconnect-modem.py[467]: --- 103.171.84.166 ping statistics ---
+Nov 17 13:34:32 ravinder-adsb reconnect-modem.py[467]: 1 packets transmitted, 1 received, 0% packet loss, time 0ms
+Nov 17 13:34:37 ravinder-adsb reconnect-modem.py[467]: PING 8.8.8.8 (8.8.8.8) from 10.61.254.52 wwan0: 0(28) bytes of data.
+Nov 17 13:34:37 ravinder-adsb reconnect-modem.py[467]: 8 bytes from 8.8.8.8: icmp_seq=1 ttl=114
+Nov 17 13:34:37 ravinder-adsb reconnect-modem.py[467]: --- 8.8.8.8 ping statistics ---
+Nov 17 13:34:37 ravinder-adsb reconnect-modem.py[467]: 1 packets transmitted, 1 received, 0% packet loss, time 0ms
+Nov 17 13:34:37 ravinder-adsb reconnect-modem.py[467]: PING 103.171.84.166 (103.171.84.166) 0(28) bytes of data.
+Nov 17 13:34:37 ravinder-adsb reconnect-modem.py[467]: 8 bytes from 103.171.84.166: icmp_seq=1 ttl=52
+Nov 17 13:34:37 ravinder-adsb reconnect-modem.py[467]: --- 103.171.84.166 ping statistics ---
+Nov 17 13:34:37 ravinder-adsb reconnect-modem.py[467]: 1 packets transmitted, 1 received, 0% packet loss, time 0ms
+Nov 17 13:34:42 ravinder-adsb reconnect-modem.py[467]: PING 8.8.8.8 (8.8.8.8) from 10.61.254.52 wwan0: 0(28) bytes of data.
+Nov 17 13:34:42 ravinder-adsb reconnect-modem.py[467]: 8 bytes from 8.8.8.8: icmp_seq=1 ttl=114
+Nov 17 13:34:42 ravinder-adsb reconnect-modem.py[467]: --- 8.8.8.8 ping statistics ---
+Nov 17 13:34:42 ravinder-adsb reconnect-modem.py[467]: 1 packets transmitted, 1 received, 0% packet loss, time 0ms
+Nov 17 13:34:42 ravinder-adsb reconnect-modem.py[467]: PING 103.171.84.166 (103.171.84.166) 0(28) bytes of data.
+Nov 17 13:34:42 ravinder-adsb reconnect-modem.py[467]: 8 bytes from 103.171.84.166: icmp_seq=1 ttl=52
+Nov 17 13:34:42 ravinder-adsb reconnect-modem.py[467]: --- 103.171.84.166 ping statistics ---
+Nov 17 13:34:42 ravinder-adsb reconnect-modem.py[467]: 1 packets transmitted, 1 received, 0% packet loss, time 0ms
+Nov 17 13:34:48 ravinder-adsb reconnect-modem.py[467]: PING 8.8.8.8 (8.8.8.8) from 10.61.254.52 wwan0: 0(28) bytes of data.
+Nov 17 13:34:48 ravinder-adsb reconnect-modem.py[467]: 8 bytes from 8.8.8.8: icmp_seq=1 ttl=114
+Nov 17 13:34:48 ravinder-adsb reconnect-modem.py[467]: --- 8.8.8.8 ping statistics ---
+Nov 17 13:34:48 ravinder-adsb reconnect-modem.py[467]: 1 packets transmitted, 1 received, 0% packet loss, time 0ms
+Nov 17 13:34:48 ravinder-adsb reconnect-modem.py[467]: PING 103.171.84.166 (103.171.84.166) 0(28) bytes of data.
+Nov 17 13:34:48 ravinder-adsb reconnect-modem.py[467]: 8 bytes from 103.171.84.166: icmp_seq=1 ttl=52
+Nov 17 13:34:48 ravinder-adsb reconnect-modem.py[467]: --- 103.171.84.166 ping statistics ---
+Nov 17 13:34:48 ravinder-adsb reconnect-modem.py[467]: 1 packets transmitted, 1 received, 0% packet loss, time 0ms
+Nov 17 13:34:53 ravinder-adsb reconnect-modem.py[467]: PING 8.8.8.8 (8.8.8.8) from 10.61.254.52 wwan0: 0(28) bytes of data.
+Nov 17 13:34:53 ravinder-adsb reconnect-modem.py[467]: 8 bytes from 8.8.8.8: icmp_seq=1 ttl=114
+Nov 17 13:34:53 ravinder-adsb reconnect-modem.py[467]: --- 8.8.8.8 ping statistics ---
+Nov 17 13:34:53 ravinder-adsb reconnect-modem.py[467]: 1 packets transmitted, 1 received, 0% packet loss, time 0ms
+Nov 17 13:34:53 ravinder-adsb reconnect-modem.py[467]: PING 103.171.84.166 (103.171.84.166) 0(28) bytes of data.
+Nov 17 13:34:53 ravinder-adsb reconnect-modem.py[467]: 8 bytes from 103.171.84.166: icmp_seq=1 ttl=52
+Nov 17 13:34:53 ravinder-adsb reconnect-modem.py[467]: --- 103.171.84.166 ping statistics ---
+Nov 17 13:34:53 ravinder-adsb reconnect-modem.py[467]: 1 packets transmitted, 1 received, 0% packet loss, time 0ms
+Nov 17 13:34:58 ravinder-adsb reconnect-modem.py[467]: PING 8.8.8.8 (8.8.8.8) from 10.61.254.52 wwan0: 0(28) bytes of data.
+Nov 17 13:34:58 ravinder-adsb reconnect-modem.py[467]: 8 bytes from 8.8.8.8: icmp_seq=1 ttl=114
+Nov 17 13:34:58 ravinder-adsb reconnect-modem.py[467]: --- 8.8.8.8 ping statistics ---
+Nov 17 13:34:58 ravinder-adsb reconnect-modem.py[467]: 1 packets transmitted, 1 received, 0% packet loss, time 0ms
+Nov 17 13:34:58 ravinder-adsb reconnect-modem.py[467]: PING 103.171.84.166 (103.171.84.166) 0(28) bytes of data.
+Nov 17 13:34:58 ravinder-adsb reconnect-modem.py[467]: 8 bytes from 103.171.84.166: icmp_seq=1 ttl=52
+Nov 17 13:34:58 ravinder-adsb reconnect-modem.py[467]: --- 103.171.84.166 ping statistics ---
+Nov 17 13:34:58 ravinder-adsb reconnect-modem.py[467]: 1 packets transmitted, 1 received, 0% packet loss, time 0ms
+Nov 17 13:35:03 ravinder-adsb reconnect-modem.py[467]: PING 8.8.8.8 (8.8.8.8) from 10.61.254.52 wwan0: 0(28) bytes of data.
+Nov 17 13:35:03 ravinder-adsb reconnect-modem.py[467]: 8 bytes from 8.8.8.8: icmp_seq=1 ttl=114
+Nov 17 13:35:03 ravinder-adsb reconnect-modem.py[467]: --- 8.8.8.8 ping statistics ---
+Nov 17 13:35:03 ravinder-adsb reconnect-modem.py[467]: 1 packets transmitted, 1 received, 0% packet loss, time 0ms
+Nov 17 13:35:03 ravinder-adsb reconnect-modem.py[467]: PING 103.171.84.166 (103.171.84.166) 0(28) bytes of data.
+Nov 17 13:35:03 ravinder-adsb reconnect-modem.py[467]: 8 bytes from 103.171.84.166: icmp_seq=1 ttl=52
+Nov 17 13:35:03 ravinder-adsb reconnect-modem.py[467]: --- 103.171.84.166 ping statistics ---
+Nov 17 13:35:03 ravinder-adsb reconnect-modem.py[467]: 1 packets transmitted, 1 received, 0% packet loss, time 0ms
+Nov 17 13:35:08 ravinder-adsb reconnect-modem.py[467]: PING 8.8.8.8 (8.8.8.8) from 10.61.254.52 wwan0: 0(28) bytes of data.
+Nov 17 13:35:08 ravinder-adsb reconnect-modem.py[467]: 8 bytes from 8.8.8.8: icmp_seq=1 ttl=114
+Nov 17 13:35:08 ravinder-adsb reconnect-modem.py[467]: --- 8.8.8.8 ping statistics ---
+Nov 17 13:35:08 ravinder-adsb reconnect-modem.py[467]: 1 packets transmitted, 1 received, 0% packet loss, time 0ms
+Nov 17 13:35:08 ravinder-adsb reconnect-modem.py[467]: PING 103.171.84.166 (103.171.84.166) 0(28) bytes of data.
+Nov 17 13:35:08 ravinder-adsb reconnect-modem.py[467]: 8 bytes from 103.171.84.166: icmp_seq=1 ttl=52
+Nov 17 13:35:08 ravinder-adsb reconnect-modem.py[467]: --- 103.171.84.166 ping statistics ---
+Nov 17 13:35:08 ravinder-adsb reconnect-modem.py[467]: 1 packets transmitted, 1 received, 0% packet loss, time 0ms
+Nov 17 13:35:13 ravinder-adsb reconnect-modem.py[467]: PING 8.8.8.8 (8.8.8.8) from 10.61.254.52 wwan0: 0(28) bytes of data.
+Nov 17 13:35:13 ravinder-adsb reconnect-modem.py[467]: 8 bytes from 8.8.8.8: icmp_seq=1 ttl=114
+Nov 17 13:35:13 ravinder-adsb reconnect-modem.py[467]: --- 8.8.8.8 ping statistics ---
+Nov 17 13:35:13 ravinder-adsb reconnect-modem.py[467]: 1 packets transmitted, 1 received, 0% packet loss, time 0ms
+Nov 17 13:35:13 ravinder-adsb reconnect-modem.py[467]: PING 103.171.84.166 (103.171.84.166) 0(28) bytes of data.
+Nov 17 13:35:13 ravinder-adsb reconnect-modem.py[467]: 8 bytes from 103.171.84.166: icmp_seq=1 ttl=52
+Nov 17 13:35:13 ravinder-adsb reconnect-modem.py[467]: --- 103.171.84.166 ping statistics ---
+Nov 17 13:35:13 ravinder-adsb reconnect-modem.py[467]: 1 packets transmitted, 1 received, 0% packet loss, time 0ms
+Nov 17 13:35:18 ravinder-adsb reconnect-modem.py[467]: PING 8.8.8.8 (8.8.8.8) from 10.61.254.52 wwan0: 0(28) bytes of data.
+Nov 17 13:35:18 ravinder-adsb reconnect-modem.py[467]: 8 bytes from 8.8.8.8: icmp_seq=1 ttl=114
+Nov 17 13:35:18 ravinder-adsb reconnect-modem.py[467]: --- 8.8.8.8 ping statistics ---
+Nov 17 13:35:18 ravinder-adsb reconnect-modem.py[467]: 1 packets transmitted, 1 received, 0% packet loss, time 0ms
+Nov 17 13:35:18 ravinder-adsb reconnect-modem.py[467]: PING 103.171.84.166 (103.171.84.166) 0(28) bytes of data.
+Nov 17 13:35:18 ravinder-adsb reconnect-modem.py[467]: 8 bytes from 103.171.84.166: icmp_seq=1 ttl=52
+Nov 17 13:35:18 ravinder-adsb reconnect-modem.py[467]: --- 103.171.84.166 ping statistics ---
+Nov 17 13:35:18 ravinder-adsb reconnect-modem.py[467]: 1 packets transmitted, 1 received, 0% packet loss, time 0ms
+Nov 17 13:35:23 ravinder-adsb reconnect-modem.py[467]: PING 8.8.8.8 (8.8.8.8) from 10.61.254.52 wwan0: 0(28) bytes of data.
+Nov 17 13:35:23 ravinder-adsb reconnect-modem.py[467]: 8 bytes from 8.8.8.8: icmp_seq=1 ttl=114
+Nov 17 13:35:23 ravinder-adsb reconnect-modem.py[467]: --- 8.8.8.8 ping statistics ---
+Nov 17 13:35:23 ravinder-adsb reconnect-modem.py[467]: 1 packets transmitted, 1 received, 0% packet loss, time 0ms
+Nov 17 13:35:24 ravinder-adsb reconnect-modem.py[467]: PING 103.171.84.166 (103.171.84.166) 0(28) bytes of data.
+Nov 17 13:35:24 ravinder-adsb reconnect-modem.py[467]: 8 bytes from 103.171.84.166: icmp_seq=1 ttl=52
+Nov 17 13:35:24 ravinder-adsb reconnect-modem.py[467]: --- 103.171.84.166 ping statistics ---
+Nov 17 13:35:24 ravinder-adsb reconnect-modem.py[467]: 1 packets transmitted, 1 received, 0% packet loss, time 0ms
+Nov 17 13:35:29 ravinder-adsb reconnect-modem.py[467]: PING 8.8.8.8 (8.8.8.8) from 10.61.254.52 wwan0: 0(28) bytes of data.
+Nov 17 13:35:29 ravinder-adsb reconnect-modem.py[467]: 8 bytes from 8.8.8.8: icmp_seq=1 ttl=114
+Nov 17 13:35:29 ravinder-adsb reconnect-modem.py[467]: --- 8.8.8.8 ping statistics ---
+Nov 17 13:35:29 ravinder-adsb reconnect-modem.py[467]: 1 packets transmitted, 1 received, 0% packet loss, time 0ms
+Nov 17 13:35:29 ravinder-adsb reconnect-modem.py[467]: PING 103.171.84.166 (103.171.84.166) 0(28) bytes of data.
+Nov 17 13:35:29 ravinder-adsb reconnect-modem.py[467]: 8 bytes from 103.171.84.166: icmp_seq=1 ttl=52
+Nov 17 13:35:29 ravinder-adsb reconnect-modem.py[467]: --- 103.171.84.166 ping statistics ---
+Nov 17 13:35:29 ravinder-adsb reconnect-modem.py[467]: 1 packets transmitted, 1 received, 0% packet loss, time 0ms
+Nov 17 13:35:34 ravinder-adsb reconnect-modem.py[467]: PING 8.8.8.8 (8.8.8.8) from 10.61.254.52 wwan0: 0(28) bytes of data.
+Nov 17 13:35:34 ravinder-adsb reconnect-modem.py[467]: 8 bytes from 8.8.8.8: icmp_seq=1 ttl=114
+Nov 17 13:35:34 ravinder-adsb reconnect-modem.py[467]: --- 8.8.8.8 ping statistics ---
+Nov 17 13:35:34 ravinder-adsb reconnect-modem.py[467]: 1 packets transmitted, 1 received, 0% packet loss, time 0ms
+Nov 17 13:35:34 ravinder-adsb reconnect-modem.py[467]: PING 103.171.84.166 (103.171.84.166) 0(28) bytes of data.
+Nov 17 13:35:34 ravinder-adsb reconnect-modem.py[467]: 8 bytes from 103.171.84.166: icmp_seq=1 ttl=52
+Nov 17 13:35:34 ravinder-adsb reconnect-modem.py[467]: --- 103.171.84.166 ping statistics ---
+Nov 17 13:35:34 ravinder-adsb reconnect-modem.py[467]: 1 packets transmitted, 1 received, 0% packet loss, time 0ms
+Nov 17 13:35:39 ravinder-adsb reconnect-modem.py[467]: PING 8.8.8.8 (8.8.8.8) from 10.61.254.52 wwan0: 0(28) bytes of data.
+Nov 17 13:35:39 ravinder-adsb reconnect-modem.py[467]: 8 bytes from 8.8.8.8: icmp_seq=1 ttl=114
+Nov 17 13:35:39 ravinder-adsb reconnect-modem.py[467]: --- 8.8.8.8 ping statistics ---
+Nov 17 13:35:39 ravinder-adsb reconnect-modem.py[467]: 1 packets transmitted, 1 received, 0% packet loss, time 0ms
+Nov 17 13:35:39 ravinder-adsb reconnect-modem.py[467]: PING 103.171.84.166 (103.171.84.166) 0(28) bytes of data.
+Nov 17 13:35:39 ravinder-adsb reconnect-modem.py[467]: 8 bytes from 103.171.84.166: icmp_seq=1 ttl=52
+Nov 17 13:35:39 ravinder-adsb reconnect-modem.py[467]: --- 103.171.84.166 ping statistics ---
+Nov 17 13:35:39 ravinder-adsb reconnect-modem.py[467]: 1 packets transmitted, 1 received, 0% packet loss, time 0ms
+Nov 17 13:35:44 ravinder-adsb reconnect-modem.py[467]: PING 8.8.8.8 (8.8.8.8) from 10.61.254.52 wwan0: 0(28) bytes of data.
+Nov 17 13:35:44 ravinder-adsb reconnect-modem.py[467]: 8 bytes from 8.8.8.8: icmp_seq=1 ttl=114
+Nov 17 13:35:44 ravinder-adsb reconnect-modem.py[467]: --- 8.8.8.8 ping statistics ---
+Nov 17 13:35:44 ravinder-adsb reconnect-modem.py[467]: 1 packets transmitted, 1 received, 0% packet loss, time 0ms
+Nov 17 13:35:44 ravinder-adsb reconnect-modem.py[467]: PING 103.171.84.166 (103.171.84.166) 0(28) bytes of data.
+Nov 17 13:35:44 ravinder-adsb reconnect-modem.py[467]: 8 bytes from 103.171.84.166: icmp_seq=1 ttl=52
+Nov 17 13:35:44 ravinder-adsb reconnect-modem.py[467]: --- 103.171.84.166 ping statistics ---
+Nov 17 13:35:44 ravinder-adsb reconnect-modem.py[467]: 1 packets transmitted, 1 received, 0% packet loss, time 0ms
+Nov 17 13:35:49 ravinder-adsb reconnect-modem.py[467]: PING 8.8.8.8 (8.8.8.8) from 10.61.254.52 wwan0: 0(28) bytes of data.
+Nov 17 13:35:49 ravinder-adsb reconnect-modem.py[467]: 8 bytes from 8.8.8.8: icmp_seq=1 ttl=114
+Nov 17 13:35:49 ravinder-adsb reconnect-modem.py[467]: --- 8.8.8.8 ping statistics ---
+Nov 17 13:35:49 ravinder-adsb reconnect-modem.py[467]: 1 packets transmitted, 1 received, 0% packet loss, time 0ms
+Nov 17 13:35:49 ravinder-adsb reconnect-modem.py[467]: PING 103.171.84.166 (103.171.84.166) 0(28) bytes of data.
+Nov 17 13:35:49 ravinder-adsb reconnect-modem.py[467]: 8 bytes from 103.171.84.166: icmp_seq=1 ttl=52
+Nov 17 13:35:49 ravinder-adsb reconnect-modem.py[467]: --- 103.171.84.166 ping statistics ---
+Nov 17 13:35:49 ravinder-adsb reconnect-modem.py[467]: 1 packets transmitted, 1 received, 0% packet loss, time 0ms
+Nov 17 13:35:54 ravinder-adsb reconnect-modem.py[467]: PING 8.8.8.8 (8.8.8.8) from 10.61.254.52 wwan0: 0(28) bytes of data.
+Nov 17 13:35:54 ravinder-adsb reconnect-modem.py[467]: 8 bytes from 8.8.8.8: icmp_seq=1 ttl=114
+Nov 17 13:35:54 ravinder-adsb reconnect-modem.py[467]: --- 8.8.8.8 ping statistics ---
+Nov 17 13:35:54 ravinder-adsb reconnect-modem.py[467]: 1 packets transmitted, 1 received, 0% packet loss, time 0ms
+Nov 17 13:35:54 ravinder-adsb reconnect-modem.py[467]: PING 103.171.84.166 (103.171.84.166) 0(28) bytes of data.
+Nov 17 13:35:54 ravinder-adsb reconnect-modem.py[467]: 8 bytes from 103.171.84.166: icmp_seq=1 ttl=52
+Nov 17 13:35:54 ravinder-adsb reconnect-modem.py[467]: --- 103.171.84.166 ping statistics ---
+Nov 17 13:35:54 ravinder-adsb reconnect-modem.py[467]: 1 packets transmitted, 1 received, 0% packet loss, time 0ms
+Nov 17 13:35:59 ravinder-adsb reconnect-modem.py[467]: PING 8.8.8.8 (8.8.8.8) from 10.61.254.52 wwan0: 0(28) bytes of data.
+Nov 17 13:35:59 ravinder-adsb reconnect-modem.py[467]: 8 bytes from 8.8.8.8: icmp_seq=1 ttl=114
+Nov 17 13:35:59 ravinder-adsb reconnect-modem.py[467]: --- 8.8.8.8 ping statistics ---
+Nov 17 13:35:59 ravinder-adsb reconnect-modem.py[467]: 1 packets transmitted, 1 received, 0% packet loss, time 0ms
+Nov 17 13:35:59 ravinder-adsb reconnect-modem.py[467]: PING 103.171.84.166 (103.171.84.166) 0(28) bytes of data.
+Nov 17 13:35:59 ravinder-adsb reconnect-modem.py[467]: 8 bytes from 103.171.84.166: icmp_seq=1 ttl=52
+Nov 17 13:35:59 ravinder-adsb reconnect-modem.py[467]: --- 103.171.84.166 ping statistics ---
+Nov 17 13:35:59 ravinder-adsb reconnect-modem.py[467]: 1 packets transmitted, 1 received, 0% packet loss, time 0ms
+Nov 17 13:36:04 ravinder-adsb reconnect-modem.py[467]: PING 8.8.8.8 (8.8.8.8) from 10.61.254.52 wwan0: 0(28) bytes of data.
+Nov 17 13:36:04 ravinder-adsb reconnect-modem.py[467]: 8 bytes from 8.8.8.8: icmp_seq=1 ttl=114
+Nov 17 13:36:04 ravinder-adsb reconnect-modem.py[467]: --- 8.8.8.8 ping statistics ---
+Nov 17 13:36:04 ravinder-adsb reconnect-modem.py[467]: 1 packets transmitted, 1 received, 0% packet loss, time 0ms
+Nov 17 13:36:05 ravinder-adsb reconnect-modem.py[467]: PING 103.171.84.166 (103.171.84.166) 0(28) bytes of data.
+Nov 17 13:36:05 ravinder-adsb reconnect-modem.py[467]: 8 bytes from 103.171.84.166: icmp_seq=1 ttl=52
+Nov 17 13:36:05 ravinder-adsb reconnect-modem.py[467]: --- 103.171.84.166 ping statistics ---
+Nov 17 13:36:05 ravinder-adsb reconnect-modem.py[467]: 1 packets transmitted, 1 received, 0% packet loss, time 0ms
+Nov 17 13:36:10 ravinder-adsb reconnect-modem.py[467]: PING 8.8.8.8 (8.8.8.8) from 10.61.254.52 wwan0: 0(28) bytes of data.
+Nov 17 13:36:10 ravinder-adsb reconnect-modem.py[467]: 8 bytes from 8.8.8.8: icmp_seq=1 ttl=114
+Nov 17 13:36:10 ravinder-adsb reconnect-modem.py[467]: --- 8.8.8.8 ping statistics ---
+Nov 17 13:36:10 ravinder-adsb reconnect-modem.py[467]: 1 packets transmitted, 1 received, 0% packet loss, time 0ms
+Nov 17 13:36:10 ravinder-adsb reconnect-modem.py[467]: PING 103.171.84.166 (103.171.84.166) 0(28) bytes of data.
+Nov 17 13:36:10 ravinder-adsb reconnect-modem.py[467]: 8 bytes from 103.171.84.166: icmp_seq=1 ttl=52
+Nov 17 13:36:10 ravinder-adsb reconnect-modem.py[467]: --- 103.171.84.166 ping statistics ---
+Nov 17 13:36:10 ravinder-adsb reconnect-modem.py[467]: 1 packets transmitted, 1 received, 0% packet loss, time 0ms
+Nov 17 13:36:15 ravinder-adsb reconnect-modem.py[467]: PING 8.8.8.8 (8.8.8.8) from 10.61.254.52 wwan0: 0(28) bytes of data.
+Nov 17 13:36:15 ravinder-adsb reconnect-modem.py[467]: 8 bytes from 8.8.8.8: icmp_seq=1 ttl=114
+Nov 17 13:36:15 ravinder-adsb reconnect-modem.py[467]: --- 8.8.8.8 ping statistics ---
+Nov 17 13:36:15 ravinder-adsb reconnect-modem.py[467]: 1 packets transmitted, 1 received, 0% packet loss, time 0ms
+Nov 17 13:36:15 ravinder-adsb reconnect-modem.py[467]: PING 103.171.84.166 (103.171.84.166) 0(28) bytes of data.
+Nov 17 13:36:15 ravinder-adsb reconnect-modem.py[467]: 8 bytes from 103.171.84.166: icmp_seq=1 ttl=52
+Nov 17 13:36:15 ravinder-adsb reconnect-modem.py[467]: --- 103.171.84.166 ping statistics ---
+Nov 17 13:36:15 ravinder-adsb reconnect-modem.py[467]: 1 packets transmitted, 1 received, 0% packet loss, time 0ms
+Nov 17 13:36:20 ravinder-adsb reconnect-modem.py[467]: PING 8.8.8.8 (8.8.8.8) from 10.61.254.52 wwan0: 0(28) bytes of data.
+Nov 17 13:36:20 ravinder-adsb reconnect-modem.py[467]: 8 bytes from 8.8.8.8: icmp_seq=1 ttl=114
+Nov 17 13:36:20 ravinder-adsb reconnect-modem.py[467]: --- 8.8.8.8 ping statistics ---
+Nov 17 13:36:20 ravinder-adsb reconnect-modem.py[467]: 1 packets transmitted, 1 received, 0% packet loss, time 0ms
+Nov 17 13:36:20 ravinder-adsb reconnect-modem.py[467]: PING 103.171.84.166 (103.171.84.166) 0(28) bytes of data.
+Nov 17 13:36:20 ravinder-adsb reconnect-modem.py[467]: 8 bytes from 103.171.84.166: icmp_seq=1 ttl=52
+Nov 17 13:36:20 ravinder-adsb reconnect-modem.py[467]: --- 103.171.84.166 ping statistics ---
+Nov 17 13:36:20 ravinder-adsb reconnect-modem.py[467]: 1 packets transmitted, 1 received, 0% packet loss, time 0ms
+Nov 17 13:36:25 ravinder-adsb reconnect-modem.py[467]: PING 8.8.8.8 (8.8.8.8) from 10.61.254.52 wwan0: 0(28) bytes of data.
+Nov 17 13:36:25 ravinder-adsb reconnect-modem.py[467]: 8 bytes from 8.8.8.8: icmp_seq=1 ttl=114
+Nov 17 13:36:25 ravinder-adsb reconnect-modem.py[467]: --- 8.8.8.8 ping statistics ---
+Nov 17 13:36:25 ravinder-adsb reconnect-modem.py[467]: 1 packets transmitted, 1 received, 0% packet loss, time 0ms
+Nov 17 13:36:25 ravinder-adsb reconnect-modem.py[467]: PING 103.171.84.166 (103.171.84.166) 0(28) bytes of data.
+Nov 17 13:36:25 ravinder-adsb reconnect-modem.py[467]: 8 bytes from 103.171.84.166: icmp_seq=1 ttl=52
+Nov 17 13:36:25 ravinder-adsb reconnect-modem.py[467]: --- 103.171.84.166 ping statistics ---
+Nov 17 13:36:25 ravinder-adsb reconnect-modem.py[467]: 1 packets transmitted, 1 received, 0% packet loss, time 0ms
+Nov 17 13:36:30 ravinder-adsb reconnect-modem.py[467]: PING 8.8.8.8 (8.8.8.8) from 10.61.254.52 wwan0: 0(28) bytes of data.
+Nov 17 13:36:30 ravinder-adsb reconnect-modem.py[467]: 8 bytes from 8.8.8.8: icmp_seq=1 ttl=114
+Nov 17 13:36:30 ravinder-adsb reconnect-modem.py[467]: --- 8.8.8.8 ping statistics ---
+Nov 17 13:36:30 ravinder-adsb reconnect-modem.py[467]: 1 packets transmitted, 1 received, 0% packet loss, time 0ms
+Nov 17 13:36:30 ravinder-adsb reconnect-modem.py[467]: PING 103.171.84.166 (103.171.84.166) 0(28) bytes of data.
+Nov 17 13:36:30 ravinder-adsb reconnect-modem.py[467]: 8 bytes from 103.171.84.166: icmp_seq=1 ttl=52
+Nov 17 13:36:30 ravinder-adsb reconnect-modem.py[467]: --- 103.171.84.166 ping statistics ---
+Nov 17 13:36:30 ravinder-adsb reconnect-modem.py[467]: 1 packets transmitted, 1 received, 0% packet loss, time 0ms
+Nov 17 13:36:35 ravinder-adsb reconnect-modem.py[467]: PING 8.8.8.8 (8.8.8.8) from 10.61.254.52 wwan0: 0(28) bytes of data.
+Nov 17 13:36:35 ravinder-adsb reconnect-modem.py[467]: 8 bytes from 8.8.8.8: icmp_seq=1 ttl=114
+Nov 17 13:36:35 ravinder-adsb reconnect-modem.py[467]: --- 8.8.8.8 ping statistics ---
+Nov 17 13:36:35 ravinder-adsb reconnect-modem.py[467]: 1 packets transmitted, 1 received, 0% packet loss, time 0ms
+Nov 17 13:36:35 ravinder-adsb reconnect-modem.py[467]: PING 103.171.84.166 (103.171.84.166) 0(28) bytes of data.
+Nov 17 13:36:35 ravinder-adsb reconnect-modem.py[467]: 8 bytes from 103.171.84.166: icmp_seq=1 ttl=52
+Nov 17 13:36:35 ravinder-adsb reconnect-modem.py[467]: --- 103.171.84.166 ping statistics ---
+Nov 17 13:36:35 ravinder-adsb reconnect-modem.py[467]: 1 packets transmitted, 1 received, 0% packet loss, time 0ms
+Nov 17 13:36:40 ravinder-adsb reconnect-modem.py[467]: PING 8.8.8.8 (8.8.8.8) from 10.61.254.52 wwan0: 0(28) bytes of data.
+Nov 17 13:36:40 ravinder-adsb reconnect-modem.py[467]: 8 bytes from 8.8.8.8: icmp_seq=1 ttl=114
+Nov 17 13:36:40 ravinder-adsb reconnect-modem.py[467]: --- 8.8.8.8 ping statistics ---
+Nov 17 13:36:40 ravinder-adsb reconnect-modem.py[467]: 1 packets transmitted, 1 received, 0% packet loss, time 0ms
+Nov 17 13:36:40 ravinder-adsb reconnect-modem.py[467]: PING 103.171.84.166 (103.171.84.166) 0(28) bytes of data.
+Nov 17 13:36:40 ravinder-adsb reconnect-modem.py[467]: 8 bytes from 103.171.84.166: icmp_seq=1 ttl=52
+Nov 17 13:36:40 ravinder-adsb reconnect-modem.py[467]: --- 103.171.84.166 ping statistics ---
+Nov 17 13:36:40 ravinder-adsb reconnect-modem.py[467]: 1 packets transmitted, 1 received, 0% packet loss, time 0ms
+Nov 17 13:36:45 ravinder-adsb reconnect-modem.py[467]: PING 8.8.8.8 (8.8.8.8) from 10.61.254.52 wwan0: 0(28) bytes of data.
+Nov 17 13:36:45 ravinder-adsb reconnect-modem.py[467]: 8 bytes from 8.8.8.8: icmp_seq=1 ttl=114
+Nov 17 13:36:45 ravinder-adsb reconnect-modem.py[467]: --- 8.8.8.8 ping statistics ---
+Nov 17 13:36:45 ravinder-adsb reconnect-modem.py[467]: 1 packets transmitted, 1 received, 0% packet loss, time 0ms
+Nov 17 13:36:45 ravinder-adsb reconnect-modem.py[467]: PING 103.171.84.166 (103.171.84.166) 0(28) bytes of data.
+Nov 17 13:36:45 ravinder-adsb reconnect-modem.py[467]: 8 bytes from 103.171.84.166: icmp_seq=1 ttl=52
+Nov 17 13:36:45 ravinder-adsb reconnect-modem.py[467]: --- 103.171.84.166 ping statistics ---
+Nov 17 13:36:45 ravinder-adsb reconnect-modem.py[467]: 1 packets transmitted, 1 received, 0% packet loss, time 0ms
+Nov 17 13:36:51 ravinder-adsb reconnect-modem.py[467]: PING 8.8.8.8 (8.8.8.8) from 10.61.254.52 wwan0: 0(28) bytes of data.
+Nov 17 13:36:51 ravinder-adsb reconnect-modem.py[467]: 8 bytes from 8.8.8.8: icmp_seq=1 ttl=114
+Nov 17 13:36:51 ravinder-adsb reconnect-modem.py[467]: --- 8.8.8.8 ping statistics ---
+Nov 17 13:36:51 ravinder-adsb reconnect-modem.py[467]: 1 packets transmitted, 1 received, 0% packet loss, time 0ms
+Nov 17 13:36:51 ravinder-adsb reconnect-modem.py[467]: PING 103.171.84.166 (103.171.84.166) 0(28) bytes of data.
+Nov 17 13:36:51 ravinder-adsb reconnect-modem.py[467]: 8 bytes from 103.171.84.166: icmp_seq=1 ttl=52
+Nov 17 13:36:51 ravinder-adsb reconnect-modem.py[467]: --- 103.171.84.166 ping statistics ---
+Nov 17 13:36:51 ravinder-adsb reconnect-modem.py[467]: 1 packets transmitted, 1 received, 0% packet loss, time 0ms
+Nov 17 13:36:56 ravinder-adsb reconnect-modem.py[467]: PING 8.8.8.8 (8.8.8.8) from 10.61.254.52 wwan0: 0(28) bytes of data.
+Nov 17 13:36:56 ravinder-adsb reconnect-modem.py[467]: 8 bytes from 8.8.8.8: icmp_seq=1 ttl=114
+Nov 17 13:36:56 ravinder-adsb reconnect-modem.py[467]: --- 8.8.8.8 ping statistics ---
+Nov 17 13:36:56 ravinder-adsb reconnect-modem.py[467]: 1 packets transmitted, 1 received, 0% packet loss, time 0ms
+Nov 17 13:36:56 ravinder-adsb reconnect-modem.py[467]: PING 103.171.84.166 (103.171.84.166) 0(28) bytes of data.
+Nov 17 13:36:56 ravinder-adsb reconnect-modem.py[467]: 8 bytes from 103.171.84.166: icmp_seq=1 ttl=52
+Nov 17 13:36:56 ravinder-adsb reconnect-modem.py[467]: --- 103.171.84.166 ping statistics ---
+Nov 17 13:36:56 ravinder-adsb reconnect-modem.py[467]: 1 packets transmitted, 1 received, 0% packet loss, time 0ms
+Nov 17 13:37:01 ravinder-adsb reconnect-modem.py[467]: PING 8.8.8.8 (8.8.8.8) from 10.61.254.52 wwan0: 0(28) bytes of data.
+Nov 17 13:37:01 ravinder-adsb reconnect-modem.py[467]: 8 bytes from 8.8.8.8: icmp_seq=1 ttl=114
+Nov 17 13:37:01 ravinder-adsb reconnect-modem.py[467]: --- 8.8.8.8 ping statistics ---
+Nov 17 13:37:01 ravinder-adsb reconnect-modem.py[467]: 1 packets transmitted, 1 received, 0% packet loss, time 0ms
+Nov 17 13:37:01 ravinder-adsb reconnect-modem.py[467]: PING 103.171.84.166 (103.171.84.166) 0(28) bytes of data.
+Nov 17 13:37:01 ravinder-adsb reconnect-modem.py[467]: 8 bytes from 103.171.84.166: icmp_seq=1 ttl=52
+Nov 17 13:37:01 ravinder-adsb reconnect-modem.py[467]: --- 103.171.84.166 ping statistics ---
+Nov 17 13:37:01 ravinder-adsb reconnect-modem.py[467]: 1 packets transmitted, 1 received, 0% packet loss, time 0ms
+Nov 17 13:37:06 ravinder-adsb reconnect-modem.py[467]: PING 8.8.8.8 (8.8.8.8) from 10.61.254.52 wwan0: 0(28) bytes of data.
+Nov 17 13:37:06 ravinder-adsb reconnect-modem.py[467]: 8 bytes from 8.8.8.8: icmp_seq=1 ttl=114
+Nov 17 13:37:06 ravinder-adsb reconnect-modem.py[467]: --- 8.8.8.8 ping statistics ---
+Nov 17 13:37:06 ravinder-adsb reconnect-modem.py[467]: 1 packets transmitted, 1 received, 0% packet loss, time 0ms
+Nov 17 13:37:06 ravinder-adsb reconnect-modem.py[467]: PING 103.171.84.166 (103.171.84.166) 0(28) bytes of data.
+Nov 17 13:37:06 ravinder-adsb reconnect-modem.py[467]: 8 bytes from 103.171.84.166: icmp_seq=1 ttl=52
+Nov 17 13:37:06 ravinder-adsb reconnect-modem.py[467]: --- 103.171.84.166 ping statistics ---
+Nov 17 13:37:06 ravinder-adsb reconnect-modem.py[467]: 1 packets transmitted, 1 received, 0% packet loss, time 0ms
+Nov 17 13:37:11 ravinder-adsb reconnect-modem.py[467]: PING 8.8.8.8 (8.8.8.8) from 10.61.254.52 wwan0: 0(28) bytes of data.
+Nov 17 13:37:11 ravinder-adsb reconnect-modem.py[467]: 8 bytes from 8.8.8.8: icmp_seq=1 ttl=114
+Nov 17 13:37:11 ravinder-adsb reconnect-modem.py[467]: --- 8.8.8.8 ping statistics ---
+Nov 17 13:37:11 ravinder-adsb reconnect-modem.py[467]: 1 packets transmitted, 1 received, 0% packet loss, time 0ms
+Nov 17 13:37:11 ravinder-adsb reconnect-modem.py[467]: PING 103.171.84.166 (103.171.84.166) 0(28) bytes of data.
+Nov 17 13:37:11 ravinder-adsb reconnect-modem.py[467]: 8 bytes from 103.171.84.166: icmp_seq=1 ttl=52
+Nov 17 13:37:11 ravinder-adsb reconnect-modem.py[467]: --- 103.171.84.166 ping statistics ---
+Nov 17 13:37:11 ravinder-adsb reconnect-modem.py[467]: 1 packets transmitted, 1 received, 0% packet loss, time 0ms
+Nov 17 13:37:16 ravinder-adsb reconnect-modem.py[467]: PING 8.8.8.8 (8.8.8.8) from 10.61.254.52 wwan0: 0(28) bytes of data.
+Nov 17 13:37:16 ravinder-adsb reconnect-modem.py[467]: 8 bytes from 8.8.8.8: icmp_seq=1 ttl=114
+Nov 17 13:37:16 ravinder-adsb reconnect-modem.py[467]: --- 8.8.8.8 ping statistics ---
+Nov 17 13:37:16 ravinder-adsb reconnect-modem.py[467]: 1 packets transmitted, 1 received, 0% packet loss, time 0ms
+Nov 17 13:37:16 ravinder-adsb reconnect-modem.py[467]: PING 103.171.84.166 (103.171.84.166) 0(28) bytes of data.
+Nov 17 13:37:16 ravinder-adsb reconnect-modem.py[467]: 8 bytes from 103.171.84.166: icmp_seq=1 ttl=52
+Nov 17 13:37:16 ravinder-adsb reconnect-modem.py[467]: --- 103.171.84.166 ping statistics ---
+Nov 17 13:37:16 ravinder-adsb reconnect-modem.py[467]: 1 packets transmitted, 1 received, 0% packet loss, time 0ms
+Nov 17 13:37:21 ravinder-adsb reconnect-modem.py[467]: PING 8.8.8.8 (8.8.8.8) from 10.61.254.52 wwan0: 0(28) bytes of data.
+Nov 17 13:37:21 ravinder-adsb reconnect-modem.py[467]: 8 bytes from 8.8.8.8: icmp_seq=1 ttl=114
+Nov 17 13:37:21 ravinder-adsb reconnect-modem.py[467]: --- 8.8.8.8 ping statistics ---
+Nov 17 13:37:21 ravinder-adsb reconnect-modem.py[467]: 1 packets transmitted, 1 received, 0% packet loss, time 0ms
+Nov 17 13:37:21 ravinder-adsb reconnect-modem.py[467]: PING 103.171.84.166 (103.171.84.166) 0(28) bytes of data.
+Nov 17 13:37:21 ravinder-adsb reconnect-modem.py[467]: 8 bytes from 103.171.84.166: icmp_seq=1 ttl=52
+Nov 17 13:37:21 ravinder-adsb reconnect-modem.py[467]: --- 103.171.84.166 ping statistics ---
+Nov 17 13:37:21 ravinder-adsb reconnect-modem.py[467]: 1 packets transmitted, 1 received, 0% packet loss, time 0ms
+Nov 17 13:37:26 ravinder-adsb reconnect-modem.py[467]: PING 8.8.8.8 (8.8.8.8) from 10.61.254.52 wwan0: 0(28) bytes of data.
+Nov 17 13:37:26 ravinder-adsb reconnect-modem.py[467]: 8 bytes from 8.8.8.8: icmp_seq=1 ttl=114
+Nov 17 13:37:26 ravinder-adsb reconnect-modem.py[467]: --- 8.8.8.8 ping statistics ---
+Nov 17 13:37:26 ravinder-adsb reconnect-modem.py[467]: 1 packets transmitted, 1 received, 0% packet loss, time 0ms
+Nov 17 13:37:26 ravinder-adsb reconnect-modem.py[467]: PING 103.171.84.166 (103.171.84.166) 0(28) bytes of data.
+Nov 17 13:37:26 ravinder-adsb reconnect-modem.py[467]: 8 bytes from 103.171.84.166: icmp_seq=1 ttl=52
+Nov 17 13:37:26 ravinder-adsb reconnect-modem.py[467]: --- 103.171.84.166 ping statistics ---
+Nov 17 13:37:26 ravinder-adsb reconnect-modem.py[467]: 1 packets transmitted, 1 received, 0% packet loss, time 0ms
+Nov 17 13:37:31 ravinder-adsb reconnect-modem.py[467]: PING 8.8.8.8 (8.8.8.8) from 10.61.254.52 wwan0: 0(28) bytes of data.
+Nov 17 13:37:31 ravinder-adsb reconnect-modem.py[467]: 8 bytes from 8.8.8.8: icmp_seq=1 ttl=114
+Nov 17 13:37:31 ravinder-adsb reconnect-modem.py[467]: --- 8.8.8.8 ping statistics ---
+Nov 17 13:37:31 ravinder-adsb reconnect-modem.py[467]: 1 packets transmitted, 1 received, 0% packet loss, time 0ms
+Nov 17 13:37:31 ravinder-adsb reconnect-modem.py[467]: PING 103.171.84.166 (103.171.84.166) 0(28) bytes of data.
+Nov 17 13:37:31 ravinder-adsb reconnect-modem.py[467]: 8 bytes from 103.171.84.166: icmp_seq=1 ttl=52
+Nov 17 13:37:31 ravinder-adsb reconnect-modem.py[467]: --- 103.171.84.166 ping statistics ---
+Nov 17 13:37:31 ravinder-adsb reconnect-modem.py[467]: 1 packets transmitted, 1 received, 0% packet loss, time 0ms
+Nov 17 13:37:36 ravinder-adsb reconnect-modem.py[467]: PING 8.8.8.8 (8.8.8.8) from 10.61.254.52 wwan0: 0(28) bytes of data.
+Nov 17 13:37:36 ravinder-adsb reconnect-modem.py[467]: 8 bytes from 8.8.8.8: icmp_seq=1 ttl=114
+Nov 17 13:37:37 ravinder-adsb reconnect-modem.py[467]: --- 8.8.8.8 ping statistics ---
+Nov 17 13:37:37 ravinder-adsb reconnect-modem.py[467]: 1 packets transmitted, 1 received, 0% packet loss, time 0ms
+Nov 17 13:37:37 ravinder-adsb reconnect-modem.py[467]: PING 103.171.84.166 (103.171.84.166) 0(28) bytes of data.
+Nov 17 13:37:37 ravinder-adsb reconnect-modem.py[467]: 8 bytes from 103.171.84.166: icmp_seq=1 ttl=52
+Nov 17 13:37:37 ravinder-adsb reconnect-modem.py[467]: --- 103.171.84.166 ping statistics ---
+Nov 17 13:37:37 ravinder-adsb reconnect-modem.py[467]: 1 packets transmitted, 1 received, 0% packet loss, time 0ms
+Nov 17 13:37:42 ravinder-adsb reconnect-modem.py[467]: PING 8.8.8.8 (8.8.8.8) from 10.61.254.52 wwan0: 0(28) bytes of data.
+Nov 17 13:37:42 ravinder-adsb reconnect-modem.py[467]: 8 bytes from 8.8.8.8: icmp_seq=1 ttl=114
+Nov 17 13:37:42 ravinder-adsb reconnect-modem.py[467]: --- 8.8.8.8 ping statistics ---
+Nov 17 13:37:42 ravinder-adsb reconnect-modem.py[467]: 1 packets transmitted, 1 received, 0% packet loss, time 0ms
+Nov 17 13:37:42 ravinder-adsb reconnect-modem.py[467]: PING 103.171.84.166 (103.171.84.166) 0(28) bytes of data.
+Nov 17 13:37:42 ravinder-adsb reconnect-modem.py[467]: 8 bytes from 103.171.84.166: icmp_seq=1 ttl=52
+Nov 17 13:37:42 ravinder-adsb reconnect-modem.py[467]: --- 103.171.84.166 ping statistics ---
+Nov 17 13:37:42 ravinder-adsb reconnect-modem.py[467]: 1 packets transmitted, 1 received, 0% packet loss, time 0ms
+Nov 17 13:37:47 ravinder-adsb reconnect-modem.py[467]: PING 8.8.8.8 (8.8.8.8) from 10.61.254.52 wwan0: 0(28) bytes of data.
+Nov 17 13:37:47 ravinder-adsb reconnect-modem.py[467]: 8 bytes from 8.8.8.8: icmp_seq=1 ttl=114
+Nov 17 13:37:47 ravinder-adsb reconnect-modem.py[467]: --- 8.8.8.8 ping statistics ---
+Nov 17 13:37:47 ravinder-adsb reconnect-modem.py[467]: 1 packets transmitted, 1 received, 0% packet loss, time 0ms
+Nov 17 13:37:47 ravinder-adsb reconnect-modem.py[467]: PING 103.171.84.166 (103.171.84.166) 0(28) bytes of data.
+Nov 17 13:37:47 ravinder-adsb reconnect-modem.py[467]: 8 bytes from 103.171.84.166: icmp_seq=1 ttl=52
+Nov 17 13:37:47 ravinder-adsb reconnect-modem.py[467]: --- 103.171.84.166 ping statistics ---
+Nov 17 13:37:47 ravinder-adsb reconnect-modem.py[467]: 1 packets transmitted, 1 received, 0% packet loss, time 0ms
+Nov 17 13:37:52 ravinder-adsb reconnect-modem.py[467]: PING 8.8.8.8 (8.8.8.8) from 10.61.254.52 wwan0: 0(28) bytes of data.
+Nov 17 13:37:52 ravinder-adsb reconnect-modem.py[467]: 8 bytes from 8.8.8.8: icmp_seq=1 ttl=114
+Nov 17 13:37:52 ravinder-adsb reconnect-modem.py[467]: --- 8.8.8.8 ping statistics ---
+Nov 17 13:37:52 ravinder-adsb reconnect-modem.py[467]: 1 packets transmitted, 1 received, 0% packet loss, time 0ms
+Nov 17 13:37:52 ravinder-adsb reconnect-modem.py[467]: PING 103.171.84.166 (103.171.84.166) 0(28) bytes of data.
+Nov 17 13:37:52 ravinder-adsb reconnect-modem.py[467]: 8 bytes from 103.171.84.166: icmp_seq=1 ttl=52
+Nov 17 13:37:52 ravinder-adsb reconnect-modem.py[467]: --- 103.171.84.166 ping statistics ---
+Nov 17 13:37:52 ravinder-adsb reconnect-modem.py[467]: 1 packets transmitted, 1 received, 0% packet loss, time 0ms
+Nov 17 13:37:57 ravinder-adsb reconnect-modem.py[467]: PING 8.8.8.8 (8.8.8.8) from 10.61.254.52 wwan0: 0(28) bytes of data.
+Nov 17 13:37:57 ravinder-adsb reconnect-modem.py[467]: 8 bytes from 8.8.8.8: icmp_seq=1 ttl=114
+Nov 17 13:37:57 ravinder-adsb reconnect-modem.py[467]: --- 8.8.8.8 ping statistics ---
+Nov 17 13:37:57 ravinder-adsb reconnect-modem.py[467]: 1 packets transmitted, 1 received, 0% packet loss, time 0ms
+Nov 17 13:37:57 ravinder-adsb reconnect-modem.py[467]: PING 103.171.84.166 (103.171.84.166) 0(28) bytes of data.
+Nov 17 13:37:57 ravinder-adsb reconnect-modem.py[467]: 8 bytes from 103.171.84.166: icmp_seq=1 ttl=52
+Nov 17 13:37:57 ravinder-adsb reconnect-modem.py[467]: --- 103.171.84.166 ping statistics ---
+Nov 17 13:37:57 ravinder-adsb reconnect-modem.py[467]: 1 packets transmitted, 1 received, 0% packet loss, time 0ms
+Nov 17 13:38:02 ravinder-adsb reconnect-modem.py[467]: PING 8.8.8.8 (8.8.8.8) from 10.61.254.52 wwan0: 0(28) bytes of data.
+Nov 17 13:38:02 ravinder-adsb reconnect-modem.py[467]: 8 bytes from 8.8.8.8: icmp_seq=1 ttl=114
+Nov 17 13:38:02 ravinder-adsb reconnect-modem.py[467]: --- 8.8.8.8 ping statistics ---
+Nov 17 13:38:02 ravinder-adsb reconnect-modem.py[467]: 1 packets transmitted, 1 received, 0% packet loss, time 0ms
+Nov 17 13:38:02 ravinder-adsb reconnect-modem.py[467]: PING 103.171.84.166 (103.171.84.166) 0(28) bytes of data.
+Nov 17 13:38:02 ravinder-adsb reconnect-modem.py[467]: 8 bytes from 103.171.84.166: icmp_seq=1 ttl=52
+Nov 17 13:38:02 ravinder-adsb reconnect-modem.py[467]: --- 103.171.84.166 ping statistics ---
+Nov 17 13:38:02 ravinder-adsb reconnect-modem.py[467]: 1 packets transmitted, 1 received, 0% packet loss, time 0ms
+Nov 17 13:38:07 ravinder-adsb reconnect-modem.py[467]: PING 8.8.8.8 (8.8.8.8) from 10.61.254.52 wwan0: 0(28) bytes of data.
+Nov 17 13:38:07 ravinder-adsb reconnect-modem.py[467]: 8 bytes from 8.8.8.8: icmp_seq=1 ttl=114
+Nov 17 13:38:07 ravinder-adsb reconnect-modem.py[467]: --- 8.8.8.8 ping statistics ---
+Nov 17 13:38:07 ravinder-adsb reconnect-modem.py[467]: 1 packets transmitted, 1 received, 0% packet loss, time 0ms
+Nov 17 13:38:07 ravinder-adsb reconnect-modem.py[467]: PING 103.171.84.166 (103.171.84.166) 0(28) bytes of data.
+Nov 17 13:38:07 ravinder-adsb reconnect-modem.py[467]: 8 bytes from 103.171.84.166: icmp_seq=1 ttl=52
+Nov 17 13:38:07 ravinder-adsb reconnect-modem.py[467]: --- 103.171.84.166 ping statistics ---
+Nov 17 13:38:07 ravinder-adsb reconnect-modem.py[467]: 1 packets transmitted, 1 received, 0% packet loss, time 0ms
+Nov 17 13:38:12 ravinder-adsb reconnect-modem.py[467]: PING 8.8.8.8 (8.8.8.8) from 10.61.254.52 wwan0: 0(28) bytes of data.
+Nov 17 13:38:12 ravinder-adsb reconnect-modem.py[467]: 8 bytes from 8.8.8.8: icmp_seq=1 ttl=114
+Nov 17 13:38:12 ravinder-adsb reconnect-modem.py[467]: --- 8.8.8.8 ping statistics ---
+Nov 17 13:38:12 ravinder-adsb reconnect-modem.py[467]: 1 packets transmitted, 1 received, 0% packet loss, time 0ms
+Nov 17 13:38:12 ravinder-adsb reconnect-modem.py[467]: PING 103.171.84.166 (103.171.84.166) 0(28) bytes of data.
+Nov 17 13:38:12 ravinder-adsb reconnect-modem.py[467]: 8 bytes from 103.171.84.166: icmp_seq=1 ttl=52
+Nov 17 13:38:12 ravinder-adsb reconnect-modem.py[467]: --- 103.171.84.166 ping statistics ---
+Nov 17 13:38:12 ravinder-adsb reconnect-modem.py[467]: 1 packets transmitted, 1 received, 0% packet loss, time 0ms
+Nov 17 13:38:17 ravinder-adsb reconnect-modem.py[467]: PING 8.8.8.8 (8.8.8.8) from 10.61.254.52 wwan0: 0(28) bytes of data.
+Nov 17 13:38:17 ravinder-adsb reconnect-modem.py[467]: 8 bytes from 8.8.8.8: icmp_seq=1 ttl=114
+Nov 17 13:38:17 ravinder-adsb reconnect-modem.py[467]: --- 8.8.8.8 ping statistics ---
+Nov 17 13:38:17 ravinder-adsb reconnect-modem.py[467]: 1 packets transmitted, 1 received, 0% packet loss, time 0ms
+Nov 17 13:38:17 ravinder-adsb reconnect-modem.py[467]: PING 103.171.84.166 (103.171.84.166) 0(28) bytes of data.
+Nov 17 13:38:17 ravinder-adsb reconnect-modem.py[467]: 8 bytes from 103.171.84.166: icmp_seq=1 ttl=52
+Nov 17 13:38:17 ravinder-adsb reconnect-modem.py[467]: --- 103.171.84.166 ping statistics ---
+Nov 17 13:38:17 ravinder-adsb reconnect-modem.py[467]: 1 packets transmitted, 1 received, 0% packet loss, time 0ms
+Nov 17 13:38:22 ravinder-adsb reconnect-modem.py[467]: PING 8.8.8.8 (8.8.8.8) from 10.61.254.52 wwan0: 0(28) bytes of data.
